@@ -1,0 +1,500 @@
+nonsense: Don't talk nonsense; you know that's not true.
+
+noon: The sun is strongest at noon.
+
+nor: I don't like coffee, nor do I like tea.
+
+norm: Individual achievement is the norm in this company.
+
+normal: The weather has returned to normal after the storm.
+
+normalization: The normalization of relations between the two countries took years.
+
+normalize: The government is trying to normalize the economic situation.
+
+normally: I normally go to the gym after work.
+
+north: The compass needle points to the north.
+
+northeast: The city is located in the northeast part of the country.
+
+northern: The northern part of the country is mostly mountains.
+
+northward: They continued their journey northward across the tundra.
+
+northwest: The storm is moving towards the northwest.
+
+nose: He wiped the sweat from his nose.
+
+nostril: The horse's nostrils flared as it ran.
+
+not: I'm not going to the party tonight.
+
+notable: The book received notable praise from critics.
+
+notably: The economy has grown notably over the past year.
+
+note: Please take notes during the lecture.
+
+notebook: I write all my ideas down in a small notebook.
+
+noted: He is a noted expert in the field of modern history.
+
+note-taking: Good note-taking skills are essential for university students.
+
+nothing: I have nothing to say to him.
+
+notice: I didn't notice that the door was open.
+
+noticeable: There has been a noticeable improvement in his health.
+
+notification: I received a notification from the bank yesterday.
+
+notify: Please notify me as soon as the results are available.
+
+notion: He has a strange notion that the earth is flat.
+
+notorious: The city is notorious for its high crime rate.
+
+notwithstanding: Notwithstanding the rain, the game went ahead as scheduled.
+
+nought: Three multiplied by nought equals nought.
+
+noun: In the sentence 'The cat sat on the mat', 'cat' and 'mat' are nouns.
+
+nourish: Children need good food to nourish their bodies and minds.
+
+nourishment: Plants get their nourishment from the soil and sunlight.
+
+novel: She has written three historical novels set in the 19th century.
+
+novelist: Charles Dickens is one of the most famous novelists in history.
+
+novelette: The author published a short novelette in a literary magazine.
+
+novelty: The new gadget was a great novelty when it first came out.
+
+November: Thanksgiving is celebrated in November.
+
+now: What are you doing right now?
+
+nowadays: Nowadays, most people use the internet to stay in touch.
+
+nowhere: I could find my keys nowhere.
+
+nuclear: The country is developing its nuclear energy program.
+
+nucleus: The nucleus of the atom contains protons and neutrons.
+
+nuisance: The constant noise from the street was a real nuisance.
+
+nullify: The new law will nullify all previous agreements.
+
+number: I wrote down his phone number on a piece of paper.
+
+numerical: The data is arranged in numerical order.
+
+numerous: He has made numerous contributions to the field of science.
+
+nun: The nun spent her life in service to the community.
+
+nurse: The nurse checked the patient's blood pressure.
+
+nursery: The child goes to a nursery while his parents are at work.
+
+nut: I like to have a handful of nuts as a snack.
+
+nylon: The tent is made of a strong and lightweight nylon material.
+
+oak: The old oak tree stood high above the forest floor.
+
+oar: The rowers pulled on the oars to move the boat.
+
+oath: The witness took an oath to tell the truth in court.
+
+obedience: The training program emphasizes the importance of obedience and discipline.
+
+obedient: The dog was very obedient and followed all my commands.
+
+obey: All citizens must obey the law.
+
+object: I object to your rude behavior.
+
+objection: I have no objection to your plan.
+
+objective: Our main objective is to finish the project on time.
+
+obligation: Parents have a legal obligation to take care of their children.
+
+oblige: I am much obliged to you for all your help.
+
+obliterate: The heavy rain served to obliterate the tracks in the mud.
+
+oblong: The table was in an oblong shape and fit perfectly in the room.
+
+obscure: The details of the event remain obscure and unclear.
+
+observance: The strict observance of the rules is essential for safety.
+
+observation: The patient is under constant observation in the hospital.
+
+observe: Scientists observe the behavior of animals in the wild.
+
+observer: The international observers monitored the election closely.
+
+obstacle: The high cost of living is a major obstacle to success.
+
+obstinate: He is very obstinate and won't listen to any advice.
+
+obstruction: The fallen tree caused an obstruction on the road.
+
+obtain: He managed to obtain a copy of the report.
+
+obtainable: The information is easily obtainable on the internet.
+
+obvious: It was obvious from his expression that he was unhappy.
+
+obviously: Obviously, we need to find a solution to this problem.
+
+occasion: We gathered together to celebrate the happy occasion.
+
+occasional: We made occasional trips to the city to visit our friends.
+
+occasionally: I occasionally go to the cinema on the weekends.
+
+occident: Occident refers to the countries of the Western world.
+
+occidental: She is studying Occidental languages and culture.
+
+occupation: What is your father's occupation?
+
+occupy: The enemy troops occupied the city for several months.
+
+occur: The accident occurred late at night on a dark road.
+
+occurrence: Traffic accidents are a common occurrence on this highway.
+
+ocean: The Atlantic Ocean is the second largest in the world.
+
+Oceania: Oceania includes Australia, New Zealand, and several Pacific islands.
+
+oceanography: She decided to study oceanography at university.
+
+o-clock: It's exactly five o-clock.
+
+October: Halloween is celebrated in October.
+
+odd: He is a very odd person who doesn't talk to anyone.
+
+odour: The air was filled with the sweet odour of jasmine.
+
+of: This is a photo of my family.
+
+off: Please turn the lights off before you leave.
+
+off-duty: The off-duty police officer witnessed the robbery.
+
+offence: Smoking in this building is a serious offence.
+
+offend: I didn't mean to offend you with my joke.
+
+offensive: His rude behavior was considered highly offensive.
+
+offer: They offered me a job with a very good salary.
+
+offering: The store has a wide variety of offerings for its customers.
+
+off-grade: The project was rejected because the materials were off-grade.
+
+office: He works in a large office building in the city center.
+
+officer: The police officer asked to see my ID.
+
+official: The official results of the election will be announced tomorrow.
+
+offset: The gains in sales helped to offset the increase in costs.
+
+offspring: The bird was busy feeding its young offspring.
+
+often: I often go for a walk in the park after dinner.
+
+oh: Oh! I didn't see you there.
+
+oil: The car needs an oil change.
+
+o.k.: Is it O.K. if I arrive a bit late?
+
+old: My grandfather is eighty years old.
+
+olive: I like to put black olives on my pizza.
+
+omen: Many people believe that a black cat is a bad omen.
+
+ominous: The dark clouds looked very ominous.
+
+omission: The report contained several major omissions.
+
+omit: Please don't omit any important details from the report.
+
+on: The book is on the table.
+
+once: I've only been to Paris once, but I'd love to go again.
+
+one: One must always be careful when crossing the street.
+
+oneself: It's important to be true to oneself.
+
+onion: I like to add chopped onions to my salad.
+
+only: She is the only person who knows the secret.
+
+onset: The onset of winter brought a sudden drop in temperature.
+
+onto: The cat jumped onto the table.
+
+onward: The explorers continued their onward journey across the desert.
+
+opal: She wore a beautiful ring set with a large opal.
+
+opaque: The windows were painted over with an opaque white paint.
+
+open: Please open the window and let some fresh air in.
+
+opener: I need a bottle opener to open this soda.
+
+opening: There is a job opening in the marketing department.
+
+opera: We went to see a performance of a famous Italian opera.
+
+operate: The machine is very simple to operate.
+
+operation: The rescue operation was a complete success.
+
+operational: The new airport will be fully operational by next month.
+
+operative: The new regulations are now operative.
+
+operator: The computer operator is responsible for maintaining the system.
+
+opinion: In my opinion, we should wait for more information.
+
+opium: The trade in opium was a major issue in the 19th century.
+
+opponent: The team faced a strong opponent in the final.
+
+opportune: The news arrived at a very opportune moment.
+
+opportunity: This is a great opportunity for you to gain some work experience.
+
+oppose: Many people oppose the new tax laws.
+
+opposite: The two sisters have completely opposite personalities.
+
+opposition: The proposal met with strong opposition from the local community.
+
+oppress: The people were oppressed by a ruthless dictator.
+
+oppression: The struggle against oppression has lasted for decades.
+
+optical: Microscopes and telescopes are examples of optical instruments.
+
+optimal: The scientists are looking for the optimal conditions for the experiment.
+
+optimism: She has a natural sense of optimism and hope for the future.
+
+optimistic: He is very optimistic about his chances of getting the job.
+
+optimize: We need to optimize our production process to reduce costs.
+
+optimum: The optimum temperature for the growth of these plants is 25 degrees.
+
+option: You have the option of staying or leaving.
+
+optional: The extra course is optional, but highly recommended.
+
+or: Would you like tea or coffee?
+
+oral: The students have an oral exam in Spanish tomorrow.
+
+orange: I had a fresh orange for breakfast.
+
+orbit: The Earth orbits the Sun once every year.
+
+orchard: The trees in the orchard were full of ripe apples.
+
+orchestra: The symphony orchestra performed a beautiful piece by Mozart.
+
+order: The soldiers followed the general's orders without question.
+
+orderly: The crowd moved in an orderly fashion towards the exit.
+
+ordinarily: Ordinarily, I would say yes, but I'm too busy today.
+
+ordinary: It was just an ordinary day at the office.
+
+ore: Iron ore is a major export for the country.
+
+organ: The heart is a vital organ of the human body.
+
+organic: We prefer to buy organic vegetables whenever possible.
+
+organism: Bacteria are very small single-celled organisms.
+
+organization: The World Health Organization is based in Geneva.
+
+organizational: He has excellent organizational skills.
+
+organize: She helped to organize the charity event.
+
+orient: New employees need time to orient themselves to the company's culture.
+
+oriental: The museum has a collection of fine Oriental art.
+
+orientation: The orientation of the map was slightly confusing.
+
+origin: The true origin of the universe remains a mystery.
+
+original: This is the original version of the manuscript.
+
+originality: The architect's design was praised for its originality and vision.
+
+originally: The house was originally built in the 18th century.
+
+originate: The tradition is believed to have originated in ancient China.
+
+ornament: The Christmas tree was covered in beautiful ornaments.
+
+ornamental: The garden is full of ornamental plants and flowers.
+
+orphan: The charity provides support for children who are orphans.
+
+oscillation: The oscillation of the pendulum was very steady.
+
+other: There are other factors to consider besides cost.
+
+otherwise: You should leave now; otherwise, you'll be late.
+
+ought: You ought to see a doctor about that cough.
+
+ounce: There are sixteen ounces in one pound.
+
+our: This is our new house.
+
+ourselves: We decided to fix the broken fence ourselves.
+
+out: The sun came out from behind the clouds.
+
+outbreak: The sudden outbreak of the disease caused a major crisis.
+
+outcome: The outcome of the election is still uncertain.
+
+outdoor: I enjoy outdoor activities like hiking and camping.
+
+outdoors: We decided to have our picnic outdoors.
+
+outer: The Earth's outer core is mostly liquid iron.
+
+outermost: Pluto was once considered the outermost planet in our solar system.
+
+outland: The tribe lived in the remote outland of the continent.
+
+outlandish: He has some very outlandish and strange ideas.
+
+outlaw: The government decided to outlaw smoking in public buildings.
+
+outlay: The initial outlay for the project was quite high.
+
+outlet: The internet is a great outlet for creative expression.
+
+outline: He gave a brief outline of the new project.
+
+outlook: His positive outlook on life is truly inspiring.
+
+output: The factory has increased its industrial output this year.
+
+outrage: The public showed widespread outrage at the government's decision.
+
+outrageous: The cost of the repairs was absolutely outrageous.
+
+outright: The proposal was met with an outright rejection.
+
+outset: We faced some difficulties at the very outset of the project.
+
+outside: Please wait for me outside the building.
+
+outsider: As an outsider, she found it hard to understand the local customs.
+
+outskirts: We live in a small village on the outskirts of London.
+
+outstanding: The young pianist gave an outstanding performance.
+
+outturn: The outturn of the harvest was better than expected this year.
+
+outward: There was no outward sign of his unhappiness.
+
+oval: The mirror has a beautiful oval shape.
+
+oven: She put the cake in the oven to bake.
+
+over: The meeting was over by 5 PM.
+
+overall: The overall quality of the product is very high.
+
+overcast: The sky was grey and overcast all day long.
+
+overcharge: The store realized they had overcharged me by five dollars.
+
+overcoat: He wore a thick woollen overcoat to keep warm.
+
+overcome: She managed to overcome her fear of heights.
+
+overestimate: It is easy to overestimate the amount of work required.
+
+overextend: Don't overextend yourself by taking on too many projects.
+
+overflow: The river began to overflow its banks after the heavy rain.
+
+overhead: A plane flew overhead as we were talking.
+
+overhear: I happened to overhear their conversation at the next table.
+
+overjoy: She was overjoyed to hear the good news.
+
+overlap: Our schedules overlap on Wednesday afternoons.
+
+overlapping: The two maps have several overlapping areas.
+
+overload: Be careful not to overload the electrical circuit.
+
+overlook: Our hotel room overlooked the beautiful ocean.
+
+overnight: The decision was made overnight and caught everyone by surprise.
+
+overpayment: The bank corrected the overpayment to my account.
+
+overseas: He is currently working overseas in Singapore.
+
+oversight: The error was due to a simple administrative oversight.
+
+overtake: The car accelerated to overtake the slow-moving truck.
+
+overthrow: The people fought for years to overthrow the dictatorship.
+
+overtime: He worked three hours of overtime yesterday.
+
+overwhelm: She was overwhelmed by the kindness shown to her.
+
+overwhelming: The proposal received overwhelming support from the committee.
+
+owe: I owe you ten dollars for the movie ticket.
+
+owing: There is still a small balance owing on your account.
+
+owl: We saw an owl sitting on a tree branch late at night.
+
+own: He decided to start his own business.
+
+owner: Who is the owner of this beautiful house?
+
+ownership: The company's ownership has changed several times over the years.
+

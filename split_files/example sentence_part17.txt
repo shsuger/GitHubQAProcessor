@@ -1,0 +1,500 @@
+labor-intensive: Rice farming is a very labor-intensive process.
+
+lace: She wore a beautiful dress decorated with delicate white lace.
+
+lack: The company's failure was due to a lack of communication.
+
+lad: He was a bright and energetic young lad.
+
+ladder: He used a ladder to reach the top of the bookshelf.
+
+lady: The lady who lives next door is very friendly.
+
+lag: The company's technology began to lag behind its competitors.
+
+lake: We went for a boat ride on the quiet lake.
+
+lamb: The little lamb was following its mother across the field.
+
+lame: The horse was lame and could no longer participate in the race.
+
+lamp: She turned on the lamp to read her book.
+
+land: The plane landed safely at the airport.
+
+landed: The cargo was landed at the port early this morning.
+
+landing: The pilot made a perfect landing despite the heavy fog.
+
+landlady: The landlady came to collect the rent on Monday morning.
+
+landlord: Our landlord is very responsive to any repair requests.
+
+landscape: The rolling hills formed a beautiful landscape.
+
+lane: The car was driving in the fast lane of the highway.
+
+Langkap: Langkap is a small town in the state of Perak, Malaysia.
+
+language: English is a global language spoken by millions of people.
+
+lantern: They carried a lantern to light their way through the dark forest.
+
+lap: The baby fell asleep on his mother's lap.
+
+lapse: He had a sudden lapse of memory and forgot his own phone number.
+
+large: The company made a large profit this year.
+
+largely: The success of the project was largely due to his hard work.
+
+lark: We heard the song of a lark early in the morning.
+
+laser: Lasers are used in many modern medical procedures.
+
+last: December is the last month of the year.
+
+lasting: The experience had a lasting impact on her life.
+
+late: I'm sorry I'm late; the traffic was terrible.
+
+lately: I haven't seen much of him lately.
+
+latent: The disease can remain latent in the body for many years.
+
+later: I'll call you back later this afternoon.
+
+lateral: The tree has several large lateral branches.
+
+lathe: The machinist used a lathe to shape the metal part.
+
+Latin: Latin is the ancestor of many modern European languages.
+
+latitude: The captain calculated the ship's latitude and longitude.
+
+latter: He offered me tea or coffee, and I chose the latter.
+
+lattice: The garden was surrounded by a decorative wooden lattice.
+
+laugh: He told a funny joke that made everyone laugh.
+
+laughter: The sound of children's laughter filled the playground.
+
+launch: The company plans to launch a new product next month.
+
+laundry: I need to do my laundry on Sunday afternoon.
+
+lavatory: The lavatories are located at the end of the hall.
+
+law: Everyone must obey the law, regardless of their position.
+
+lawful: The police were carrying out their lawful duties.
+
+lawn: The kids were playing football on the green lawn.
+
+lawyer: If you have legal problems, you should consult a lawyer.
+
+lay: Please lay the table for dinner.
+
+layday: The contract specifies the number of laydays allowed for loading the cargo.
+
+layer: The cake has three layers of chocolate and cream.
+
+layout: The layout of the new office is very efficient.
+
+laziness: His failure was due to his own laziness and lack of effort.
+
+lazy: He is too lazy to finish his homework.
+
+l/c: The buyer opened a letter of credit (L/C) to guarantee the payment.
+
+le: He led the team to a stunning victory.
+
+leader: A good leader inspires confidence in his team.
+
+leadership: The country needs strong and visionary leadership.
+
+leading: He is a leading expert in the field of artificial intelligence.
+
+leaf: The trees lose their leaves in autumn.
+
+leaflet: They were distributing leaflets about the local environmental campaign.
+
+league: The local football league consists of twelve teams.
+
+leak: I think there is a leak in the water pipe.
+
+leakage: The company is trying to prevent the leakage of sensitive data.
+
+lean: He leaned against the wall and waited for the bus.
+
+leap: The cat managed to leap over the garden fence.
+
+learn: I'm trying to learn how to speak Spanish.
+
+learned: The professor is a very learned and respected man.
+
+learner: English is a difficult language for many learners.
+
+learning: Learning a new language takes time and patience.
+
+lease: We signed a two-year lease for the apartment.
+
+least: That's the least I can do to help.
+
+leather: She bought a new pair of black leather boots.
+
+leave: I'll leave the keys on the kitchen table.
+
+lecture: The professor gave an interesting lecture on modern art.
+
+lecturer: He works as a senior lecturer at the local university.
+
+leeway: The budget allows for some leeway in case of unexpected costs.
+
+left: Turn left at the next traffic lights.
+
+left-handed: She is left-handed and writes with her left hand.
+
+leftover: We had leftovers from dinner for our lunch today.
+
+leg: He broke his leg while he was skiing.
+
+legal: You should consult a lawyer for legal advice.
+
+legend: The story of King Arthur is a famous British legend.
+
+legendary: She is a legendary figure in the world of fashion.
+
+legislation: The government is introducing new legislation to protect the environment.
+
+legitimate: The company has a legitimate reason for its decision.
+
+leisure: What do you like to do in your leisure time?
+
+lemon: Add a slice of lemon to your tea for extra flavor.
+
+lemonade: A glass of cold lemonade is very refreshing on a hot day.
+
+lend: Can you lend me your pen for a second?
+
+lending: The bank has increased its lending to small businesses.
+
+length: The length of the pool is twenty-five meters.
+
+lengthen: The days begin to lengthen as spring approaches.
+
+Leninism: He spent years studying the principles of Leninism.
+
+lens: He bought a new wide-angle lens for his camera.
+
+leopard: The leopard is a powerful and agile predator.
+
+less: I have less free time now than I used to.
+
+lessen: The medicine helped to lessen the pain in his leg.
+
+lesson: I have a piano lesson every Tuesday afternoon.
+
+lest: He wrote down the address lest he should forget it.
+
+let: Please let me know if you can come to the party.
+
+letter: I received a long letter from my best friend today.
+
+level: The water level in the lake has risen after the rain.
+
+lever: He used a lever to lift the heavy rock.
+
+levy: The government decided to levy a new tax on sugar.
+
+liability: The company's liabilities are much higher than its assets.
+
+liable: You are liable for any damage you cause to the car.
+
+liar: Don't believe him; he's a compulsive liar.
+
+liberal: He has very liberal views on social issues.
+
+liberate: The city was liberated after years of occupation.
+
+liberation: The organization is fighting for the liberation of women.
+
+liberty: Individual liberty is a core value of democracy.
+
+librarian: The librarian helped me find the books I was looking for.
+
+library: I need to go to the library to study.
+
+license: He finally got his driver's license last week.
+
+lick: The dog began to lick my hand.
+
+lid: Please put the lid back on the jar.
+
+lie: I decided to lie down for a short nap.
+
+lieutenant: The lieutenant ordered his troops to advance.
+
+life: The discovery of water suggests there might be life on Mars.
+
+lifetime: She has spent a lifetime dedicated to scientific research.
+
+lift: Can you help me lift this heavy box?
+
+light: He carried a light bag for the weekend trip.
+
+lighten: The news helped to lighten his mood.
+
+lighter: Do you have a cigarette lighter?
+
+lighthouse: The lighthouse warned ships of the nearby rocks.
+
+lightly: She tapped him lightly on the shoulder.
+
+lightning: A bright flash of lightning lit up the sky.
+
+like: I like to listen to classical music in the evenings.
+
+likelihood: There is a high likelihood that it will rain tomorrow.
+
+likely: It's likely that the meeting will be postponed.
+
+likeness: There is a strong likeness between the two brothers.
+
+likewise: If you're going to the party, I'll go likewise.
+
+liking: She has a strong liking for spicy food.
+
+lily: The pond was covered in beautiful white water lilies.
+
+limb: He climbed onto a low limb of the tree.
+
+lime: Farmers often spread lime on the fields to improve the soil.
+
+limestone: The house was built of local limestone.
+
+limit: There is a speed limit of fifty kilometers per hour here.
+
+limitation: The new software has several limitations.
+
+limited: The company offers a limited warranty on its products.
+
+limousine: The celebrity arrived at the gala in a long black limousine.
+
+limp: He was walking with a slight limp after the accident.
+
+line: Please sign your name on the dotted line.
+
+linear: The relationship between price and demand is not always linear.
+
+linen: She wore a white linen dress on the hot summer day.
+
+liner: The Titanic was a famous luxury ocean liner.
+
+linger: The smell of the flowers lingered in the room long after they were gone.
+
+linguist: He is a brilliant linguist who speaks seven languages fluently.
+
+linguistics: She is studying linguistics at the University of Cambridge.
+
+lining: The jacket has a soft silk lining.
+
+link: The new bridge will link the two cities together.
+
+lion: The lion is known as the king of the jungle.
+
+lioness: The lioness was hunting for food for her cubs.
+
+lip: He bit his lip in frustration.
+
+lipstick: She applied some red lipstick before leaving the house.
+
+liquid: Water is a common liquid at room temperature.
+
+liquor: Excessive consumption of hard liquor can be harmful to your health.
+
+list: I made a list of all the things we need to buy.
+
+listen: Please listen carefully to the instructions.
+
+listener: He is a very good listener and always pays attention.
+
+literacy: The program aims to improve adult literacy in the region.
+
+literal: You should take his words in their literal sense.
+
+literally: He literally ran across the whole city to get here on time.
+
+literary: She is a well-known literary critic for a national newspaper.
+
+literate: Most of the population in the city is highly literate.
+
+literature: He has a great passion for classic English literature.
+
+litre: I bought two litres of milk at the store.
+
+litter: Please do not litter in the park; use the bins provided.
+
+little: She was a cute little girl with long brown hair.
+
+live: Many rare species of birds live in this forest.
+
+livelihood: Fishing is the main livelihood for the local community.
+
+lively: The market was a very lively and colorful place.
+
+liver: The liver is an essential organ for filtering the blood.
+
+livestock: The farmer is busy taking care of his livestock.
+
+living: Living conditions in the city have improved significantly.
+
+living-room: The family was gathered in the living-room watching television.
+
+load: He helped me load the heavy boxes into the truck.
+
+loaf: I bought a fresh loaf of bread at the bakery.
+
+loan: He applied for a bank loan to start his new business.
+
+lobby: We waited for him in the hotel lobby.
+
+lobster: We had a delicious lobster dinner at the seafood restaurant.
+
+local: He is a local hero who saved several people from the fire.
+
+locality: The new hospital will serve the entire local locality.
+
+locate: The police managed to locate the missing child within an hour.
+
+location: The location of the new office is very convenient.
+
+lock: Don't forget to lock the door when you leave.
+
+lock-up: The company has a lot of its capital in lock-up investments.
+
+locomotive: Steam locomotives were replaced by diesel ones over time.
+
+locust: A swarm of locusts destroyed all the crops in the area.
+
+lodge: They decided to lodge at a small inn in the mountains.
+
+lodging: He is currently looking for suitable lodging near the university.
+
+lofty: He has very lofty goals for his future career.
+
+log: We sat by the fire and watched the logs burn.
+
+logic: The decision was based more on logic than on emotion.
+
+logical: It was a logical conclusion based on the evidence provided.
+
+loneliness: She suffered from intense loneliness after her children moved away.
+
+lonely: The old man felt very lonely in the large empty house.
+
+lonesome: She sang a lonesome tune about her lost love.
+
+long: We took a long walk in the park on Sunday afternoon.
+
+longevity: A healthy diet and regular exercise are essential for longevity.
+
+longing: She had a deep longing to return to her homeland.
+
+longitude: The captain checked the ship's longitude using the stars.
+
+long-term: The company is looking for a long-term solution to the problem.
+
+look: Please look at the board while I'm explaining the problem.
+
+loom: A large mountain loomed ahead of us in the distance.
+
+loop: The road forms a large loop around the city.
+
+loose: The screw is loose and needs to be tightened.
+
+loosen: He decided to loosen his tie after the long meeting.
+
+lord: The lord of the manor welcomed the guests to his home.
+
+lorry: A large lorry was parked in front of the warehouse.
+
+lose: I hope I don't lose my keys again.
+
+loss: The company suffered a significant financial loss last year.
+
+lost: The lost child was found safely in the park.
+
+lot: We have a lot of work to do before the deadline.
+
+lottery: She won a large sum of money in the national lottery.
+
+loud: The music was so loud that we couldn't hear each other speak.
+
+loudness: The loudness of the siren startled everyone.
+
+loudspeaker: The announcement was made over the public loudspeaker.
+
+lounge: We waited for our flight in the airport lounge.
+
+lovable: He is a very lovable and friendly child.
+
+love: They expressed their mutual love for each other.
+
+lovely: We had a lovely time at the beach on Sunday.
+
+lover: He is a passionate lover of classical music.
+
+low: The water level in the river is very low this year.
+
+lower: Prices are lower in the winter than in the summer.
+
+loyal: He is a loyal friend who is always there for you.
+
+loyalty: The company values the loyalty of its long-term employees.
+
+lubricate: The mechanic needs to lubricate the car's engine.
+
+lubrication: Regular lubrication is essential for the smooth running of the machine.
+
+luck: I wish you the best of luck with your new job.
+
+lucky: He was lucky to escape the accident without any injuries.
+
+luggage: We checked in our luggage at the airport.
+
+lumber: The company sells high-quality lumber for construction.
+
+luminous: The stars looked like luminous diamonds in the night sky.
+
+lump: There was a small lump on his arm that he wanted the doctor to check.
+
+lump sum: The contractor was paid in a single lump sum.
+
+lunar: The lunar landing in 1969 was a historic event.
+
+lunch: What are we having for lunch today?
+
+luncheon: A formal luncheon was held in honor of the visiting president.
+
+lung: Smoking can cause serious damage to your lungs.
+
+luxurious: They stayed in a luxurious hotel during their holiday.
+
+luxury: Living in such a large house is a luxury few can afford.
+
+machine: The washing machine is broken and needs to be fixed.
+
+machinery: The factory uses advanced machinery to produce its products.
+
+mackintosh: He wore a smart yellow mackintosh on the rainy day.
+
+macroeconomics: Macroeconomics deals with the behavior of the economy as a whole.
+
+mad: He was absolutely mad with rage when he heard the news.
+
+madam: May I help you, madam?
+
+madman: He was screaming like a madman in the middle of the street.
+

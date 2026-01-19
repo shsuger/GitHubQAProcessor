@@ -1,0 +1,500 @@
+problematic: The new policy has proved to be highly problematic.
+
+procedure: The standard procedure for reporting an accident is explained in the manual.
+
+proceed: After some delay, the meeting finally proceeded as planned.
+
+proceeding: The court proceedings lasted for several weeks.
+
+proceeds: The proceeds from the auction will be donated to charity.
+
+process: The entire manufacturing process is automated.
+
+processing: Food processing can sometimes reduce the nutritional value of food.
+
+procession: A long procession of mourners followed the hearse to the cemetery.
+
+proclaim: The leader proclaimed a new era of peace and prosperity.
+
+procure: The organization is trying to procure food and medicine for the refugees.
+
+procurement: The government is reviewing its defense procurement procedures.
+
+produce: The factory produces thousands of cars every year.
+
+producer: He is a famous producer of action movies.
+
+product: The company is launching a new product next month.
+
+production: Industrial production has increased by 5% this year.
+
+productive: She had a very productive day at the office.
+
+productivity: We need to find new ways to improve labor productivity.
+
+profess: He continued to profess his innocence despite the evidence.
+
+profession: She is a doctor by profession.
+
+professional: He is a highly professional and dedicated employee.
+
+professor: Professor Smith is a leading expert in the field of chemistry.
+
+proficiency: The job requires a high level of proficiency in English.
+
+proficient: She is very proficient in several different musical instruments.
+
+profile: He has a very distinctive profile.
+
+profit: The company made a significant profit last year.
+
+profitable: The new business venture turned out to be very profitable.
+
+proforma: Please send us a proforma invoice for the goods.
+
+profound: The discovery had a profound impact on the scientific community.
+
+program: What is your favorite television program?
+
+programer: The computer programer spent hours fixing the code.
+
+programing: I'm learning computer programing in my spare time.
+
+progress: The students are making steady progress in their studies.
+
+progressive: The city is known for its progressive and forward-thinking policies.
+
+prohibit: Smoking is prohibited inside the building.
+
+prohibition: The prohibition of alcohol lasted for several years in the US.
+
+prohibitive: The cost of the repairs was prohibitive, so we decided to buy a new car.
+
+project: They are working on a new research project.
+
+projection: The company's sales projections for next year are very positive.
+
+projector: We used a digital projector to show the slides.
+
+proletarian: The novel explores the lives of the urban proletarian class.
+
+prolong: They decided to prolong their stay by another week.
+
+prominence: The issue has gained prominence in the media lately.
+
+prominent: He is a prominent figure in the local community.
+
+promise: He promised to return the book by Friday.
+
+promising: The young scientist has a very promising career ahead of her.
+
+promissory: The buyer signed a promissory note to guarantee the payment.
+
+promote: The organization aims to promote international cooperation.
+
+promotion: He received a promotion to the position of manager.
+
+prompt: Thank you for your prompt reply to my email.
+
+promptly: The issue was dealt with promptly by the management.
+
+prone: Tired people are more prone to making mistakes.
+
+pronoun: In the sentence 'He likes coffee', 'He' is a pronoun.
+
+pronounce: It is difficult to pronounce some of these foreign names correctly.
+
+pronunciation: His English pronunciation is very clear and natural.
+
+proof: The police found no proof linking him to the crime.
+
+propaganda: The government was accused of spreading political propaganda.
+
+propagate: Plants can propagate by seeds or by cuttings.
+
+propagation: The propagation of sound waves is faster in water than in air.
+
+propel: The boat is propelled by a powerful engine.
+
+propellent: The rocket uses a high-energy liquid propellent.
+
+propeller: The airplane's propeller began to turn as the engine started.
+
+proper: It is important to use the proper tools for the job.
+
+properly: Please make sure that the door is locked properly.
+
+property: The company has significant property holdings in the city center.
+
+prophesy: The ancient scrolls contain several dark prophecies about the future.
+
+prophet: The prophet predicted a time of peace and prosperity.
+
+proportion: A large proportion of the population lives in the city.
+
+proportional: The strength of the signal is proportional to the distance.
+
+proposal: The committee is currently reviewing the new proposal.
+
+propose: He decided to propose to his girlfriend during their holiday.
+
+proposition: The new business venture is a risky but interesting proposition.
+
+proprietor: The proprietor of the shop was very friendly and helpful.
+
+proprietorship: The company's proprietorship has changed several times.
+
+prose: He writes beautiful prose about the natural world.
+
+prosecute: The company decided to prosecute the former employee for theft.
+
+prosecution: The prosecution presented several witnesses during the trial.
+
+prosecutor: The public prosecutor opened the case against the suspect.
+
+prospect: The prospect of a new job is very exciting.
+
+prosperity: Everyone hopes for a time of peace and prosperity.
+
+prosperous: The city has a very prosperous and growing economy.
+
+protect: Vaccines help to protect children from serious diseases.
+
+protection: The building has several layers of fire protection.
+
+protectionism: The new laws were criticized for promoting trade protectionism.
+
+protective: He was very protective of his younger sister.
+
+protein: Meat and beans are good sources of protein.
+
+protest: A large crowd gathered to protest against the new law.
+
+protestant: He comes from a deeply religious Protestant family.
+
+protocol: The visit was carried out according to strict diplomatic protocol.
+
+prototype: The company is testing a prototype of its new electric car.
+
+protracted: The negotiations between the two sides were long and protracted.
+
+proud: She was very proud of her son's achievements.
+
+prove: The experiment was conducted to prove the theory.
+
+proverb: As the old proverb says, 'Haste makes waste'.
+
+provide: The hotel provides complimentary breakfast to all guests.
+
+provided: You can join us, provided that you finish your homework first.
+
+province: He lives in a small village in the northern province.
+
+provincial: The city has a wide variety of provincial landmarks.
+
+provision: The contract includes a provision for early termination.
+
+provisional: The committee has made a provisional decision on the matter.
+
+provocation: His rude behavior was a clear provocation.
+
+provoke: Don't provoke the dog; it might bite you.
+
+prudence: The decision was made with great care and prudence.
+
+prudent: It is prudent to save some money for the future.
+
+psychological: The movie explores the psychological effects of war.
+
+psychologist: She decided to consult a professional psychologist for advice.
+
+psychology: He is studying child psychology at university.
+
+public: The park is open to the general public.
+
+publication: The publication of the report caused a lot of controversy.
+
+publicity: The movie received a lot of publicity before it came out.
+
+publicly: The leader publicly apologized for his mistake.
+
+publish: The company plans to publish a new book next month.
+
+publisher: He works for a major international publisher.
+
+pudding: Chocolate pudding is my favorite dessert.
+
+puff: The train let out a large puff of white smoke.
+
+pull: He had to pull hard to open the heavy door.
+
+pulley: The crane uses a system of pulleys to lift heavy loads.
+
+pulse: The doctor checked the patient's pulse.
+
+pump: We used a pump to get the water out of the basement.
+
+pumpkin: The kids were carving pumpkins for Halloween.
+
+punch: He used a punch to make holes in the leather belt.
+
+punctual: He is always punctual and never late for meetings.
+
+punctuality: The company values punctuality and reliability.
+
+punctuation: Please make sure your punctuation is correct in your essay.
+
+punish: The naughty child was punished for misbehaving.
+
+punishment: Capital punishment is a highly controversial topic.
+
+pupil: The pupils of his eyes dilated in the dark.
+
+puppet: The kids were delighted by the puppet show.
+
+puppy: A cute little puppy was playing in the garden.
+
+purchase: He decided to purchase a new car next year.
+
+purchaser: The purchaser of the house was very happy with the location.
+
+pure: The water in the mountain stream was clear and pure.
+
+purely: The decision was made for purely political reasons.
+
+purify: The water filter is used to purify the drinking water.
+
+purity: The purity of the gold was verified by several tests.
+
+purple: She wore a beautiful purple dress to the party.
+
+purpose: The purpose of the meeting is to discuss the new project.
+
+purse: She kept her money and ID in her small leather purse.
+
+pursuance: The investigation was carried out in pursuance of the court order.
+
+pursuant: Pursuant to our agreement, I'm sending you the final payment.
+
+pursue: He decided to pursue a career in medicine.
+
+pursuit: She spent her life in the pursuit of scientific knowledge.
+
+push: He had to push the car to the nearest gas station.
+
+put: Please put your books back on the shelf.
+
+puzzle: The complex math problem was a real puzzle for the students.
+
+pyjamas: He wore his comfortable blue pyjamas to bed.
+
+pyramid: The pyramids of Giza are one of the seven wonders of the world.
+
+qualification: The job requires a high level of academic qualification.
+
+qualified: She is highly qualified for the position of manager.
+
+qualify: The certificate will qualify you to work as a professional nurse.
+
+qualitative: The study uses a qualitative approach to analyze the data.
+
+quality: The company is known for the high quality of its products.
+
+quantitative: The report provides a quantitative analysis of the market trends.
+
+quantity: We bought a large quantity of food for the party.
+
+quarrel: They had a minor quarrel about what to have for dinner.
+
+quart: I bought a quart of milk at the store.
+
+quarter: The project is expected to be finished by the end of the third quarter.
+
+quarterly: The company publishes a quarterly report on its financial status.
+
+quartz: The watch uses a small quartz crystal to keep accurate time.
+
+quay: The ship is docked at the north quay of the harbor.
+
+queen: The queen addressed the nation on television.
+
+queer: He has some very queer and strange ideas.
+
+quench: A glass of cold water helped to quench his thirst.
+
+query: I have a quick query about the project deadline.
+
+quest: The explorers set off on a quest to find the hidden treasure.
+
+question: If you have any questions, please feel free to ask.
+
+questionnaire: Please fill out this questionnaire and return it to us.
+
+queue: There was a long queue of people waiting for the bus.
+
+quick: He gave a quick reply to my question.
+
+quicken: The medicine helped to quicken his recovery.
+
+quickly: The fire spread quickly through the dry grass.
+
+quiet: The village is a very quiet and peaceful place.
+
+quietly: She quietly left the room so as not to disturb the meeting.
+
+quietness: The absolute quietness of the forest was very relaxing.
+
+quilt: She covered herself with a warm woollen quilt.
+
+quit: He decided to quit his job and start his own business.
+
+quite: The weather was quite hot today.
+
+quiver: His voice began to quiver with emotion.
+
+quiz: The teacher gave the students a quick quiz on the new vocabulary.
+
+quota: The country has a strict quota on the number of immigrants.
+
+quotation: The manual includes several quotations from famous scientists.
+
+quote: Can you quote me a price for the repairs?
+
+rabbit: The little rabbit hopped away as we approached.
+
+race: The marathon is a very long and difficult race.
+
+racial: The organization is working to eliminate racial discrimination.
+
+rack: Please put your bags on the overhead rack.
+
+racket: He has been playing tennis since he was ten years old.
+
+radar: The airport uses radar to monitor all incoming flights.
+
+radial: The bicycle wheel has twenty-four radial spokes.
+
+radiant: She looked radiant in her white wedding dress.
+
+radiate: The sun radiates a vast amount of energy in the form of light and heat.
+
+radiation: Exposure to high levels of radiation can be harmful.
+
+radical: The new law will bring about radical changes in society.
+
+radio: I like to listen to the radio while I'm driving.
+
+radioactive: Uranium is a highly radioactive element.
+
+radioactivity: The scientists are measuring the levels of radioactivity in the soil.
+
+radish: I like to add some sliced radishes to my salad.
+
+radium: Radium was discovered by Marie and Pierre Curie in 1898.
+
+radius: The circle has a radius of five centimeters.
+
+rag: He used an old rag to clean the window.
+
+rage: He was absolutely mad with rage when he heard the news.
+
+raid: The police carried out a raid on the suspected criminal's house.
+
+rail: Please hold onto the rail when you're going down the stairs.
+
+railroad: The railroad connects the city to the coast.
+
+railway: She takes the railway to work every morning.
+
+rain: It has been raining all afternoon.
+
+rainbow: A beautiful rainbow appeared in the sky after the storm.
+
+raincoat: Don't forget to take your raincoat; it's starting to rain.
+
+rainfall: The region has a very low annual rainfall.
+
+rainy: The rainy season usually begins in June.
+
+raise: The government decided to raise the minimum wage.
+
+rake: He used a rake to clear the leaves from the lawn.
+
+rally: Thousands of people attended the political rally.
+
+ramble: We went for a long ramble through the countryside.
+
+ranch: He works on a large cattle ranch in Texas.
+
+random: The winners will be chosen at random from the list of participants.
+
+range: The mountains are visible in the far range.
+
+rank: The officer reached the rank of major.
+
+rapid: There has been a rapid increase in the number of tourists.
+
+rapidly: The technology is changing very rapidly.
+
+rapture: She was in a state of utter rapture when she saw the gift.
+
+rare: This is a very rare and valuable ancient coin.
+
+rarely: I rarely go to the cinema these days.
+
+rascal: The little rascal had hidden my keys again.
+
+rash: Don't make any rash decisions; think about it first.
+
+rat: The cat was chasing a rat in the backyard.
+
+rate: The interest rate has increased by one percent.
+
+rather: I would rather have tea than coffee.
+
+ratification: The ratification of the treaty took several months.
+
+ratify: The two countries decided to ratify the trade agreement.
+
+ratio: The ratio of students to teachers is twenty to one.
+
+ration: The soldiers were given a daily ration of food.
+
+rational: The decision was based on a rational analysis of the situation.
+
+rattle: The windows began to rattle in the strong wind.
+
+ravage: The city was ravaged by the war.
+
+raw: The salad was made with fresh raw vegetables.
+
+ray: The rays of the sun shone through the window.
+
+razor: He used a sharp razor to shave his beard.
+
+reach: I hope to reach the summit of the mountain before dark.
+
+react: How did he react to the news?
+
+reaction: The news was met with a mixed reaction from the public.
+
+reactionary: The reactionary policies were criticized by many people.
+
+reactor: The nuclear reactor was shut down for maintenance.
+
+reader: The book is written for a general reader.
+
+readily: The information is readily available on the internet.
+
+reading: I enjoy reading classic novels in my spare time.
+
+ready: Are you ready to go yet?
+
+real: This is a real diamond, not an imitation.
+
+realism: The novel is written in a style of gritty social realism.
+
+realist: He is a realist and always looks at the facts.
+
+realistic: We need to set a realistic goal for the project.
+

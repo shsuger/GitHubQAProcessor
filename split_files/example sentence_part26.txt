@@ -1,0 +1,500 @@
+seasonal: The menu features several different seasonal vegetables.
+
+seat: Please take a seat and wait for a moment.
+
+second: He finished the race in second place.
+
+secondary: The report focused on several major secondary issues.
+
+secondhand: He bought a secondhand car last week.
+
+secondly: Secondly, we need to consider the cost of the project.
+
+secrecy: The meeting was held in absolute secrecy.
+
+secret: He whispered the secret into her ear.
+
+secretariat: He works at the UN Secretariat in New York.
+
+secretary: The secretary answered the phone and took a message.
+
+section: The library has a large section for history books.
+
+sector: The agricultural sector is a major part of the economy.
+
+secure: Please make sure that the building is secure.
+
+security: National security is a top priority for the government.
+
+see: I can see the ocean from my bedroom window.
+
+seed: She planted several seeds in the garden.
+
+seek: The company is seeking new ways to increase its profits.
+
+seem: The problem seems to be more complex than we first thought.
+
+seemingly: The decision was seemingly based on logic and facts.
+
+segment: The report is divided into several different segments.
+
+seize: The police managed to seize a large quantity of illegal drugs.
+
+seizure: The seizure of the property was authorized by the court.
+
+seldom: I seldom go to the cinema these days.
+
+select: The committee will select the best candidate for the job.
+
+selection: The store has a wide selection of shoes to choose from.
+
+self: Self-confidence is essential for success.
+
+selfish: Don't be so selfish; think about others too.
+
+sell: I decided to sell my old car and buy a new one.
+
+seller: The car seller was very friendly and helpful.
+
+seminar: We attended an interesting seminar on modern art yesterday.
+
+semiconductor: The technology industry relies on high-quality semiconductors.
+
+senate: The Senate passed the new bill yesterday.
+
+senator: The senator gave a televised speech to the nation.
+
+send: Please send me an email when you have more information.
+
+sender: The name of the sender was written on the back of the envelope.
+
+senior: He is a senior partner in a large law firm.
+
+sensation: The new discovery caused a sensation in the scientific community.
+
+sensational: The news of the discovery received sensational coverage in the media.
+
+sense: He has a very good sense of humor.
+
+senseless: It was a senseless waste of time and energy.
+
+sensible: It is sensible to save some money for the future.
+
+sensitive: She is a very sensitive child and cries easily.
+
+sensitivity: The project requires a high level of technical sensitivity.
+
+sentence: He was sentenced to three years in prison for the robbery.
+
+sentiment: Public sentiment was strongly against the new policy.
+
+sentimental: The movie was very sentimental and made many people cry.
+
+separate: The two sisters have separate bedrooms.
+
+separately: The items were shipped separately to ensure their safety.
+
+separation: The long separation from his family was difficult for him.
+
+September: The new school year begins in September.
+
+sequence: The events took place in a logical sequence.
+
+serene: The lake was calm and serene at sunset.
+
+serenity: The peaceful environment provided a sense of serenity and well-being.
+
+series: The television series has been very popular with the audience.
+
+serious: I have some serious matters to discuss with you.
+
+seriously: You should take your studies more seriously.
+
+sermon: The priest delivered an inspiring sermon at the Sunday service.
+
+serpent: In many stories, the serpent is a symbol of evil and cunning.
+
+servant: The wealthy family had several servants to take care of the house.
+
+serve: The organization aims to serve the needs of the local community.
+
+service: The hotel offers excellent service to all its guests.
+
+serviceable: The old car is still serviceable, but it needs some repairs.
+
+session: The training session will last for three hours.
+
+set: We bought a new set of garden furniture.
+
+setting: The story takes place in a beautiful rural setting.
+
+settle: We need to find a way to settle this dispute.
+
+settlement: The two parties reached a final settlement yesterday.
+
+seven: There are seven days in a week.
+
+seventeen: She is seventeen years old.
+
+seventh: This is the seventh time I've tried to call him today.
+
+seventy: My grandfather is seventy years old.
+
+several: There were several people waiting at the bus stop.
+
+severe: The region is facing a severe shortage of water.
+
+severely: He was severely punished for his bad behavior.
+
+sew: She is learning how to sew her own clothes.
+
+sewing-machine: I need to get my sewing-machine fixed.
+
+sex: What is the sex of the baby?
+
+sexual: The law prohibits sexual discrimination in the workplace.
+
+sexuality: The course explores the concept of human sexuality.
+
+shabby: He was wearing an old and shabby jacket.
+
+shade: We sat in the shade of a large tree to cool down.
+
+shadow: The cat disappeared into the shadows of the alley.
+
+shadowy: A shadowy figure was standing in the doorway.
+
+shady: They sat on a shady bench in the park.
+
+shaft: A shaft of light shone through the dark clouds.
+
+shake: The building began to shake during the earthquake.
+
+shall: I shall call you as soon as I arrive.
+
+shallow: The water in the pond is very shallow.
+
+sham: His friendliness was all a sham to get what he wanted.
+
+shame: It is a great shame that you can't come to the party.
+
+shameful: His behavior at the meeting was considered highly shameful.
+
+shampoo: I need to buy a new bottle of shampoo.
+
+shape: The cookies were cut into the shape of stars.
+
+shapeless: He was wearing a large and shapeless woollen sweater.
+
+share: We decided to share the costs of the trip.
+
+shark: The swimmers were warned about the presence of sharks in the water.
+
+sharp: Be careful; the knife is very sharp.
+
+sharpen: He used a whetstone to sharpen his tools.
+
+sharpener: I need to buy a new pencil sharpener for the office.
+
+sharply: The temperature has dropped sharply since last night.
+
+shatter: The glass shattered into a hundred pieces when it hit the floor.
+
+shave: He decided to shave his beard off.
+
+she: She is a very talented and dedicated young artist.
+
+shear: The farmer is busy shearing the sheep.
+
+shed: The trees begin to shed their leaves in autumn.
+
+sheep: A flock of sheep was grazing in the green mountain pasture.
+
+sheepish: He gave her a sheepish smile after realizing his mistake.
+
+sheer: The cliffs were a sheer drop to the ocean below.
+
+sheet: Please put a fresh sheet on the bed.
+
+shelf: I put the books back on the shelf.
+
+shell: The children were collecting shells on the beach.
+
+shelter: They sought shelter from the rain under a large tree.
+
+shepherd: The shepherd led his flock down from the mountains.
+
+sheriff: The sheriff was responsible for law enforcement in the county.
+
+shield: The shield was designed to protect the soldiers from arrows.
+
+shift: We decided to shift our focus to the new project.
+
+shilling: In the past, the shilling was a unit of British currency.
+
+shine: The sun began to shine through the clouds.
+
+shiny: The car had a shiny new coat of red paint.
+
+ship: The ship arrived at the port early this morning.
+
+shipbuilding: The city has a long and successful history of shipbuilding.
+
+shipment: We are waiting for the next shipment of electronics to arrive.
+
+shipowner: The shipowner is responsible for the maintenance of the vessel.
+
+shipping: The shipping costs are included in the total price of the product.
+
+shipwreck: The remains of the ancient shipwreck were discovered by divers.
+
+shipyard: He works as a crane operator at the local shipyard.
+
+shirt: He wore a smart white shirt to the interview.
+
+shiver: She began to shiver in the cold morning air.
+
+shock: The news of the accident came as a great shock to everyone.
+
+shoe: I need to buy a new pair of running shoes.
+
+shoemaker: The old shoemaker was famous for his high-quality leather boots.
+
+shoot: The basketball player managed to shoot the ball into the hoop.
+
+shop: I need to go to the shop to buy some milk.
+
+shopkeeper: The friendly shopkeeper greeted all his regular customers.
+
+shopping: She enjoys going shopping for clothes on the weekends.
+
+shore: We went for a walk along the shore at sunset.
+
+short: The meeting was very short and lasted only ten minutes.
+
+shortage: The region is facing a severe shortage of water.
+
+shortcoming: The report highlighted several shortcomings in the company's management.
+
+shortcut: We took a shortcut through the park to get home faster.
+
+shorten: They decided to shorten the meeting because of the bad weather.
+
+shorthand: The secretary took notes in shorthand during the meeting.
+
+shortly: The doctor will be with you shortly.
+
+shorts: He wore a pair of blue shorts and a T-shirt.
+
+short-weight: The customer complained about the short-weight of the goods.
+
+shot: He took a brilliant shot from the edge of the penalty area.
+
+should: You should see a doctor about that cough.
+
+shoulder: He carried the heavy box on his shoulder.
+
+shout: Don't shout; I can hear you perfectly.
+
+shove: He gave the heavy door a sharp shove to open it.
+
+shovel: He used a shovel to clear the snow from the driveway.
+
+show: Can you show me how to solve this problem?
+
+shower: I like to take a cold shower after my morning workout.
+
+showroom: The company has a large showroom in the city center.
+
+shrewd: He is a shrewd businessman who knows how to make a profit.
+
+shriek: She let out a loud shriek when she saw the spider.
+
+shrill: The phone's shrill ringing woke me up.
+
+shrine: Thousands of people visit the holy shrine every year.
+
+shrimp: We had a delicious plate of grilled shrimp for dinner.
+
+shrink: The sweater began to shrink after it was washed.
+
+shroud: The mountain was wrapped in a shroud of thick white mist.
+
+shrub: The garden is full of beautiful flowering shrubs.
+
+shrug: He just gave a shrug and said he didn't know the answer.
+
+shuffle: The old man began to shuffle slowly down the street.
+
+shun: He decided to shun the public eye after the scandal.
+
+shut: Please shut the door behind you.
+
+shutter: He closed the shutters to keep the sunlight out.
+
+shuttle: The space shuttle was launched from Cape Canaveral.
+
+shy: She is a very shy child and finds it hard to talk to strangers.
+
+sick: He missed a week of school because he was sick.
+
+sickness: He suffered from severe motion sickness during the flight.
+
+sickle: The farmer used a sickle to cut the tall grass.
+
+side: Which side of the road do people drive on in the UK?
+
+sidewalk: Please walk on the sidewalk, not in the street.
+
+sideways: He gave me a quick sideways look.
+
+siege: The city was under siege for several months during the war.
+
+sieve: She used a sieve to strain the pasta.
+
+sift: The scientists are sifting through the data to find any clues.
+
+sigh: She let out a long sigh of relief when she heard the news.
+
+sight: The view from the top of the mountain was a beautiful sight.
+
+sightseeing: We spent the afternoon sightseeing in the city center.
+
+sign: Please sign your name at the bottom of the form.
+
+signal: The red light is a signal to stop.
+
+signature: I need your signature on this contract.
+
+significance: The discovery has major historical significance.
+
+significant: There has been a significant improvement in his health.
+
+signify: The red flags signify that it is dangerous to swim.
+
+signpost: Follow the signposts to the city center.
+
+silence: A sudden silence fell over the room.
+
+silent: The children remained silent while the teacher was speaking.
+
+silicon: Silicon is a key component in the manufacture of microchips.
+
+silk: She wore a beautiful red silk dress to the party.
+
+silky: The fabric had a very soft and silky feel.
+
+silly: Don't be so silly; you know that's not true.
+
+silver: The winner was awarded a silver medal.
+
+similar: The two sisters have very similar personalities.
+
+similarity: There are several striking similarities between the two cases.
+
+simple: The instructions are very simple and easy to follow.
+
+simplicity: The design of the building is praised for its elegant simplicity.
+
+simplify: We need to find ways to simplify the production process.
+
+simply: I simply don't have the time to finish the work tonight.
+
+simulate: The training program uses a computer to simulate real-life situations.
+
+simultaneous: The two events were almost simultaneous.
+
+simultaneously: The news was broadcast simultaneously on television and radio.
+
+sin: He spent his life trying to atone for his sins.
+
+since: I haven't seen him since we finished school.
+
+sincere: Please accept my sincere apologies for the mistake.
+
+sincerely: I sincerely hope that you will recover soon.
+
+sincerity: Her sincerity was evident in her voice.
+
+sinful: He was criticized for his sinful and greedy behavior.
+
+sing: She has a beautiful voice and loves to sing.
+
+singer: He is a famous professional singer who has won several awards.
+
+single: He is currently a single man and enjoys his freedom.
+
+singular: His talent for music is truly singular.
+
+sink: Please put the dirty dishes in the kitchen sink.
+
+sir: Yes, Sir. I will do it immediately.
+
+siren: The sound of the ambulance siren could be heard in the distance.
+
+sister: My younger sister is studying medicine at university.
+
+sit: Please sit down and make yourself comfortable.
+
+site: The company is looking for a suitable site for its new factory.
+
+sitting-room: The family was gathered in the sitting-room watching television.
+
+situate: The hotel is situated in a very convenient location near the park.
+
+situation: We are currently facing a very difficult and complex situation.
+
+six: There are six players on a volleyball team.
+
+sixteen: She is sixteen years old and in high school.
+
+sixth: This is the sixth time I've tried to call him today.
+
+sixty: My grandfather is sixty years old.
+
+sizable: The company made a sizable profit this year.
+
+size: What is the size of the room?
+
+skate: The children spent the afternoon skating on the frozen lake.
+
+skating: Ice skating is a very popular winter sport.
+
+skeleton: The museum has a complete skeleton of a dinosaur.
+
+sketch: He made a quick sketch of the landscape in his notebook.
+
+ski: We decided to go to the mountains to ski for the weekend.
+
+skiing: Skiing is a very exciting and enjoyable sport.
+
+skill: He has excellent technical skills in computer programing.
+
+skillful: She is a very skillful and talented young artist.
+
+skim: He skimmed through the newspaper to find any interesting news.
+
+skin: Always wear sunscreen to protect your skin from the sun.
+
+skip: The little girl began to skip across the lawn.
+
+skirmish: The two armies had a minor skirmish near the border.
+
+skirt: She wore a beautiful long blue skirt to the gala.
+
+skull: The skull protects the brain from injury.
+
+sky: The sky was full of bright stars last night.
+
+skyrocket: The price of gold has skyrocketed in recent months.
+
+skyscraper: Dubai is famous for its many impressive skyscrapers.
+
+slack: The rope was slack and needed to be tightened.
+
+slam: Don't slam the door; the baby is sleeping.
+
+slander: The politician was accused of slandering his opponent.
+
+slang: English is full of colorful and interesting slang expressions.
+

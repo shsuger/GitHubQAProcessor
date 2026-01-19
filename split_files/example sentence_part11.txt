@@ -1,0 +1,500 @@
+estimate: The contractor gave us an estimate for the repair work.
+
+estimation: In my estimation, the project will take about six months.
+
+etc.: We need to buy bread, milk, eggs, etc.
+
+eternal: The sun is a source of eternal energy.
+
+Europe: France and Germany are located in Europe.
+
+European: The European Union promotes economic cooperation among its members.
+
+evaluate: The teacher will evaluate the students' work at the end of the term.
+
+evaluation: The initial evaluation of the new product was very positive.
+
+evaporate: The water in the puddle began to evaporate in the sun.
+
+evaporation: Heat increases the rate of evaporation.
+
+eve: The family gathered for dinner on Christmas Eve.
+
+even: The two teams had an even score at the end of the game.
+
+evening: We spent a relaxing evening watching movies.
+
+evenly: The cake batter should be spread evenly in the pan.
+
+event: The annual music festival is a major event in the city.
+
+eventful: It has been an eventful year with many changes.
+
+eventually: After months of training, she eventually won the race.
+
+ever: Have you ever been to Paris?
+
+everlasting: They promised each other everlasting love.
+
+every: Every student in the class passed the exam.
+
+everybody: Everybody was shocked by the news.
+
+everyday: The movie deals with the problems of everyday life.
+
+everyone: Everyone is invited to the party.
+
+everything: Everything will be fine, don't worry.
+
+everywhere: There were flowers growing everywhere in the garden.
+
+evidence: The police found no evidence linking him to the crime.
+
+evident: It was evident from his expression that he was unhappy.
+
+evidently: Evidently, she had forgotten about our appointment.
+
+evil: In the story, the hero defeats the evil king.
+
+evolution: Darwin's theory of evolution changed our understanding of life.
+
+evolve: Languages evolve over time as new words are added.
+
+ex: The goods were sold ex warehouse.
+
+exact: What is the exact time?
+
+exactly: I know exactly how you feel.
+
+exaggerate: Don't exaggerate; the fish wasn't that big.
+
+exaggerated: The news report gave an exaggerated account of the incident.
+
+exaggeration: It's no exaggeration to say that he is the best player in the world.
+
+exalt: The poem was written to exalt the beauty of nature.
+
+exalted: He held an exalted position in the royal court.
+
+exam: I have a math exam tomorrow morning.
+
+examination: The doctor performed a thorough physical examination.
+
+examine: The police are examining the evidence carefully.
+
+example: Can you give me an example of what you mean?
+
+exasperate: Her constant complaining began to exasperate him.
+
+exasperation: He threw his hands up in exasperation.
+
+exceed: The cost of the repairs will exceed the value of the car.
+
+exceedingly: The task was exceedingly difficult, but we managed to finish it.
+
+excel: She excels in mathematics and science.
+
+excellence: The school is known for its academic excellence.
+
+excellent: The service at the restaurant was excellent.
+
+except: Everyone was invited to the party except for John.
+
+exception: Most students passed the exam, with a few exceptions.
+
+exceptional: The young pianist showed exceptional talent.
+
+excess: You will have to pay for any excess baggage.
+
+excessive: Excessive noise can lead to hearing loss.
+
+exchange: We exchanged gifts on Christmas morning.
+
+excite: The news of the discovery excited the whole scientific community.
+
+excited: The children were very excited about the trip to the zoo.
+
+excitement: There was a lot of excitement before the concert started.
+
+exciting: The game was very exciting and ended in a tie.
+
+exclaim: 'Look at that!' she exclaimed in surprise.
+
+exclamation: He let out an exclamation of joy when he heard the news.
+
+exclude: The price of the tour excludes lunch and dinner.
+
+exclusion: The exclusion of certain groups from the club was controversial.
+
+exclusive: The hotel has an exclusive beach for its guests.
+
+exclusively: The magazine is published exclusively for women.
+
+exclusivity: The company was granted exclusivity to sell the product in Europe.
+
+excursion: We went on a day excursion to the mountains.
+
+excuse: Please excuse me for being late.
+
+execute: The plan was executed perfectly by the team.
+
+execution: The execution of the project was delayed due to lack of funds.
+
+executive: He holds an executive position in a large corporation.
+
+exemplify: His life exemplifies the values of hard work and honesty.
+
+exempt: Charities are exempt from paying certain taxes.
+
+exercise: Regular exercise is important for maintaining good health.
+
+exercise-book: The students wrote their essays in their exercise-books.
+
+exert: You need to exert more effort if you want to pass the exam.
+
+exertion: He was exhausted after the physical exertion of the race.
+
+exhaust: The long journey exhausted the children.
+
+exhausted: She felt completely exhausted after working all day.
+
+exhaustion: He suffered from mental exhaustion after months of intense study.
+
+exhaustive: The police conducted an exhaustive search of the area.
+
+exhibit: The museum will exhibit a collection of ancient Egyptian artifacts.
+
+exhibition: The art exhibition attracted hundreds of visitors on its opening day.
+
+exile: The poet lived in exile for many years after the revolution.
+
+exist: Do you believe that life exists on other planets?
+
+existence: The existence of the rare bird was confirmed by local scientists.
+
+existing: The existing laws need to be updated to reflect modern values.
+
+exit: The emergency exit is located at the back of the building.
+
+exonerate: The DNA evidence helped to exonerate the wrongly accused man.
+
+exoneration: He is still waiting for official exoneration from the court.
+
+expand: The company plans to expand its operations into Asia.
+
+expansion: The economic expansion led to the creation of many new jobs.
+
+expect: I expect that the weather will be fine tomorrow.
+
+expectation: The performance exceeded all our expectations.
+
+expedience: The decision was based more on political expedience than on principles.
+
+expedient: It might be expedient to delay the announcement for a few days.
+
+expedite: We need to find a way to expedite the delivery process.
+
+expedition: The team set off on an expedition to reach the North Pole.
+
+expel: The student was expelled from school for repeated bad behavior.
+
+expend: You should not expend too much energy on unimportant tasks.
+
+expenditure: Public expenditure on health and education has increased.
+
+expense: He traveled around the world at his own expense.
+
+expensive: I can't afford to buy such an expensive car.
+
+experience: She has ten years of experience in the fashion industry.
+
+experienced: He is an experienced pilot who has flown all over the world.
+
+experiment: The scientists are conducting an experiment to test the new drug.
+
+experimental: The plane is still in the experimental stage of development.
+
+experimentation: Scientific progress is achieved through constant experimentation.
+
+expert: He is a leading expert in the field of artificial intelligence.
+
+expertise: The job requires a high level of technical expertise.
+
+expiration: Please check the expiration date on the milk carton.
+
+expire: My passport will expire next month, so I need to renew it.
+
+expiry: The expiry of the contract is scheduled for the end of the year.
+
+explain: Can you explain how this machine works?
+
+explanation: He gave a clear explanation for his decision.
+
+explanatory: The manual includes several explanatory diagrams.
+
+explicit: The teacher gave explicit instructions on how to finish the assignment.
+
+explicitly: I explicitly told him not to touch my computer.
+
+explode: The bomb was set to explode at midnight.
+
+exploit: The company was accused of exploiting its workers.
+
+exploitation: The exploitation of natural resources must be managed carefully.
+
+exploration: Space exploration has led to many scientific discoveries.
+
+explore: The children decided to explore the old house.
+
+explorer: Marco Polo was a famous explorer who traveled to China.
+
+explosion: The explosion was heard several miles away.
+
+explosive: Nitroglycerin is a highly explosive substance.
+
+export: China exports a wide variety of goods to the rest of the world.
+
+exportation: The exportation of ivory is banned in most countries.
+
+exporter: He works for a major exporter of electronic components.
+
+expose: The journalist exposed the corruption within the government.
+
+exposition: The exposition of the new policy was clear and detailed.
+
+exposure: The children suffered from exposure after being lost in the snow.
+
+express: She found it hard to express her gratitude in words.
+
+expression: His facial expression showed that he was very surprised.
+
+expressive: The dancer's movements were very expressive and beautiful.
+
+expressly: The law expressly forbids smoking in public buildings.
+
+expressway: The new expressway connects the city to the airport.
+
+exquisite: The diamond necklace was truly exquisite.
+
+extend: The deadline for the project has been extended by one week.
+
+extension: I'm calling on extension 204.
+
+extensive: The fire caused extensive damage to the building.
+
+extensively: The topic has been discussed extensively in the media.
+
+extent: I agree with you to a certain extent.
+
+exterior: The exterior of the house was painted white.
+
+external: The company is facing several external challenges.
+
+extinct: Dinosaurs became extinct millions of years ago.
+
+extinction: Many species are currently threatened with extinction.
+
+extinguish: The firefighters worked hard to extinguish the blaze.
+
+extra: Is there any extra food for guests?
+
+extract: The dentist had to extract two of my teeth.
+
+extraction: The extraction of gold from the mine is a complex process.
+
+extraordinary: The young scientist made an extraordinary discovery.
+
+extravagance: His extravagance led to serious financial problems.
+
+extravagant: She has very extravagant tastes in jewelry.
+
+extreme: Extreme weather conditions are becoming more common.
+
+extremely: The project was extremely successful.
+
+eye: He has a keen eye for detail.
+
+eyeball: The human eyeball is a very complex organ.
+
+eyebrow: She raised an eyebrow in surprise.
+
+eyeglass: He needs to wear eyeglasses for reading.
+
+eyelid: His eyelids felt heavy, and he soon fell asleep.
+
+eyesight: Regular check-ups are important for maintaining good eyesight.
+
+fable: Aesop's fables are famous all over the world.
+
+fabric: The fabric of the curtains was soft and colorful.
+
+fabricate: The suspect fabricated an alibi for the night of the crime.
+
+fabrication: The story was a complete fabrication from start to finish.
+
+face: He had a smile on his face when he heard the news.
+
+facilitate: The new technology will facilitate better communication among staff.
+
+facility: The hotel has excellent sports facilities, including a gym and a pool.
+
+fact: It is an established fact that smoking is harmful to your health.
+
+faction: There were several factions within the political party fighting for control.
+
+factor: Diet and exercise are major factors in maintaining a healthy weight.
+
+factory: He works in a car factory on the outskirts of the city.
+
+fade: The colors of the old photograph had begun to fade.
+
+Fahrenheit: The temperature today is 75 degrees Fahrenheit.
+
+fail: He failed his driving test the first time he took it.
+
+failure: The project was a complete failure due to lack of funding.
+
+faint: She felt faint from the heat and had to sit down.
+
+fair: The judge's decision was fair and impartial.
+
+fairly: The test was fairly easy, and most students finished it quickly.
+
+fairy: The little girl loved reading stories about fairies and magic.
+
+faith: He has a lot of faith in his doctor's ability to help him.
+
+faithful: His dog is a faithful companion who follows him everywhere.
+
+faithfully: He promised to serve his country faithfully.
+
+fake: The painting was found to be a fake, not an original Picasso.
+
+fall: The leaves begin to fall from the trees in autumn.
+
+FALSE: The witness gave a false statement to the police.
+
+fame: The young actor achieved worldwide fame after his first movie.
+
+familiarity: His familiarity with the city made it easy for him to find his way.
+
+familiar: The tune sounded familiar, but I couldn't remember where I'd heard it.
+
+family: She spent the weekend visiting her family in the country.
+
+famine: The long drought led to a severe famine in the region.
+
+famous: The Eiffel Tower is one of the most famous landmarks in the world.
+
+fan: She used a fan to cool herself down in the heat.
+
+fanatic: He is a football fanatic who never misses a game.
+
+fancy: I fancy going out for dinner tonight.
+
+fantastic: We had a fantastic time at the music festival.
+
+far: How far is the nearest train station from here?
+
+fare: The bus fare has increased by ten cents.
+
+farewell: The retiring manager gave a farewell speech to his staff.
+
+farm: They live on a small organic farm in the countryside.
+
+farmer: The farmer is busy harvesting the wheat crop.
+
+farmhand: He worked as a farmhand during his summer break.
+
+farmhouse: The old farmhouse was built over a hundred years ago.
+
+farming: Farming is the main industry in this part of the country.
+
+farther: We decided to walk a bit farther to see the lighthouse.
+
+fascinate: The history of ancient civilizations has always fascinated her.
+
+fascination: He watched the magician's tricks with great fascination.
+
+fascism: Fascism is a far-right political ideology.
+
+fascist: The group was accused of promoting fascist ideas.
+
+fashion: She works in the fashion industry in Milan.
+
+fashionable: It is currently fashionable to wear oversized clothes.
+
+fast: The express train is very fast.
+
+fasten: Please fasten your seatbelt before the flight takes off.
+
+fat: This milk is 100% fat-free.
+
+fatal: The car accident proved to be fatal for the driver.
+
+fate: He felt that his fate was out of his hands.
+
+father: He lives with his father and younger brother.
+
+father-in-law: Her father-in-law is a retired army officer.
+
+fathom: I can't fathom why he would make such a strange decision.
+
+fatigue: He was suffering from mental fatigue after the long exam.
+
+fault: It's not my fault that we're late; the bus was delayed.
+
+faultless: The pianist gave a faultless performance.
+
+faulty: The product was returned because it had a faulty electrical connection.
+
+favor: Could you do me a favor and mail this letter?
+
+favorable: The initial reviews of the new movie were very favorable.
+
+favorably: The committee viewed the proposal favorably.
+
+favorite: My favorite color is blue.
+
+FBI: The FBI is investigating the case.
+
+fear: She has a great fear of heights.
+
+fearful: He was fearful that he might lose his job.
+
+fearless: The fearless firefighters entered the burning building.
+
+feasibility: The government is conducting a feasibility study for the new airport.
+
+feasible: It is not feasible to finish the project by tomorrow.
+
+feast: The villagers prepared a huge feast to celebrate the harvest.
+
+feat: Climbing Mount Everest is a remarkable feat of endurance.
+
+feather: The bird was covered in beautiful blue and green feathers.
+
+feature: One of the key features of the new phone is its high-quality camera.
+
+February: Valentine's Day is in February.
+
+federal: The US has a federal system of government.
+
+federation: The International Football Federation is known as FIFA.
+
+fee: The tuition fee for the course is $500.
+
+feeble: The old man let out a feeble cry for help.
+
+feed: Don't forget to feed the dog!
+
+feedback: We welcome any feedback you have about our service.
+
+feel: I feel a bit cold; can you close the window?
+
+feeling: She has a feeling that something is wrong.
+
+fell: The loggers felled several large trees in the forest.
+
+fellow: He is a very friendly fellow.
+

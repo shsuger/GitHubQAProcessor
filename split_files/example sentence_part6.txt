@@ -1,0 +1,500 @@
+coarse: The coarse sandpaper is used to smooth rough surfaces of wood.
+
+coast: The ship sailed along the coast, passing several small fishing villages.
+
+coastal: Many coastal cities are facing the problem of rising sea levels.
+
+coat: She put on a warm coat before going out into the cold weather.
+
+cock: The rooster (cock) crows every morning to wake up the villagers.
+
+cocktail: They enjoyed drinking cocktails at the bar during the party.
+
+code: You need to enter the correct code to unlock the safe.
+
+codify: The government plans to codify the new laws to make them clearer.
+
+coefficient: The coefficient of friction affects the movement of objects on a surface.
+
+coffee: I usually drink a cup of coffee in the morning to stay awake.
+
+coffin: The coffin was carried by six pallbearers to the cemetery.
+
+coherence: The coherence of his speech made it easy for the audience to understand.
+
+coherent: You should write a coherent essay with a clear structure.
+
+cohesion: The cohesion of the team is essential for the success of the project.
+
+cohesive: A cohesive team can overcome any difficulties together.
+
+coil: The electric wire is wrapped in a coil to save space.
+
+coin: He flipped a coin to decide whether to go left or right.
+
+coinage: The word “selfie” is a modern coinage that has become popular worldwide.
+
+coincide: Our birthdays coincide on the same day of the year.
+
+coincidence: It was a coincidence that we met each other in the same restaurant.
+
+coincident: The arrival of the guests was coincident with the start of the party.
+
+coldness: The coldness of his attitude made her feel unwelcome.
+
+collaborate: The two companies decided to collaborate on a new research project.
+
+collaboration: The success of the movie is the result of the collaboration of many people.
+
+collapse: The old building collapsed after the strong earthquake.
+
+collar: He wore a shirt with a white collar to the formal meeting.
+
+colleague: My colleague helped me finish the report on time.
+
+collect: She likes to collect stamps from different countries around the world.
+
+collection: His collection of antique watches is worth a lot of money.
+
+collective: The collective effort of the team led to their victory in the competition.
+
+college: He studied computer science at a local college.
+
+collide: The two cars collided at the intersection because of the red light violation.
+
+collision: The collision between the two ships caused a lot of damage.
+
+colonel: The colonel commanded his soldiers to attack the enemy’s position.
+
+colonial: The country used to be a colonial territory of a European power.
+
+colonist: The colonists settled in the new land and built their own villages.
+
+colony: The bees built a large colony in the tree in our backyard.
+
+color: The color of the sky changes from blue to orange at sunset.
+
+color-blind: He is color-blind and cannot distinguish between red and green.
+
+colorful: The market is full of colorful fruits and vegetables.
+
+colorless: Water is a colorless and tasteless liquid.
+
+column: The building is supported by several large stone columns.
+
+columnist: She works as a columnist for a famous newspaper, writing about fashion.
+
+comb: She used a comb to style her long hair before going out.
+
+combat: The army was sent to combat the enemy forces in the border area.
+
+combination: The combination of red and blue makes the color purple.
+
+combine: We can combine work and play to make our life more enjoyable.
+
+come: Please come to my office as soon as you finish your work.
+
+comedian: The comedian told many funny jokes that made the audience laugh.
+
+comedy: We watched a comedy movie last night and had a great time.
+
+comfort: The soft armchair provided great comfort after a long day of hiking.
+
+comfortable: She felt comfortable enough in her new surroundings to start making friends.
+
+comic: The comic actor had the audience roaring with laughter throughout the entire performance.
+
+command: The general issued a command to the troops to advance immediately.
+
+commander: The commander was respected for his strategic brilliance and fairness.
+
+commemorate: A statue was erected to commemorate the soldiers who fought in the war.
+
+commemoration: The annual commemoration of the event draws visitors from all over the country.
+
+commence: The ceremony will commence as soon as the guests of honor arrive.
+
+commend: I must commend you on your diligent work and attention to detail.
+
+commandment: The ancient tablet was inscribed with a commandment that all citizens were expected to obey.
+
+comment: He declined to comment on the ongoing investigation until all facts were clear.
+
+commerce: International commerce has been greatly facilitated by the internet.
+
+commercial: The movie was a huge commercial success, breaking box office records.
+
+commission: The artist received a commission to paint a portrait of the mayor.
+
+commit: He decided to commit himself fully to the project, working late every night.
+
+commitment: Marriage is a lifelong commitment that requires patience and understanding.
+
+committee: The planning committee meets every Tuesday to discuss the upcoming festival.
+
+commodity: Coffee is a valuable commodity traded on markets around the world.
+
+common: It is common knowledge that exercise is good for your health.
+
+commonly: This species of bird is commonly found in tropical rainforests.
+
+commonplace: Electric cars are becoming commonplace on city streets.
+
+commonsense: It is just a matter of commonsense to lock your door when you leave.
+
+commonwealth: The Commonwealth of Nations promotes democracy and human rights.
+
+commune: They lived in a commune where they shared all property and responsibilities.
+
+communicate: Dolphins use a complex system of sounds to communicate with each other.
+
+communication: Good communication is the key to a successful relationship.
+
+communicative: She was in a communicative mood and told us all about her trip.
+
+communism: The theory of communism advocates for a classless society.
+
+communist: He was a card-carrying communist for many years.
+
+community: The local community rallied together to help the flood victims.
+
+compact: The compact car is easy to park in tight spaces.
+
+companion: His dog was his constant companion during his lonely years.
+
+company: She enjoys the company of her friends on the weekends.
+
+comparable: The two fabrics are comparable in quality but different in texture.
+
+comparative: The comparative study of religions reveals many common themes.
+
+comparatively: The test was comparatively easy given how much we had studied.
+
+compare: You cannot compare apples and oranges.
+
+comparison: In comparison to last year, profits have doubled.
+
+compass: We used a compass and map to navigate through the dense forest.
+
+compatible: This software is not compatible with older operating systems.
+
+compel: The law can compel witnesses to testify in court.
+
+compensate: The company will compensate you for your travel expenses.
+
+compensation: He received workers' compensation for the injury he sustained on the job.
+
+compete: Thousands of athletes compete in the Olympic Games.
+
+competent: We need a competent mechanic to fix this engine problem.
+
+competition: There is fierce competition between the two leading brands.
+
+competitive: The job market is highly competitive right now.
+
+competitiveness: The country needs to improve its economic competitiveness.
+
+competitor: Our main competitor has just launched a new product.
+
+compile: The editor will compile a collection of the best essays.
+
+complain: Neighbors began to complain about the noise from the construction site.
+
+complaint: The customer filed a formal complaint about the poor service.
+
+complement: The red wine was a perfect complement to the steak dinner.
+
+complete: Once you complete the form, please hand it to the receptionist.
+
+completely: I completely forgot about our meeting this morning.
+
+completion: The project is nearing completion and should be finished by Friday.
+
+complex: The human brain is a complex organ that is still not fully understood.
+
+complexity: The complexity of the problem required a team of experts to solve.
+
+compliance: The company was in full compliance with safety regulations.
+
+complicate: Don't complicate the issue by bringing up irrelevant details.
+
+complicated: The instructions were so complicated that I couldn't assemble the table.
+
+compliment: He paid her a nice compliment on her new dress.
+
+complimentary: The hotel offers complimentary breakfast to all guests.
+
+comply: Failure to comply with the rules will result in a fine.
+
+component: Exercise is a key component of a healthy lifestyle.
+
+componential: The componential analysis broke the sound down into its frequencies.
+
+compose: Mozart began to compose music at the age of five.
+
+composed: She remained composed despite the chaos around her.
+
+composer: Beethoven is considered one of the greatest composers of all time.
+
+composite: The police artist drew a composite sketch of the suspect.
+
+composition: The chemical composition of the soil was analyzed in the lab.
+
+compound: Salt is a compound of sodium and chlorine.
+
+comprehend: It is difficult to comprehend the vastness of the universe.
+
+comprehension: The listening comprehension test was harder than I expected.
+
+comprehensive: The school offers a comprehensive curriculum including arts and sciences.
+
+compress: The software can compress large files to save storage space.
+
+compression: The engine works by using compression to ignite the fuel.
+
+comprise: The team comprises five members from different departments.
+
+compromise: They reached a compromise after hours of negotiation.
+
+compels: His conscience compels him to tell the truth.
+
+compulsory: Education is compulsory for children up to the age of 16.
+
+computation: The complex computation took the computer several hours to finish.
+
+compute: We need to compute the total cost of the project.
+
+computer: My computer crashed and I lost all my unsaved work.
+
+computerization: The computerization of the library records made searching much faster.
+
+computerize: The bank decided to computerize all its customer records.
+
+comrade: He remembered his fallen comrades from the war.
+
+conceal: She tried to conceal her surprise when she heard the news.
+
+concede: The candidate refused to concede defeat until all votes were counted.
+
+conceit: His conceit made him unpopular with his colleagues.
+
+conceited: She is so conceited that she thinks she is better than everyone else.
+
+conceive: I cannot conceive of a world without music.
+
+concentrate: I need to concentrate on my studies if I want to pass the exam.
+
+concentrated: She made a concentrated effort to improve her piano playing.
+
+concentration: The loud noise broke my concentration.
+
+concept: The concept of time travel has fascinated people for centuries.
+
+conception: He has no conception of how hard life can be for the poor.
+
+conceptive: The artist's conceptive skills allowed him to create unique sculptures.
+
+concern: The new regulations concern all employees in the company.
+
+concerned: I am concerned about his health.
+
+concerning: I have some questions concerning your recent report.
+
+concert: We bought tickets to the rock concert next month.
+
+concerted: The government is making a concerted effort to reduce pollution.
+
+concession: Both sides had to make concessions to reach an agreement.
+
+concise: Please write a concise summary of the book.
+
+conclude: The meeting will conclude with a speech from the chairman.
+
+conclusion: The conclusion of the story was very surprising.
+
+conclusive: The DNA evidence was conclusive proof of his guilt.
+
+concrete: We need concrete evidence before we can make an arrest.
+
+concur: I concur with your assessment of the situation.
+
+concurrence: The concurrence of the two events was purely coincidental.
+
+concurrent: The two prison sentences will run concurrent to each other.
+
+condemn: The politician was quick to condemn the violence.
+
+condemnation: His actions drew widespread condemnation from the public.
+
+condensation: Condensation formed on the cold windowpane.
+
+condense: Please condense your report into a single page.
+
+condenser: The condenser in the air conditioner needs to be replaced.
+
+condition: The car is in excellent condition despite its age.
+
+conditional: The job offer is conditional on passing a background check.
+
+conduce: A quiet environment conduces to study.
+
+conducive: Soft music is conducive to relaxation.
+
+conduct: Copper is used to conduct electricity.
+
+conduction: Heat conduction occurs when you touch a hot stove.
+
+conductor: The conductor raised his baton and the orchestra began to play.
+
+cone: We ate ice cream from a waffle cone.
+
+confer: I need to confer with my lawyer before answering that question.
+
+conference: He is attending a medical conference in London.
+
+confess: He decided to confess his love to her.
+
+confession: The priest heard his confession in the church.
+
+confide: She felt she could confide in her best friend.
+
+confidence: He lacks the confidence to speak in public.
+
+confident: I am confident that we will win the game.
+
+confidential: These documents are strictly confidential.
+
+confine: Please confine your remarks to the topic at hand.
+
+confinement: The prisoner was placed in solitary confinement.
+
+confirm: Please confirm your reservation by tomorrow.
+
+confirmation: We are waiting for confirmation of the flight details.
+
+conflict: There is a conflict between his personal interests and his professional duties.
+
+conform: All students must conform to the school's dress code.
+
+conformity: He acted in conformity with his principles.
+
+confront: She decided to confront him about his behavior.
+
+confrontation: The confrontation between the two groups turned violent.
+
+confuse: The complex instructions only served to confuse me.
+
+confusion: There was a lot of confusion after the accident.
+
+congestion: Traffic congestion is a major problem in big cities.
+
+congratulate: I want to congratulate you on your graduation.
+
+congratulation: Congratulations on your new job!
+
+congress: Congress will vote on the new bill next week.
+
+congressman: The congressman met with his constituents to discuss local issues.
+
+conjunction: The police are working in conjunction with the FBI on this case.
+
+connect: Can you connect my laptop to the printer?
+
+connection: There is a loose connection in the wiring.
+
+conquer: He managed to conquer his fear of heights.
+
+conqueror: William the Conqueror invaded England in 1066.
+
+conquest: The Spanish conquest of the Americas changed history.
+
+conscience: My conscience would not let me lie to him.
+
+conscientious: She is a conscientious worker who always does her best.
+
+conscientiously: He conscientiously checked every detail of the report.
+
+conscious: She became conscious of someone watching her.
+
+consciousness: He lost consciousness after being hit on the head.
+
+consecutive: It has rained for five consecutive days.
+
+consent: Her parents would not consent to the marriage.
+
+consequence: He had to face the consequences of his actions.
+
+consequently: The shop was closed, and consequently we couldn't buy any milk.
+
+conservation: Wildlife conservation is essential for maintaining biodiversity.
+
+conservative: He has very conservative views on politics.
+
+consider: We need to consider all the options before making a decision.
+
+considerable: A considerable amount of money was spent on the project.
+
+considerably: The temperature has dropped considerably since last night.
+
+considerate: It was very considerate of you to bring me flowers.
+
+consideration: We will take your proposal into consideration during the meeting.
+
+consign: He decided to consign his old clothes to charity.
+
+consignment: A large consignment of goods arrived at the warehouse this morning.
+
+consist: A soccer team consists of eleven players.
+
+consistency: Consistency is key when learning a new language.
+
+consistent: Her grades have been consistent throughout the year.
+
+console: I tried to console her after she lost her dog.
+
+consolidate: The company plans to consolidate its branches into one central office.
+
+consolidated: The consolidated report summarizes data from all departments.
+
+consolidation: The consolidation of power was achieved through strategic alliances.
+
+consonant: The letter 'b' is a consonant.
+
+conspicuous: She felt very conspicuous in her bright red coat.
+
+conspiracy: They were accused of being involved in a conspiracy to overthrow the government.
+
+constable: The village constable was known by everyone in the small town.
+
+constant: The constant noise from the construction site is driving me crazy.
+
+constantly: He is constantly checking his phone for messages.
+
+constituent: Sugar is a major constituent of candy.
+
+constitute: Twelve months constitute a year.
+
+constitution: The country adopted a new constitution after the revolution.
+
+constitutive: The constitutive rules of the game must be followed by all players.
+
+constraint: Budget constraints forced us to cancel the project.
+
+construct: They plan to construct a new bridge across the river.
+
+construction: The construction of the skyscraper took three years.
+
+construe: His silence was construed as agreement.
+
+consul: We visited the American consul to get help with our visas.
+
+consulate: The protest took place outside the French consulate.
+
+consult: You should consult a doctor if the pain persists.
+
+consultant: The company hired a financial consultant to help with their investments.
+
+consultation: The doctor is available for consultation between 9 and 11 am.
+
+consume: This car consumes a lot of fuel.
+

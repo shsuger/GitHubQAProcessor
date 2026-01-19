@@ -1,0 +1,500 @@
+hunter: The hunter spent the whole day tracking the animal.
+
+hurl: He hurled the ball across the yard.
+
+hurrah: Hurrah! We finally finished the project!
+
+hurry: Please hurry up or we'll be late for the meeting.
+
+hurt: Be careful not to hurt yourself.
+
+husband: Her husband works as a software engineer.
+
+hush: A sudden hush fell over the room as the speaker entered.
+
+hustle: We need to hustle if we want to catch the last train.
+
+hut: They stayed in a small wooden hut in the mountains.
+
+hydraulic: The car uses a hydraulic braking system.
+
+hydroelectric: The dam is used to generate hydroelectric power.
+
+hydrogen: Hydrogen is the lightest and most abundant element in the universe.
+
+hygiene: Personal hygiene is important for maintaining good health.
+
+hymn: The choir sang a beautiful hymn at the end of the service.
+
+hypocrisy: He was accused of hypocrisy for not practicing what he preached.
+
+hypothesis: The scientists are conducting experiments to test their hypothesis.
+
+hypothetical: This is just a hypothetical situation, not a real one.
+
+hysteria: There was a lot of mass hysteria after the news of the accident broke.
+
+hysteric: She let out a hysteric laugh when she heard the news.
+
+I: I am going to the store.
+
+ice: The lake was covered in a thick layer of ice.
+
+ice-cream: Chocolate is my favorite flavor of ice-cream.
+
+ice-bound: The ship was trapped in ice-bound waters for weeks.
+
+Iceland: Iceland is famous for its stunning natural scenery and hot springs.
+
+icy: Be careful on the icy roads this morning.
+
+idea: I have a great idea for a new business.
+
+ideal: This is an ideal location for a summer vacation.
+
+idealism: His political views are based on a sense of youthful idealism.
+
+idealize: It is easy to idealize the past and forget the difficulties.
+
+identical: The two sisters are wearing identical dresses.
+
+identification: You need to show some identification before you can enter the building.
+
+identify: The witness was able to identify the suspect in a line-up.
+
+identity: The thief stole her identity and used her credit cards.
+
+idiom: English is full of strange and colorful idioms.
+
+idiomatic: He speaks English with a very idiomatic and natural flow.
+
+idiot: Don't be such an idiot; think about what you're doing.
+
+idle: The factory has been idle for several months.
+
+idleness: Idleness can lead to boredom and frustration.
+
+idol: The young singer is a popular idol among teenagers.
+
+i.e.: The cost includes everything, i.e., flights, hotels, and meals.
+
+if: If it rains tomorrow, we'll stay inside.
+
+ignite: A spark from the engine ignited the fuel.
+
+ignorance: Public ignorance about the disease is a major problem.
+
+ignorant: He is completely ignorant of the latest developments in science.
+
+ignore: She decided to ignore his rude comment.
+
+ill: She has been feeling ill for several days.
+
+illegal: It is illegal to drive without a license.
+
+illegible: His handwriting is so messy that it's almost illegible.
+
+illiteracy: The government is launching a campaign to reduce illiteracy.
+
+illiterate: Many people in the remote village are still illiterate.
+
+illness: He missed a week of work due to a serious illness.
+
+illuminate: The bright lights of the city illuminate the night sky.
+
+illusion: The oasis turned out to be just an optical illusion.
+
+illusive: The promise of quick wealth proved to be illusive.
+
+illustrate: The teacher used several examples to illustrate the point.
+
+illustration: The book contains several beautiful illustrations.
+
+image: The company is trying to improve its public image.
+
+imaginary: The characters in the story are entirely imaginary.
+
+imagination: Children have very vivid imaginations.
+
+imagine: Can you imagine what life will be like in fifty years?
+
+imitate: He can imitate several different accents perfectly.
+
+imitation: The bag is a clever imitation of a famous brand.
+
+immaterial: The cost of the project is immaterial compared to its benefits.
+
+immature: He was criticized for his immature behavior.
+
+immediate: The patient needs immediate medical attention.
+
+immediately: Please call me immediately if you hear any news.
+
+immense: The company made an immense profit this year.
+
+immerse: She decided to immerse herself in her work to forget her troubles.
+
+immigrant: The city has a large and diverse immigrant population.
+
+immigrate: Many people immigrated to America in the late 19th century.
+
+immigration: The government is trying to tighten immigration laws.
+
+imminent: The heavy clouds suggest that a storm is imminent.
+
+immoral: Stealing is considered immoral in most cultures.
+
+immortal: The ancient Greek gods were believed to be immortal.
+
+impact: The discovery had a major impact on the scientific community.
+
+impart: Teachers try to impart knowledge and values to their students.
+
+impartial: A judge must remain impartial and objective at all times.
+
+impatience: He was showing signs of growing impatience as the meeting went on.
+
+impatient: She grew impatient waiting for the bus to arrive.
+
+imperative: It is imperative that we finish the project on time.
+
+imperfect: The product was returned because it was found to be imperfect.
+
+imperialism: The country's history was shaped by centuries of imperialism.
+
+imperialist: The group was accused of promoting imperialist ideas.
+
+implement: The government is planning to implement new security measures.
+
+implementation: The implementation of the new policy took several months.
+
+implication: The discovery has major implications for the future of medicine.
+
+implied: There was an implied threat in his words.
+
+implore: She implored him to stay, but he had to leave.
+
+imply: His silence seemed to imply that he agreed with the decision.
+
+import: The country imports a large amount of its oil from abroad.
+
+importance: He places a lot of importance on academic achievement.
+
+important: It is important to get enough sleep every night.
+
+importation: The importation of ivory is strictly controlled in most countries.
+
+importer: He works for a major importer of exotic fruits.
+
+impose: The government decided to impose a new tax on luxury goods.
+
+imposition: The imposition of the new rules was met with a lot of protest.
+
+impossibility: Finishing the project by tomorrow is an absolute impossibility.
+
+impossible: It is impossible to please everyone all the time.
+
+impost: The government increased the impost on imported electronics.
+
+impractical: His plan for a floating city was considered highly impractical.
+
+impress: He tried hard to impress his new boss.
+
+impression: I have the impression that she is not happy with the decision.
+
+impressive: The skyscraper is an impressive piece of modern architecture.
+
+imprison: The journalist was imprisoned for criticizing the government.
+
+imprisonment: He was sentenced to ten years of imprisonment for the robbery.
+
+improper: His behavior at the meeting was considered highly improper.
+
+improve: The weather is expected to improve over the next few days.
+
+improvement: There has been a significant improvement in her health lately.
+
+impulse: He bought the car on an impulse, without really thinking about it.
+
+impurity: The water filter removes impurities and bacteria.
+
+in: I'll be ready in ten minutes.
+
+inability: His inability to speak English was a major disadvantage.
+
+inaccessible: The village is completely inaccessible by road during the winter.
+
+inaccurate: The report was criticized for being inaccurate and biased.
+
+inadequate: The supply of water was inadequate for the growing population.
+
+inasmuch: He was lucky, inasmuch as he escaped the accident without any injuries.
+
+inaugural: The president gave his inaugural speech in front of a large crowd.
+
+inaugurate: The new airport was inaugurated by the prime minister yesterday.
+
+inauguration: The inauguration of the new president will take place in January.
+
+incapable: He is incapable of lying, even when it might benefit him.
+
+incense: The air in the temple was filled with the smell of burning incense.
+
+incentive: The government is offering tax incentives to encourage investment.
+
+inch: One inch is equal to 2.54 centimeters.
+
+incident: The police are investigating a mysterious incident that took place last night.
+
+incidentally: Incidentally, have you seen my keys anywhere?
+
+inclination: She has an inclination towards music and art.
+
+incline: The road has a steep incline, making it hard to climb.
+
+inclined: I am inclined to believe his story, given his reputation for honesty.
+
+include: The price of the tour includes all flights and accommodation.
+
+inclusion: The inclusion of her work in the exhibition was a great honor.
+
+inclusive: The resort offers an all-inclusive holiday package.
+
+income: The family is struggling to survive on a low income.
+
+incompatibility: The incompatibility of the two systems led to several problems.
+
+incompatible: His views are incompatible with the core principles of the party.
+
+incomplete: The report is still incomplete and needs more work.
+
+inconsistency: There were several inconsistencies in his statement to the police.
+
+inconsistent: The witness gave inconsistent accounts of what happened.
+
+inconvenience: We apologize for any inconvenience caused by the delay.
+
+inconvenient: The lack of public transport in the area is very inconvenient.
+
+incorporate: They decided to incorporate several new features into the app.
+
+incorporated: The company is a major incorporated business in the region.
+
+incorrect: Please ensure that all the information provided is not incorrect.
+
+incoterms: The contract is based on the latest Incoterms for international trade.
+
+increase: The population of the city has increased significantly.
+
+increasing: There is an increasing demand for skilled software engineers.
+
+increasingly: The situation is becoming increasingly unstable.
+
+incredible: The view from the top of the mountain was absolutely incredible.
+
+incredulous: He gave an incredulous laugh at the news.
+
+increment: The employees receive an annual salary increment based on performance.
+
+incur: The company will incur a loss if the sales don't improve.
+
+indebted: I am deeply indebted to all the doctors and nurses who helped me.
+
+indebtedness: The country has a high level of foreign indebtedness.
+
+indeed: The result was indeed very surprising.
+
+indefinite: The project has been delayed for an indefinite period of time.
+
+indefinitely: The meeting has been postponed indefinitely.
+
+indemnify: The insurance company will indemnify you against any loss or damage.
+
+indent: You should indent the first line of each paragraph.
+
+independence: The country gained its independence after years of struggle.
+
+independent: The newspaper is completely independent of any political party.
+
+independently: He worked independently on the project for several months.
+
+index: The book includes a comprehensive index of topics at the back.
+
+India: India is a major emerging economic power.
+
+Indian: He loves traditional Indian food, especially curry.
+
+indicate: The results of the test indicate that he is in good health.
+
+indication: There was every indication that the project would be successful.
+
+indicative: His behavior is indicative of a lack of confidence.
+
+indifference: His indifference to the plight of others was quite shocking.
+
+indifferent: She remained indifferent to his apologies.
+
+indigestion: Eating too fast can often lead to indigestion.
+
+indignant: He was indignant at the way he had been treated.
+
+indignation: The public's indignation grew as more details of the scandal were revealed.
+
+indirect: The news of the accident reached us through indirect channels.
+
+indirectly: His decision to resign will indirectly affect the entire team.
+
+indispensable: Computers have become an indispensable part of our daily lives.
+
+individual: The teacher provides individual attention to each student in the class.
+
+indoor: The hotel has an indoor swimming pool for its guests.
+
+indoors: It started to rain, so we decided to go indoors.
+
+induce: The doctor prescribed medicine to induce sleep.
+
+inducement: The company offered several inducements to attract new investors.
+
+induction: The new employees attended a three-day induction course.
+
+indulge: It's okay to indulge in a little chocolate every now and then.
+
+industrial: The city has a large industrial area on its outskirts.
+
+industrialize: The government is trying to industrialize the rural regions of the country.
+
+industrialization: The rapid industrialization of the 19th century changed society forever.
+
+industrialized: Japan is one of the most highly industrialized nations in the world.
+
+industrious: She is a very industrious student who always finishes her work on time.
+
+industry: The tourism industry is a major source of income for the country.
+
+ineffective: The current laws are ineffective in preventing cybercrime.
+
+ineffectiveness: The report highlighted the ineffectiveness of the management team.
+
+inefficiency: The company is trying to reduce inefficiency in its production process.
+
+inefficient: The old heating system is very inefficient and uses too much energy.
+
+inertia: The company's failure to adapt was due to a sense of organizational inertia.
+
+inevitable: Change is an inevitable part of life.
+
+inevitably: The higher prices will inevitably lead to a drop in sales.
+
+inexpensive: This restaurant offers a variety of delicious and inexpensive meals.
+
+infant: The infant was sleeping peacefully in the crib.
+
+infantry: The infantry moved forward to capture the enemy's position.
+
+infect: He managed to infect everyone in the office with his enthusiasm.
+
+infection: You should clean the wound carefully to prevent infection.
+
+infectious: The child was sent home from school because he has an infectious disease.
+
+infer: From his silence, we could infer that he was unhappy with the decision.
+
+inference: The detective made an inference based on the evidence found at the scene.
+
+inferior: The quality of this fabric is inferior to the one we bought last year.
+
+inferiority: He suffered from a sense of inferiority during his early school years.
+
+infinite: The universe is often described as being infinite in size.
+
+infinitely: Modern computers are infinitely more powerful than the ones used forty years ago.
+
+infinitive: In English grammar, 'to be' is an example of an infinitive.
+
+infinity: The concept of infinity is difficult for many people to grasp.
+
+inflammable: The warning sign indicated that the material was highly inflammable.
+
+inflation: The government is trying to curb inflation by raising interest rates.
+
+inflict: The storm inflicted a lot of damage on the coastal town.
+
+influence: My parents have always had a great influence on my life.
+
+influential: He is one of the most influential political thinkers of our time.
+
+influenza: The city is currently facing a major outbreak of influenza.
+
+inform: Please inform me as soon as you hear any news.
+
+informal: The atmosphere at the meeting was quite informal and relaxed.
+
+information: I'm looking for some information about local tourist attractions.
+
+informative: The documentary was very informative and interesting.
+
+infrequent: He is an infrequent visitor to the library.
+
+infringe: The group was accused of infringing on the company's patent.
+
+infringement: The use of the copyrighted music was a clear infringement of the law.
+
+ingenious: She came up with an ingenious solution to the problem.
+
+ingenuity: The project was a testament to his engineering ingenuity.
+
+inhabit: Many rare species of animals inhabit this forest.
+
+inhabitant: The city has over two million inhabitants.
+
+inherent: There are inherent risks involved in any new business venture.
+
+inherit: She inherited a large fortune from her grandmother.
+
+initial: The initial reaction to the news was one of shock.
+
+initially: Initially, I was a bit nervous about the job interview.
+
+initiate: The government decided to initiate a new investigation into the matter.
+
+initiative: He showed a lot of initiative in completing the project ahead of schedule.
+
+inject: The doctor injected some medicine into the patient's arm.
+
+injection: I had to go to the clinic to get a flu injection.
+
+injure: He injured his leg while he was playing football.
+
+injury: The athlete was forced to retire due to a serious injury.
+
+injustice: The protest was organized to fight against social injustice.
+
+ink: I need to buy a new cartridge of black ink for my printer.
+
+inland: The city is located several hundred miles inland from the coast.
+
+inlet: The small boat entered the quiet inlet to seek shelter from the storm.
+
+inn: We stayed at a charming old inn in the countryside.
+
+inner: The rooms overlook a beautiful inner courtyard.
+
+innocence: The suspect maintained his innocence throughout the trial.
+
+innocent: She was found to be innocent of all charges.
+
+innovate: The company needs to innovate if it wants to stay competitive.
+
+innovation: The invention of the smartphone was a major innovation.
+
+innumerable: There are innumerable stars in the galaxy.
+
+inorganic: Chemistry is divided into organic and inorganic branches.
+
+input: We need more input from the community before making a decision.
+
+inquire: I'd like to inquire about the cost of the tour.
+
+inquiry: The police are currently conducting an inquiry into the matter.
+

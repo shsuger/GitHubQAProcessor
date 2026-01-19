@@ -1,0 +1,500 @@
+daughter-in-law: Her daughter-in-law is a talented doctor.
+
+dawn: The birds started singing at the break of dawn.
+
+day: I had a very busy day at the office.
+
+daybreak: The soldiers moved out at daybreak.
+
+daylight: The burglars were caught in broad daylight.
+
+daytime: The city is much busier during the daytime.
+
+daze: He was in a daze after the car accident.
+
+dazzle: The bright lights of the city dazzled her.
+
+dazzling: The diamond necklace was truly dazzling.
+
+dead: The battery in my phone is dead.
+
+deadline: We are working hard to meet the deadline for the project.
+
+deadly: The cobra is one of the world's most deadly snakes.
+
+deaf: He has been deaf since birth and uses sign language.
+
+deafen: The sound of the explosion was loud enough to deafen anyone nearby.
+
+deal: I don't know how to deal with this problem.
+
+dealer: He is a car dealer who specializes in luxury vehicles.
+
+dealing: He is known for his fair dealing in business.
+
+dean: The dean of the faculty welcomed the new students.
+
+dear: She is a very dear friend of mine.
+
+death: The news of his sudden death shocked everyone.
+
+deathly: He turned a deathly shade of pale when he saw the ghost.
+
+debate: The candidates had a lively debate on television.
+
+debit: The bank made a debit to my account for the monthly fee.
+
+debt: He is struggling to pay off his mounting debts.
+
+decade: The company has grown significantly over the past decade.
+
+decay: The old wooden fence is starting to decay.
+
+deceased: The estate of the deceased was divided among his children.
+
+deceit: He was accused of deceit and dishonesty.
+
+deceive: He tried to deceive the police with a fake ID.
+
+deception: She was a master of deception and could easily lie to anyone.
+
+deceitful: The company was fined for its deceitful advertising practices.
+
+December: Christmas is celebrated in December.
+
+decency: Common decency suggests that you should apologize for your behavior.
+
+decent: I need to find a decent job with a good salary.
+
+decide: I can't decide which dress to wear to the party.
+
+decided: He has a decided advantage over the other candidates.
+
+decidedly: The weather has turned decidedly colder since yesterday.
+
+decimal: The metric system is a decimal system of measurement.
+
+decision: The committee will make a final decision tomorrow.
+
+decisive: The general's decisive actions led to a quick victory.
+
+deck: We sat on the deck of the boat and watched the sunset.
+
+declaration: The Declaration of Independence is a famous historical document.
+
+declare: He had to declare the items he bought abroad at customs.
+
+decline: The price of oil has begun to decline.
+
+declining: The company is struggling in a declining market.
+
+decompose: Leaves and twigs decompose over time to form rich soil.
+
+decorate: They spent the weekend decorating their new apartment.
+
+decoration: She bought some new decorations for the Christmas tree.
+
+decorative: The mirror has a beautiful decorative frame.
+
+decrease: The population of the village has decreased over the years.
+
+decree: The king issued a decree banning all public gatherings.
+
+dedicate: He dedicated his life to helping the poor.
+
+deduce: From the evidence, the detective was able to deduce who the killer was.
+
+deduct: The company will deduct the taxes directly from your paycheck.
+
+deduction: The detective used his powers of deduction to solve the case.
+
+deed: He was rewarded for his brave deeds during the war.
+
+deem: The bridge was deemed unsafe and closed to traffic.
+
+deep: The water is very deep here, so be careful.
+
+deepen: The crisis only served to deepen the divide between the two parties.
+
+deeply: I was deeply moved by his kind words.
+
+deer: We saw a family of deer in the forest.
+
+default: The company is in default on its loan payments.
+
+defeat: The army suffered a crushing defeat in the battle.
+
+defect: The toy was recalled due to a serious manufacturing defect.
+
+defective: The product was returned because it was defective.
+
+defence: The city's defences were strengthened in preparation for the attack.
+
+defend: The soldiers fought bravely to defend their country.
+
+defer: They decided to defer the meeting until next week.
+
+defiance: His actions were a clear act of defiance against the government.
+
+defiant: The boy gave his teacher a defiant look.
+
+deficiency: A Vitamin C deficiency can lead to several health problems.
+
+deficient: His diet is deficient in essential vitamins and minerals.
+
+deficit: The government is struggling to reduce the budget deficit.
+
+define: It is difficult to define the exact meaning of the word.
+
+definite: We need a definite answer by tomorrow.
+
+definitely: I will definitely be there on time.
+
+definition: The dictionary provides several definitions for the word.
+
+definitive: This is the definitive biography of the famous artist.
+
+deflate: The news of the loss deflated his confidence.
+
+deflect: The shield was designed to deflect incoming bullets.
+
+deflection: The deflection of the compass needle was caused by the nearby metal.
+
+deform: High temperatures can deform the plastic parts.
+
+deformation: The structural deformation was caused by the earthquake.
+
+defray: The company will defray the cost of your travel expenses.
+
+defy: She decided to defy her parents and go to the party anyway.
+
+degradation: Environmental degradation is a major global issue.
+
+degrade: The plastic will eventually degrade in the sun.
+
+degree: She has a bachelor's degree in engineering.
+
+delay: The flight was delayed due to bad weather.
+
+delcredere: He acted as a delcredere agent for the foreign company.
+
+delegate: The manager needs to learn how to delegate tasks to his staff.
+
+delegation: The delegation from China arrived at the airport this morning.
+
+delete: Please delete any unnecessary files from your computer.
+
+deletion: The deletion of the scene from the movie caused some controversy.
+
+deliberate: It was a deliberate attempt to mislead the public.
+
+deliberately: He deliberately ignored my phone calls.
+
+deliberation: After much deliberation, the jury reached a verdict.
+
+delicacy: The local delicacy is a type of smoked fish.
+
+delicate: The antique vase is very delicate, so handle it with care.
+
+delicious: This chocolate cake is absolutely delicious.
+
+delight: The children squealed with delight when they saw the presents.
+
+delightful: We had a delightful evening with our friends.
+
+delinquency: Juvenile delinquency is a serious social problem in some areas.
+
+delinquent: The company is being sued for its delinquent payments.
+
+deliver: The mailman delivers the mail every morning at 10 AM.
+
+deliverance: They prayed for deliverance from their enemies.
+
+delivery: The pizza delivery arrived in less than thirty minutes.
+
+delusion: He suffers from the delusion that he is a famous movie star.
+
+delusive: The promise of quick wealth turned out to be delusive.
+
+demand: There is a high demand for skilled engineers in the industry.
+
+demanding: She has a very demanding boss who expects her to work late every night.
+
+democracy: The country is making a slow transition to democracy.
+
+democrat: He has been a staunch Democrat all his life.
+
+democratic: The democratic process allows every citizen to have a voice.
+
+demolish: The old building was demolished to make way for a new shopping mall.
+
+demolition: The demolition of the stadium will begin next month.
+
+demonstrate: The experiments demonstrate that the theory is correct.
+
+demonstration: The chef gave a demonstration of how to make traditional pasta.
+
+demurrage: The company had to pay demurrage fees because the cargo was delayed.
+
+den: The bear spent the winter hibernating in its den.
+
+denial: The government's denial of the report was met with skepticism.
+
+denominate: The company decided to denominate its new product 'Aura'.
+
+denomination: The machine only accepts coins of certain denominations.
+
+denote: The red circle on the map denotes a danger zone.
+
+denounce: The group held a protest to denounce the new law.
+
+dense: The forest was so dense that sunlight could barely reach the ground.
+
+density: The population density of the city has increased significantly.
+
+dent: There was a small dent in the car door after the accident.
+
+dentist: I have an appointment with the dentist tomorrow morning.
+
+deny: He tried to deny the allegations, but the evidence was against him.
+
+depart: The train is scheduled to depart at 10:30 AM.
+
+department: She works in the marketing department of a large company.
+
+departure: Passengers are advised to check in two hours before departure.
+
+depend: The success of the project will depend on everyone's hard work.
+
+dependability: Dependability is a key quality that employers look for in workers.
+
+dependable: He is a very dependable person who always keeps his promises.
+
+dependant: He has three dependants, including his young son and elderly parents.
+
+dependence: Many countries are trying to reduce their dependence on foreign oil.
+
+dependent: The cost of the trip is dependent on the number of people who go.
+
+depict: The painting depicts a beautiful landscape at sunset.
+
+depiction: The movie's depiction of the historical event was very accurate.
+
+deplete: Overfishing has begun to deplete the ocean's fish stocks.
+
+deposit: You need to pay a deposit of $200 when you rent the apartment.
+
+deposition: The witness gave a sworn deposition before the trial.
+
+depreciate: New cars depreciate in value as soon as they are driven off the lot.
+
+depreciation: The company's profits were affected by the depreciation of the local currency.
+
+depress: The high interest rates are starting to depress the housing market.
+
+depressed: He felt depressed after losing his job.
+
+depression: The Great Depression was a time of severe economic hardship.
+
+deprive: Sleep deprivation can lead to serious health problems.
+
+depth: The divers went down to a depth of fifty meters.
+
+deputy: The deputy manager will be in charge while the boss is away.
+
+derivation: The word has a Latin derivation.
+
+derive: Many English words are derived from Latin and Greek.
+
+derrick: The oil derrick was visible from several miles away.
+
+descend: The airplane began to descend as it approached the airport.
+
+descendant: He is a direct descendant of the famous explorer.
+
+descent: The mountain climbers began their descent as the sun went down.
+
+describe: Can you describe the person you saw running away?
+
+description: The police gave a description of the suspect to the media.
+
+desert: The Sahara is the largest desert in the world.
+
+deserve: You worked very hard and deserve this promotion.
+
+design: The architect is working on a new design for the building.
+
+designate: The area has been designated as a national park.
+
+designation: The official designation of the position is 'Chief Executive Officer'.
+
+designer: She is a famous fashion designer who lives in Milan.
+
+desirable: It is desirable to have some work experience before applying for the job.
+
+desire: His greatest desire is to travel around the world.
+
+desk: Please leave your report on my desk before you leave.
+
+desolate: The island was desolate and uninhabited.
+
+desolation: The scene was one of utter desolation after the earthquake.
+
+despair: She was in the depths of despair after her business failed.
+
+desperate: The rescue workers made a desperate attempt to reach the trapped miners.
+
+desperation: In desperation, he decided to sell his car to pay the rent.
+
+despise: I despise people who are cruel to animals.
+
+despite: Despite the rain, we decided to go for a walk.
+
+dessert: We had apple pie with vanilla ice cream for dessert.
+
+destination: The ship's final destination is Singapore.
+
+destine: He was destined to become a great leader.
+
+destiny: She felt that it was her destiny to help others.
+
+destroy: The fire destroyed several houses in the neighborhood.
+
+destruction: The destruction caused by the hurricane was widespread.
+
+destructive: The storm was very destructive and caused a lot of damage.
+
+detach: You can detach the keyboard from the tablet.
+
+detail: The report provides a lot of detail about the project.
+
+detailed: She gave a detailed account of her trip to Japan.
+
+detain: The police detained the suspect for questioning.
+
+detect: The smoke detector will sound an alarm if it detects fire.
+
+detection: Early detection of the disease is vital for successful treatment.
+
+detective: The detective spent months investigating the mysterious disappearance.
+
+deteriorate: The patient's condition began to deteriorate rapidly.
+
+deterioration: The deterioration of the building was due to years of neglect.
+
+determination: Her determination to succeed led her to study hard every night.
+
+determine: The results of the test will determine your final grade.
+
+detour: We had to take a detour because the main road was closed.
+
+detract: The small scratches on the car don't detract from its overall appearance.
+
+detriment: He worked late every night to the detriment of his health.
+
+detrimental: Smoking is detrimental to your health.
+
+devaluation: The devaluation of the currency made imports more expensive.
+
+devalue: The government decided to devalue the currency to boost exports.
+
+develop: The company is trying to develop new products for the international market.
+
+developing: China is a major developing country with a rapidly growing economy.
+
+development: The development of the new software took several months.
+
+deviate: The airplane had to deviate from its planned route due to a storm.
+
+deviation: Any deviation from the safety rules will be punished.
+
+device: The smartphone is a multi-functional device that can do many things.
+
+devil: In some stories, the devil is a character who tries to lead people astray.
+
+devise: The scientists devised a new way to measure the temperature of the ocean.
+
+devote: She decided to devote her life to helping the poor.
+
+devoted: He is a devoted father who spends all his free time with his children.
+
+devotion: The nurse's devotion to her patients was truly inspiring.
+
+devour: The hungry lions quickly devoured the carcass.
+
+dew: The grass was wet with morning dew.
+
+diagnose: The doctor was able to diagnose the illness after several tests.
+
+diagnosis: The diagnosis of the disease was confirmed by a blood test.
+
+diagram: The manual includes a diagram showing how to assemble the furniture.
+
+dial: You need to dial '0' to get an outside line.
+
+dialect: The people in the village speak a local dialect that is hard to understand.
+
+dialog: The play is full of witty and engaging dialog.
+
+diameter: The diameter of the circle is ten centimeters.
+
+diamond: She wore a beautiful diamond ring on her finger.
+
+diary: I keep a diary of all my travels.
+
+dictate: The boss dictated a letter to his secretary.
+
+dictation: The students had a dictation test in their English class.
+
+dictator: The country was ruled by a ruthless dictator for many years.
+
+dictatorship: The people fought for years to overthrow the dictatorship.
+
+diction: The actor's diction was clear and easy to understand.
+
+dictionary: If you don't know the meaning of a word, you can look it up in the dictionary.
+
+die: Plants will die if they don't get enough water.
+
+diesel: Many heavy trucks are powered by diesel engines.
+
+diet: A balanced diet is essential for good health.
+
+differ: The two opinions differ significantly on this issue.
+
+difference: There is a big difference between winning and losing.
+
+different: The two sisters are very different in personality.
+
+differential: The company offers a differential pay rate for night shifts.
+
+differently: People from different cultures often see the world differently.
+
+difficult: The exam was much more difficult than I expected.
+
+difficulty: He had great difficulty finding a job after graduation.
+
+dig: The dog began to dig a hole in the backyard.
+
+digest: It takes several hours for the body to digest a heavy meal.
+
+digestion: Fiber is important for healthy digestion.
+
+digit: The number '100' consists of three digits.
+
+digital: Most modern watches are digital.
+
+dignity: He maintained his dignity even in the face of failure.
+
+dike: The dikes were built to protect the land from flooding.
+
+dilute: You can dilute the juice with some water if it's too sweet.
+
+diligent: He is a diligent student who always finishes his homework on time.
+
+dim: The lights in the room were dim, making it hard to read.
+
+dime: He didn't even have a dime in his pocket.
+
+dimension: The dimensions of the box are 10 by 10 by 10 centimeters.
+

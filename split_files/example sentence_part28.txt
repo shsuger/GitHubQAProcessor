@@ -1,0 +1,500 @@
+startle: The loud noise served to startle everyone in the room.
+
+starvation: The organization is working to eliminate world starvation.
+
+starve: The poor animals were left to starve in the cold.
+
+state: Please state your name and address for the record.
+
+statement: The company released an official statement about the accident.
+
+statesman: Winston Churchill was a famous British statesman.
+
+static: The population of the village has remained static for years.
+
+station: The nearest train station is about ten minutes away.
+
+stationary: The car was stationary when the truck hit it.
+
+stationery: I need to buy some more office stationery.
+
+statistical: The report provides a detailed statistical analysis of the data.
+
+statistics: The latest statistics show an increase in tourism.
+
+statue: A statue of the leader was erected in the main square.
+
+status: His social status improved significantly after his promotion.
+
+statute: The new statute aims to protect the rights of workers.
+
+stay: We decided to stay in a small hotel near the beach.
+
+steadily: The price of gold has been rising steadily.
+
+steady: He has a very steady and reliable personality.
+
+steak: I ordered a medium-rare steak with vegetables.
+
+steal: It is a serious crime to steal from others.
+
+steam: I could see the steam rising from the hot coffee.
+
+steamer: The old paddle steamer took tourists up the river.
+
+steel: The bridge was built using high-quality structural steel.
+
+steep: The road has a very steep incline, making it hard to climb.
+
+steer: He managed to steer the boat safely through the narrow channel.
+
+stem: The problem stems from a lack of communication.
+
+stencil: He used a stencil to paint the letters on the sign.
+
+step: We need to take steps to reduce pollution.
+
+stereo: He bought a new stereo system for his car.
+
+sterling: The company has a sterling reputation for quality and service.
+
+stern: The captain gave him a very stern look.
+
+stevedore: The stevedores were busy loading the cargo onto the ship.
+
+stew: We had a delicious beef stew for dinner.
+
+steward: The flight steward served drinks to the passengers.
+
+stewardess: The stewardess showed us how to use the life jackets.
+
+stick: Use some glue to stick the pieces together.
+
+sticky: The floor was very sticky after the juice was spilled.
+
+stiff: My muscles were very stiff after the long hike.
+
+still: The lake was calm and still at dawn.
+
+stillness: The absolute stillness of the night was broken by a dog's bark.
+
+stimulate: The new policy aims to stimulate economic growth.
+
+stimulation: The brain requires constant stimulation to function properly.
+
+sting: The bee sting was very painful.
+
+stink: The smell of the rotting garbage was a terrible stink.
+
+stipulate: The contract stipulates that the work must be finished by June.
+
+stipulation: The new rules included several strict stipulations.
+
+stir: Please stir the soup before serving.
+
+stirring: The speaker gave a very stirring and persuasive speech.
+
+stitch: She used a needle and thread to put several stitches in the shirt.
+
+stock: The store has a large stock of electronic components.
+
+stocking: She bought a pair of black silk stockings.
+
+stomach: I have a terrible stomach ache and need some medicine.
+
+stone: The children were throwing stones into the river.
+
+stony: The path was very narrow and stony.
+
+stool: He sat on a tall wooden stool at the bar.
+
+stoop: He had to stoop to look through the low doorway.
+
+stop: Please stop talking and listen to me.
+
+storage: The company provides secure storage facilities for business data.
+
+store: We need to store the goods in a cool and dry place.
+
+storey: The hotel building has ten storeys.
+
+storm: The heavy storm caused a lot of damage to the coastal town.
+
+stormy: The weather was very stormy and rough all week.
+
+story: My grandfather told us many interesting stories about his childhood.
+
+stout: He was a stout and energetic middle-aged man.
+
+stove: I'll put the kettle on the stove and make some tea.
+
+stow: The crew were busy stowing the cargo in the ship's hold.
+
+stowage: Proper stowage of the goods is essential for their safety.
+
+straight: Go straight down this street and then turn left.
+
+straightforward: The instructions are very straightforward and easy to follow.
+
+straighten: He managed to straighten the bent wire.
+
+strain: The long meeting was a real strain for everyone.
+
+strait: The ship passed through the narrow strait safely.
+
+strand: The rope consists of several different strands of fiber.
+
+strange: I heard a very strange and mysterious sound.
+
+stranger: Don't talk to strangers; it's considered very dangerous.
+
+strap: She used a leather strap to secure her bag.
+
+strategic: The company's strategic plan focused on global expansion.
+
+strategy: We need a new strategy to attract more customers.
+
+straw: I'd like a straw for my soda, please.
+
+strawberry: Chocolate and strawberry is my favorite flavor combination.
+
+stray: A stray dog was wandering around the neighborhood.
+
+streak: A bright streak of lightning lit up the night sky.
+
+stream: A clear mountain stream flowed through the valley.
+
+streamline: The company decided to streamline its production process.
+
+street: There are many fancy shops on this street.
+
+streetcar: In the past, streetcars were a common form of urban transport.
+
+strength: Unity is strength.
+
+strengthen: The exercises will help to strengthen your muscles.
+
+stress: He was suffering from a lot of stress due to his job.
+
+stretch: He decided to stretch his legs and go for a walk.
+
+strict: The teacher was very strict with her students.
+
+strictly: The rules must be followed strictly.
+
+stride: He took several long strides across the room.
+
+strife: The region has seen centuries of civil strife and conflict.
+
+strike: The workers decided to go on strike for better pay.
+
+striking: There is a striking resemblance between the two sisters.
+
+string: He used a piece of string to tie the parcel.
+
+strip: He managed to strip the old paint off the wall.
+
+stripe: The tiger has many black and orange stripes.
+
+strive: We must strive to achieve our goals.
+
+stroke: He suffered a minor stroke last week but is recovering well.
+
+stroll: We went for a relaxing stroll in the park on Sunday.
+
+stroller: The mother was pushing a blue stroller through the park.
+
+strong: He is a very strong and energetic young man.
+
+strongly: I strongly disagree with your suggestion.
+
+stronghold: The city was once a major military stronghold.
+
+structural: The building has several significant structural problems.
+
+structure: The chemical structure of the substance was verified by tests.
+
+struggle: The family struggled to survive on a low income.
+
+stubborn: He is very stubborn and won't listen to any advice.
+
+student: She is a hard-working student at the local university.
+
+studio: He spends most of his time working in his art studio.
+
+study: She is studying physics and mathematics at university.
+
+stuff: I have a lot of stuff to finish before the weekend.
+
+stuffy: The room was very hot and stuffy, so we opened the window.
+
+stumble: He began to stumble as he walked across the rough ground.
+
+stump: He sat on an old tree stump to take a rest.
+
+stupid: Don't be so stupid; think about what you're doing.
+
+stupidity: His actions were a testament to his own sheer stupidity.
+
+sturdy: The table was made of strong and sturdy oak wood.
+
+style: She has a very elegant and professional style.
+
+stylist: He works as a fashion stylist for a major magazine.
+
+subdivide: The large field was subdivided into several smaller plots.
+
+subdue: The army managed to subdue the rebellion within a few days.
+
+subject: What is your favorite subject at school?
+
+subjective: The decision was based on subjective rather than objective factors.
+
+subjunctive: In English grammar, the subjunctive mood is used for hypothetical situations.
+
+submarine: The submarine dived deep beneath the surface of the ocean.
+
+submerge: The heavy rain caused the fields to be submerged.
+
+submit: Please submit your reports by the end of the week.
+
+subordinate: She is one of his subordinate managers.
+
+subordination: The company culture emphasizes the importance of subordination and discipline.
+
+subscribe: I decided to subscribe to a new fashion magazine.
+
+subscription: The annual subscription for the gym is three hundred dollars.
+
+subsequence: The subsequence of events led to a major historical change.
+
+subsequent: The discovery led to several subsequent scientific breakthroughs.
+
+subsequently: The company subsequently announced a new plan for expansion.
+
+subsidiary: The company has several subsidiary branches overseas.
+
+substance: The substance was found to be a rare and valuable mineral.
+
+substantial: The project received a substantial financial grant.
+
+substantiate: The witness was able to substantiate his story with evidence.
+
+substitute: They used honey as a substitute for sugar in the recipe.
+
+substitution: The substitution of the injured player was necessary.
+
+subtle: There is a subtle difference between the two colors.
+
+subtract: If you subtract three from five, you get two.
+
+subtraction: Children learn basic addition and subtraction at school.
+
+suburb: We decided to move to a quiet suburb near the city center.
+
+suburban: The city has a very extensive suburban rail network.
+
+subway: The subway is a very efficient way to get around the city.
+
+succeed: He managed to succeed through hard work and dedication.
+
+success: The project was a complete success.
+
+successful: She is a very successful and respected professional musician.
+
+successfully: The company successfully launched its new product.
+
+succession: The team won three games in quick succession.
+
+successive: The country has seen three successive years of economic growth.
+
+successor: He is seen as the most likely successor to the current CEO.
+
+such: I've never seen such a beautiful sunset before.
+
+suck: The baby was busy sucking his thumb.
+
+sudden: There was a sudden change in the weather last night.
+
+suddenly: The car suddenly stopped in the middle of the street.
+
+suffer: Many people suffer from chronic back pain.
+
+suffering: The organization aims to alleviate human suffering.
+
+suffice: A simple 'no' will suffice as an answer.
+
+sufficient: We have sufficient food and water for the journey.
+
+sufficiently: The issue was not sufficiently discussed at the meeting.
+
+suffix: The word 'unhappy' has the prefix 'un-' and no suffix.
+
+sugar: Do you take sugar in your coffee?
+
+suggest: I suggest that we should wait for more information.
+
+suggestion: Thank you for your very helpful suggestion.
+
+suicide: The news of his suicide shocked the whole community.
+
+suit: The dark blue suit fits you perfectly.
+
+suitable: This movie is not suitable for young children.
+
+suitcase: He packed his suitcase and left for the airport.
+
+suite: They booked a luxury suite at the hotel for their holiday.
+
+sullen: The boy had a sullen expression on his face after being scolded.
+
+sultry: The weather was very hot and sultry all week.
+
+sum: The sum of three and five is eight.
+
+summarize: Can you please summarize the main points of the report?
+
+summary: The book includes a brief summary of the plot at the back.
+
+summer: Summer is my favorite season of the year.
+
+summit: The leaders of the two countries met for a historic summit.
+
+summon: He was summoned to appear in court next week.
+
+sun: The sun rises in the east and sets in the west.
+
+sunburn: Be careful not to get a nasty sunburn at the beach.
+
+Sunday: Sunday is a day of rest for many people.
+
+sunflower: The field was full of bright yellow sunflowers.
+
+sunlight: The room was filled with bright morning sunlight.
+
+sunny: We had a very sunny and warm weekend.
+
+sunrise: The sunrise over the mountains was truly magnificent.
+
+sunset: We went for a walk on the beach at sunset.
+
+sunshine: I love to sit in the garden and enjoy the sunshine.
+
+super: The new movie was absolutely super and I loved it.
+
+superb: The hotel offers superb service to all its guests.
+
+superficial: His knowledge of the topic was only superficial.
+
+superintendent: The building superintendent is responsible for maintenance.
+
+superior: The quality of this fabric is superior to the one we bought last year.
+
+superiority: The team's superiority was evident from the very start.
+
+supermarket: I need to go to the supermarket to buy some groceries.
+
+supersede: The new technology will eventually supersede the old one.
+
+supersonic: The fighter jet is capable of supersonic flight.
+
+superstition: Many people still hold several old superstitions.
+
+superstitious: He is a very superstitious person who believes in bad luck.
+
+supervise: She was chosen to supervise the new research project.
+
+supervision: The children are under constant supervision at the nursery.
+
+supervisor: The supervisor checked the work carefully before approving it.
+
+supper: What are we having for supper tonight?
+
+supplement: She decided to supplement her income by working part-time.
+
+supplementary: The report includes several supplementary tables and charts.
+
+supplier: The company is a major supplier of electronic components.
+
+supply: The factory supplies parts to several major car manufacturers.
+
+support: I am very grateful for all your help and support.
+
+supporter: The politician has several prominent supporters in the community.
+
+suppose: I suppose that you are right about the decision.
+
+supposing: Supposing it rains, what will we do?
+
+suppress: The government tried to suppress the news of the accident.
+
+suppression: The suppression of the rebellion took several months.
+
+supreme: The Supreme Court made a final ruling on the case.
+
+surcharge: There is a small surcharge for payments made by credit card.
+
+sure: I am sure that you will succeed if you work hard.
+
+surely: Surely you're not going to leave so soon?
+
+surface: The surface of the lake was calm and smooth.
+
+surge: There was a sudden surge in the number of orders.
+
+surgeon: He is a highly skilled heart surgeon.
+
+surgery: The patient needs urgent surgery on his knee.
+
+surmise: From the clues found at the scene, we can only surmise what happened.
+
+surname: His surname is Smith and his first name is John.
+
+surpass: The company's profits this year have surpassed all expectations.
+
+surplus: The country has a large surplus of agricultural products.
+
+surprise: The news of her engagement came as a total surprise.
+
+surprising: It was surprising to see him arrive so early.
+
+surrender: The enemy army was forced to surrender after a long battle.
+
+surround: The garden is surrounded by a tall brick wall.
+
+surroundings: The animals are well adapted to their natural surroundings.
+
+survey: The latest survey shows an increase in public support for the project.
+
+surveyor: The surveyor checked the land before the construction began.
+
+survival: The organization is working to ensure the survival of endangered species.
+
+survive: They were lucky to survive the terrible car crash.
+
+survivor: The rescue workers are still searching for survivors of the earthquake.
+
+suspect: The police suspect that the fire was intentional.
+
+suspend: The company decided to suspend all its operations in the region.
+
+suspense: The movie kept the audience in suspense until the very end.
+
+suspicion: His strange behavior aroused a lot of suspicion.
+
+suspicious: The police were alerted to several suspicious activities in the area.
+
+sustain: The company needs more investment to sustain its growth.
+
+swallow: She took a deep breath and swallowed her pride.
+
+swamp: The heavy rain caused the fields to be turned into a swamp.
+
+swan: The swan glided gracefully across the smooth surface of the lake.
+
+swarm: A large swarm of bees was seen in the garden.
+
+sway: The branches of the trees began to sway in the wind.
+
+swear: I swear that I am telling the truth.
+

@@ -1,0 +1,500 @@
+abandon: The team had to abandon the project due to budget cuts.
+
+abandonment: The abandonment of the old policy was welcomed by most employees.
+
+abasement: He refused to endure the abasement of being publicly criticized.
+
+abbreviation: “CEO” is the abbreviation of “Chief Executive Officer”.
+
+abeyance: The plan has been held in abeyance until we receive further instructions.
+
+abide: You must abide by the company’s safety regulations at all times.
+
+ability: Her ability to solve complex problems makes her a valuable team member.
+
+able: She is able to finish the report within the given deadline.
+
+abnormal: The abnormal data in the system needs to be checked immediately.
+
+aboard: All passengers must be aboard the flight 30 minutes before departure.
+
+abolish: The government decided to abolish the outdated tax law.
+
+abolition: The abolition of the rule improved the working environment significantly.
+
+abortion: The debate about abortion rights continues in many countries.
+
+abortive: Their abortive attempt to launch the product led to a thorough review.
+
+about: Let’s discuss the details about the upcoming meeting.
+
+above: The points mentioned above are crucial for the success of the project.
+
+above-mentioned: Please refer to the above-mentioned document for more information.
+
+abreast: We need to keep abreast of the latest industry trends to stay competitive.
+
+abridge: The manager asked her to abridge the long proposal into a one-page summary.
+
+abroad: He was sent abroad to attend an international conference last month.
+
+abrogate: The two companies agreed to abrogate the original contract and sign a new one.
+
+abrogation: The abrogation of the agreement caused some disputes between the parties.
+
+abrupt: The abrupt change in the schedule caught everyone by surprise.
+
+abruptly: The meeting was abruptly ended because of an emergency.
+
+absence: His absence from the meeting was due to a family emergency.
+
+absent: She was absent from work for three days because of illness.
+
+absent-minded: The absent-minded employee forgot to submit the important file.
+
+absolute: There is no absolute solution to this complicated problem.
+
+absolutely: I absolutely agree with your suggestion about the new marketing strategy.
+
+absorb: The company needs to absorb the new regulations before launching the product.
+
+absorption: The absorption of the small firm helped the company expand its market share.
+
+abstract: The abstract of the research paper is usually no more than 300 words.
+
+abstraction: His speech was full of abstractions and lacked practical examples.
+
+absurd: It is absurd to expect the team to finish the task in one day.
+
+absurdity: No one could stand the absurdity of his unreasonable demands.
+
+abundance: The region is known for its abundance of natural resources.
+
+abundant: We have abundant evidence to prove our point of view.
+
+abuse: The abuse of power by some officials was severely punished.
+
+academic: She has a strong academic background in computer science.
+
+academy: He graduated from a famous military academy last year.
+
+accede: The country finally acceded to the international trade agreement.
+
+accelerate: We need to accelerate the production process to meet the market demand.
+
+acceleration: The acceleration of the project progress was praised by the client.
+
+accent: She speaks English with a slight French accent.
+
+accept: We are pleased to accept your invitation to the cooperation forum.
+
+acceptable: Your proposal is acceptable, but we need to make some minor adjustments.
+
+acceptance: The acceptance of the new policy took longer than expected.
+
+access: Employees can get access to the database with their ID cards.
+
+accessible: The new office building is accessible to people with disabilities.
+
+accessory: The company sells smartphones and their related accessories.
+
+accident: A traffic accident on the highway caused a delay in the delivery.
+
+accidental: The damage to the equipment was accidental and not intentional.
+
+accidentally: She accidentally deleted the important files from her computer.
+
+accommodate: The hotel can accommodate up to 500 guests at a time.
+
+accommodation: The company provides free accommodation for its overseas staff.
+
+accompaniment: The piano is a perfect accompaniment to her singing.
+
+accompany: The manager will accompany the client to visit the factory tomorrow.
+
+accomplish: We need to accomplish the target before the end of the quarter.
+
+accomplishment: Finishing the project ahead of schedule was a great accomplishment for the team.
+
+accord: His opinion is in accord with the majority of the team members.
+
+accordance: We act in accordance with the company’s established rules and procedures.
+
+according: According to the latest report, the sales have increased by 20%.
+
+accordingly: The deadline has been extended, and we will adjust our plan accordingly.
+
+account: Please open a business account at the bank before starting the company.
+
+accountant: The accountant is responsible for managing the company’s financial records.
+
+accounting: He majored in accounting and now works for a multinational firm.
+
+accrue: Interest will accrue on the loan if you fail to repay it on time.
+
+accrued: The accrued expenses need to be recorded in this month’s financial statement.
+
+accumulate: It takes time to accumulate experience in the software development field.
+
+accumulation: The accumulation of dust on the equipment may affect its performance.
+
+accumulative: The accumulative sales volume of the product has reached 1 million units.
+
+accuracy: The accuracy of the data is essential for making correct decisions.
+
+accurate: Please provide an accurate estimate of the project cost.
+
+accurately: The machine can accurately measure the temperature and humidity in the room.
+
+accusation: He denied the accusation of violating the company’s code of conduct.
+
+accuse: The customer accused the company of providing defective products.
+
+accustom: It takes time to accustom yourself to the new work environment.
+
+ache: She felt a sharp ache in her back after working for hours.
+
+aching: His aching legs made it hard for him to walk to the office.
+
+achieve: The team worked hard to achieve the sales target set by the company.
+
+achievement: Winning the industry award is a remarkable achievement for the startup.
+
+acid: The lab needs to store the acid in a sealed container to avoid accidents.
+
+acknowledge: The company acknowledged the problem and promised to fix it soon.
+
+acknowledgment: We sent an acknowledgment email to confirm receipt of the order.
+
+acquaint: Let me acquaint you with the company’s internal communication rules.
+
+acquaintance: He is just a business acquaintance, not a close friend.
+
+acquainted: I became acquainted with her during a business trip last year.
+
+acquire: The company plans to acquire a small tech firm to expand its business.
+
+acquisition: The acquisition of the company was completed last month.
+
+acre: The factory is built on a piece of land covering 50 acres.
+
+acrobat: The acrobat performed a series of amazing tricks on the stage.
+
+acrobatics: His acrobatics skills impressed the audience at the talent show.
+
+across: The office is just across the street from the subway station.
+
+act: You must act immediately to solve the problem before it gets worse.
+
+action: Immediate action is needed to improve the customer service quality.
+
+activate: You need to activate the software with the license key provided.
+
+active: She is an active participant in the company’s volunteer activities.
+
+actively: We are actively looking for partners to cooperate with on this project.
+
+activity: The company’s team-building activity will be held next Friday.
+
+actor: He used to be a stage actor before he started his own business.
+
+actress: The famous actress was invited to be the brand ambassador of the company.
+
+actual: The actual cost of the project was higher than our initial estimate.
+
+actuality: In actuality, the plan is not as easy to implement as it seems.
+
+actually: I actually finished the report yesterday, not today.
+
+acute: The company is facing an acute shortage of skilled workers.
+
+A.D.: The historical relic dates back to 500 A.D.
+
+ad: We saw an ad for the new product in the local newspaper.
+
+adapt: The software needs to adapt to different operating systems.
+
+adaptation: The adaptation of the product for the overseas market took six months.
+
+add: Please add your comments to the document before submitting it.
+
+addition: In addition to the salary, the company offers a generous bonus.
+
+additional: We need additional time to complete the research.
+
+additive: This food additive is safe for human consumption according to the standard.
+
+address: The manager will address the team’s concerns in the meeting tomorrow.
+
+adequate: We need to provide adequate training for the new employees.
+
+adequately: The project was not adequately funded, leading to a delay.
+
+adhere: All employees must adhere to the dress code of the company.
+
+adhesive: This adhesive is strong enough to bond metal and plastic.
+
+adjacent: Our office is located in the building adjacent to the park.
+
+adjective: In the sentence “She is a smart engineer”, “smart” is an adjective.
+
+adjoin: The warehouse adjoins the main factory building for convenience.
+
+adjust: You can adjust the settings of the software to suit your needs.
+
+adjustable: The chair has an adjustable height to fit different users.
+
+adjustment: A minor adjustment to the plan will improve its feasibility.
+
+administer: The HR department is responsible for administering the employee benefits.
+
+administration: The company’s administration team is in charge of daily operations.
+
+administrative: He works in the administrative department and handles paperwork.
+
+admirable: Her dedication to the project is truly admirable.
+
+admiration: The team expressed their admiration for the leader’s leadership.
+
+admire: We admire her ability to handle pressure in difficult situations.
+
+admission: The admission to the trade show is free for registered visitors.
+
+admit: The company admitted that there was a flaw in the product design.
+
+admittedly: Admittedly, the project has encountered some unexpected difficulties.
+
+adolescence: He developed an interest in computer science during his adolescence.
+
+adolescent: The program is designed to help adolescents develop practical skills.
+
+adopt: The company decided to adopt a new management system to improve efficiency.
+
+adoption: The adoption of the new technology increased the production capacity by 30%.
+
+adore: The customers adore the brand for its high-quality products and good service.
+
+adorn: The office is adorned with paintings created by local artists.
+
+adornment: The simple adornment on the desk makes the office look more lively.
+
+adult: All adult employees are required to attend the safety training.
+
+advance: We need to advance the meeting time to next Monday due to schedule conflicts.
+
+advanced: The company uses advanced technology to improve product quality.
+
+advantage: The main advantage of the product is its low price and high performance.
+
+advantageous: The partnership will be advantageous to both companies in the long run.
+
+adventure: He quit his job to go on an adventure around the world.
+
+adventurous: The company is looking for adventurous employees to explore new markets.
+
+adverb: In the sentence “She works efficiently”, “efficiently” is an adverb.
+
+adverbial: The phrase “in the office” functions as an adverbial in this sentence.
+
+adversary: The company turned its former adversary into a strategic partner.
+
+adverse: The adverse weather conditions delayed the delivery of the goods.
+
+adversity: The team overcame many adversities to complete the project successfully.
+
+advertise: The company plans to advertise its new product on social media platforms.
+
+advertising: The advertising campaign helped increase the product’s brand awareness.
+
+advertisement: We placed an advertisement in the industry magazine to attract customers.
+
+advice: You should follow the advice of the experienced colleagues in the team.
+
+advisable: It is advisable to double-check the data before submitting the report.
+
+advise: The consultant advised the company to invest in renewable energy.
+
+adviser: He works as a financial adviser for a number of small businesses.
+
+advocate: She is a strong advocate for environmental protection in the workplace.
+
+aerial: The aerial view of the factory shows the layout of the production lines clearly.
+
+aeroplane: We took an aeroplane to attend the international conference in Paris.
+
+affair: The manager is in charge of all the company’s financial affairs.
+
+affect: The change in the market demand will affect the company’s sales strategy.
+
+affection: He has a deep affection for the company where he has worked for 20 years.
+
+affectionate: The team has an affectionate atmosphere where everyone helps each other.
+
+affiliate: The company is an affiliate of a large multinational corporation.
+
+affirm: The CEO affirmed that the company would continue to invest in research and development.
+
+affirmation: The affirmation from the client boosted the team’s morale significantly.
+
+affirmative: The response from the supplier was affirmative, so we can proceed with the order.
+
+afford: The company cannot afford to ignore the feedback from its customers.
+
+affordable: The company launched an affordable version of the product for the mass market.
+
+afloat: The small business managed to stay afloat during the economic downturn.
+
+aforesaid: The aforesaid rules apply to all employees regardless of their positions.
+
+afraid: She is afraid of missing the deadline for the project submission.
+
+Africa: The company plans to expand its business to Africa next year.
+
+African: We are looking for partners who have experience in the African market.
+
+after: We will have a team dinner after the meeting is over.
+
+afternoon: The presentation is scheduled for the afternoon of next Wednesday.
+
+afterward: We discussed the follow-up plan afterward.
+
+again: Please read the instructions again to avoid making mistakes.
+
+against: The new policy is against the interests of the small businesses.
+
+age: The average age of the team members is 35 years old.
+
+agency: We hired a marketing agency to promote our new product.
+
+agent: The sales agent will contact you to confirm the order details.
+
+aggravate: The delay in the delivery will aggravate the relationship with the client.
+
+aggravation: The aggravation of the problem was caused by the lack of timely response.
+
+aggregate: The aggregate sales of the company reached $10 million last year.
+
+aggregation: The aggregation of data from different sources took a lot of time.
+
+aggression: The company condemned the unfair competition and commercial aggression from its rivals.
+
+aggressive: The company adopted an aggressive marketing strategy to capture the market share.
+
+aggressor: The company was regarded as the aggressor in the trade dispute.
+
+agitate: The employees began to agitate for better working conditions.
+
+agitation: The agitation among the staff was calmed down after the manager’s explanation.
+
+ago: The company was founded ten years ago in a small garage.
+
+agonize: The manager agonized over the decision to lay off some employees.
+
+agony: He went through great agony after the failure of the project.
+
+agree: We agree with your proposal to optimize the production process.
+
+agreeable: The terms of the contract are agreeable to both parties.
+
+agreeably: The meeting went agreeably, and all issues were resolved smoothly.
+
+agreed: We all agreed on the new project timeline after the discussion.
+
+agreement: The two companies signed a formal agreement to cooperate on the technology project.
+
+agricultural: The government has launched several agricultural policies to support local farmers.
+
+agriculture: Modern technology has greatly improved the efficiency of agriculture in this region.
+
+ahead: We need to plan ahead to avoid delays in the product launch.
+
+aid: The IT department will provide technical aid to solve the system malfunction.
+
+aids: This software aids users in managing their daily work tasks efficiently.
+
+ailment: She took a day off due to a minor ailment like a cold.
+
+aim: The company’s main aim is to expand its market share in Southeast Asia.
+
+aimless: Without a clear goal, his work seemed aimless and unproductive.
+
+air: Please open the window to let some fresh air into the office.
+
+aircraft: The airport has strict safety checks for every aircraft taking off.
+
+airline: This airline offers direct flights between Beijing and New York.
+
+airliner: The large airliner can carry over 300 passengers at a time.
+
+airmail: The document was sent by airmail and arrived within three days.
+
+airplane: He missed his airplane because of the heavy traffic on the way to the airport.
+
+airport: The company arranged a shuttle bus to pick up clients from the airport.
+
+airway: The airway was temporarily closed due to bad weather conditions.
+
+aisle: Please keep the aisle clear so that passengers can walk through easily.
+
+ajar: She left the office door ajar so that her colleagues could enter anytime.
+
+alarm: The fire alarm went off suddenly, and everyone evacuated the building quickly.
+
+alarming: The alarming increase in production costs has worried the management team.
+
+alas: Alas, we failed to meet the quarterly target despite our hard work.
+
+album: The marketing team released a photo album to showcase the company’s achievements.
+
+alcohol: Drinking alcohol is not allowed during working hours.
+
+alcoholic: He decided to seek help after being diagnosed as an alcoholic.
+
+alcoholism: The company provides counseling services for employees struggling with alcoholism.
+
+ale: They enjoyed a glass of ale at the pub after the successful project launch.
+
+alert: Please stay alert to any changes in the market demand.
+
+algebra: He studied algebra and other advanced math courses in college.
+
+alien: The new employee felt like an alien in the unfamiliar office environment.
+
+alienate: His arrogant attitude may alienate potential clients and partners.
+
+alienation: The alienation between the two departments affected the project progress.
+
+alignment: The team’s goals are in alignment with the company’s long-term strategy.
+
+alike: The two software versions look alike but have different functions.
+
+alive: The team kept the project alive by adjusting the plan in time.
+
+all: All employees are required to attend the annual training session.
+
+allergic: She is allergic to pollen, so she avoids going outdoors in spring.
+
+allergy: The doctor advised him to get tested for food allergies.
+
+alliance: The three companies formed an alliance to develop new technologies together.
+
+allied: The allied firms worked closely to win the government contract.
+
+allocate: The company will allocate more funds to the research and development department.
+
+allocation: The allocation of resources should be based on project priorities.
+
+allot: The manager allotted each team member a specific task to complete.
+
+allotment: The allotment of time for each presentation is 15 minutes.
+
+allow: The company does not allow employees to use personal phones during meetings.
+
+allowance: The sales staff receive a monthly travel allowance for business trips.
+
+alloy: This machine part is made of a special alloy that is resistant to high temperatures.
+
+ally: The small startup became an ally of a large tech company to expand its market.
+
+almost: We have almost finished the development of the new software module.
+

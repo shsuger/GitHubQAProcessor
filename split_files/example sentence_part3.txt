@@ -1,0 +1,500 @@
+attendance: The attendance rate of the training course reached 95%.
+
+attendant: The flight attendant helped passengers store their luggage safely.
+
+attention: Please pay attention to the key points mentioned in the meeting.
+
+attentive: The attentive assistant took detailed notes during the discussion.
+
+attentively: She listened attentively to the client’s requirements and feedback.
+
+attic: We found some old documents and photos in the attic of the office building.
+
+attitude: A positive attitude is essential for overcoming work challenges.
+
+attorney: The company hired an attorney to handle the legal dispute.
+
+attract: The new welfare policy will attract more talented employees to the company.
+
+attraction: The main attraction of the new software is its user-friendly interface.
+
+attributable: The success of the project is attributable to the team’s joint efforts.
+
+attribute: We attribute the sales growth to our improved marketing strategy.
+
+attribution: The attribution of the research results should be accurate and fair.
+
+attributive: In the phrase “a coffee cup”, “coffee” functions as an attributive adjective.
+
+auction: The company decided to auction off some outdated equipment.
+
+audience: The speaker delivered a speech to a large audience at the conference.
+
+auditorium: The annual company meeting will be held in the school’s auditorium.
+
+august: The august building has been the headquarters of the organization for decades.
+
+aunt: My aunt works as a project manager in a multinational company.
+
+aural: The aural training helps improve employees’ listening skills in English.
+
+auspice: The event was held under the auspices of the local business association.
+
+Australia: The company plans to open a branch office in Australia next year.
+
+Australian: We are cooperating with an Australian team on the new technology project.
+
+author: The author of this technical book is a well-known software engineer.
+
+authority: The government authority issued new regulations on data security.
+
+authorization: You need to get authorization from the manager to access the confidential files.
+
+authorize: The board of directors authorized the CEO to sign the contract.
+
+autobiography: The CEO’s autobiography tells the story of his entrepreneurial journey.
+
+automate: The factory decided to automate the production line to improve efficiency.
+
+automatic: The system will send an automatic reminder to the clients before the deadline.
+
+automation: The automation of the workflow has reduced the workload of the employees.
+
+automobile: The company’s parking lot can accommodate over 200 automobiles.
+
+autonomous: The research team has an autonomous budget for its projects.
+
+autonomy: The branch office has a certain degree of autonomy in daily operations.
+
+autumn: The company’s annual team-building trip is scheduled for autumn.
+
+auxiliary: The auxiliary staff provides support for the core business team.
+
+avail: We tried our best, but our efforts availed little in solving the problem.
+
+availability: The availability of the product in the market will be announced next week.
+
+available: The manager is available for a meeting tomorrow morning.
+
+avenge: The character in the novel swore to avenge his father’s death.
+
+avenue: The company’s headquarters is located on the main avenue of the city.
+
+average: The average salary of the employees has increased by 10% this year.
+
+averagely: The project is averagely completed within three months.
+
+aviation: The company specializes in aviation technology and equipment.
+
+avoid: We should avoid making the same mistake in the next project.
+
+await: The team is awaiting the client’s feedback on the proposal.
+
+awake: He was awake all night working on the emergency task.
+
+awaken: The new policy awakened the employees’ enthusiasm for innovation.
+
+award: The company won the best innovation award at the industry exhibition.
+
+aware: All employees should be aware of the company’s safety regulations.
+
+away: The manager is away on a business trip and will return next Monday.
+
+awe: The employees looked at the CEO with awe when he announced the new plan.
+
+awesome: The new software has some awesome features that impressed the users.
+
+awful: The awful weather delayed the delivery of the equipment.
+
+awfully: The project schedule is awfully tight, so we need to work overtime.
+
+awkward: He felt awkward when he forgot the client’s name during the meeting.
+
+awkwardly: She smiled awkwardly when asked about the delay in the project.
+
+awkwardness: The awkwardness in the meeting was relieved by the manager’s joke.
+
+ax: The old machine was cut into pieces with an ax.
+
+axial: The axial design of the part ensures stable operation of the equipment.
+
+axis: The earth rotates around its axis once every 24 hours.
+
+axle: The mechanic replaced the broken axle of the delivery truck.
+
+baby: Her colleague brought her baby to the office on the family day.
+
+baby-sit: She agreed to baby-sit for her neighbor while they were away.
+
+baby-sitter: The young student works as a baby-sitter in her spare time.
+
+bachelor: He is a bachelor who lives near the office building.
+
+back: Please go back to your seat and wait for further instructions.
+
+backbone: The senior engineers are the backbone of the R&D team.
+
+back-call: The sales representative will make a back-call to the client tomorrow.
+
+backdate: The contract cannot be backdated without the approval of both parties.
+
+background: The candidate has a solid educational background in computer science.
+
+backing: The project has the backing of the company’s top management.
+
+backlog: The IT department is dealing with a backlog of maintenance requests.
+
+backward: The company will not leave any employee backward in the training program.
+
+backwardness: The backwardness of the infrastructure has affected the local economy.
+
+bacon: He had bacon and eggs for breakfast before going to work.
+
+bacterium: The laboratory detected a harmful bacterium in the water sample.
+
+bad: A bad work attitude will affect the entire team’s performance.
+
+badge: All employees must wear their company badges when entering the office.
+
+badly: The equipment was badly damaged in the accident.
+
+badminton: The company organized a badminton competition for the employees.
+
+baffle: The technical problem baffled the engineers for several days.
+
+bag: She carried a laptop bag to the meeting every day.
+
+baggage: The airline allows passengers to check in two pieces of baggage for free.
+
+baggy: He wore a baggy shirt and jeans to the casual Friday event.
+
+bait: The fisherman used worms as bait to catch fish.
+
+bake: She likes to bake cookies for her colleagues during the holidays.
+
+baker: The baker delivered fresh bread to the office pantry every morning.
+
+bakery: There is a bakery near the office where we can buy breakfast.
+
+balance: We need to balance the budget between the R&D and marketing departments.
+
+balcony: The manager’s office has a small balcony with a view of the park.
+
+bald: The senior engineer is bald but has a sharp mind for problem-solving.
+
+ball: The company held a ball to celebrate its 10th anniversary.
+
+ballet: She took ballet lessons in her spare time to relax.
+
+balloon: The children at the company’s family day played with colorful balloons.
+
+ballooning: Ballooning is a popular recreational activity in this region.
+
+ball-pointpen: Please bring a ball-pointpen to fill out the registration form.
+
+ballroom: The ballroom of the hotel was decorated beautifully for the event.
+
+bamboo: The office is decorated with bamboo plants to create a natural atmosphere.
+
+bamboo-shoot: The restaurant near the office serves delicious dishes made with bamboo-shoot.
+
+banana: There are bananas and apples in the office fruit basket.
+
+band: A live band performed at the company’s annual dinner.
+
+bandage: The nurse used a bandage to wrap the employee’s injured finger.
+
+bandit: The story is about a group of bandits who robbed travelers in the mountains.
+
+bang: The door shut with a loud bang, startling everyone in the office.
+
+bank: The company has an account at the local bank downtown.
+
+banker: Her husband works as a banker in an international financial institution.
+
+banking: The company’s banking business is handled by the finance department.
+
+bankrupt: The small firm went bankrupt due to poor management.
+
+banner: A large banner with the company’s logo was hung at the entrance of the exhibition hall.
+
+banquet: The client treated us to a grand banquet at a five-star hotel.
+
+bar: There is a coffee bar on the first floor of the office building.
+
+barber: He went to the barber to get a haircut before the important meeting.
+
+bare: The walls of the new office are bare and need to be decorated.
+
+barely: He barely finished the report before the deadline.
+
+bargain: They managed to bargain with the supplier for a lower price.
+
+barge: The cargo barge transported the equipment to the port.
+
+bark: The dog outside the office barked loudly, disturbing the meeting.
+
+barn: The old barn was converted into a modern office space.
+
+barometer: The sales volume is a good barometer of the company’s performance.
+
+baron: He is a business baron who owns several companies in the region.
+
+baroness: The baroness attended the charity event hosted by the company.
+
+barrel: The chemical was stored in a sealed barrel in the warehouse.
+
+barren: The barren land was turned into a green industrial park.
+
+barrier: Language is not a barrier to communication between the two teams.
+
+barter: In ancient times, people used to barter goods instead of using money.
+
+base: The company’s production base is located in the suburban area.
+
+baseball: The employees formed a baseball team to participate in the city’s league.
+
+basement: The server room is located in the basement of the office building.
+
+basic: The training course covers basic knowledge of software development.
+
+basically: Basically, the new plan is feasible, but we need to make some adjustments.
+
+basin: There is a basin of water in the office to clean hands.
+
+basis: The cooperation between the two companies is based on the basis of mutual benefit.
+
+basket: She carried a basket of fruits to the office for her colleagues.
+
+basketball: We play basketball every Friday afternoon after work.
+
+bat: The baseball player swung the bat and hit a home run.
+
+bath: He took a hot bath after a long day of work.
+
+bathe: The children bathed in the swimming pool during the summer vacation.
+
+bathroom: The bathroom on the second floor is for the exclusive use of employees.
+
+batter: The chef prepared the cake batter carefully.
+
+battery: The battery of the laptop died during the meeting.
+
+battle: The team fought a tough battle to win the project contract.
+
+bay: The company’s yacht is anchored in the bay near the city.
+
+bazaar: They bought some souvenirs at the local bazaar during the business trip.
+
+B.C.: The ancient ruins date back to 500 B.C.
+
+be: We should be more proactive in solving customer problems.
+
+beach: The company’s team-building trip was held at a beautiful beach.
+
+bead: The necklace is made of colorful beads.
+
+beak: The bird has a sharp beak to catch insects.
+
+beam: The laser beam is used to cut metal in the factory.
+
+bean: The office pantry provides free coffee and bean snacks.
+
+bear: The plan bears risks, but the potential profit is high.
+
+bearing: His professional bearing made a good impression on the client.
+
+bearish: The market is bearish, so the company decided to reduce investment.
+
+beast: The fierce beast was captured by the wildlife rangers.
+
+beat: He beat all the competitors and won the first prize in the competition.
+
+beautiful: The office has a beautiful view of the city skyline.
+
+beauty: The beauty of the new design lies in its simplicity.
+
+because: The project was delayed because of the supply chain disruption.
+
+become: She became the team leader after years of hard work.
+
+bed: He was so tired that he fell into bed immediately after getting home.
+
+bedroom: The employee dormitory has a comfortable bedroom for each person.
+
+bee: A bee flew into the office and scared some of the employees.
+
+beef: The restaurant near the office serves delicious beef steak.
+
+beer: The colleagues drank beer and chatted at the weekend party.
+
+beetle: A beetle crawled across the desk during the meeting.
+
+before: Please submit the report before next Friday.
+
+beforehand: We should prepare the materials beforehand to avoid delays.
+
+beg: The homeless man begged for money on the street.
+
+beggar: The beggar thanked the kind employee for giving him food.
+
+begin: The meeting will begin at 9 A.M. sharp tomorrow.
+
+beginner: The training course is suitable for both beginners and experienced programmers.
+
+beginning: At the beginning of the project, we set clear goals and timelines.
+
+behalf: On behalf of the team, I would like to thank you for your support.
+
+behave: All employees should behave professionally in the workplace.
+
+behavior: His good behavior at work earned him a promotion.
+
+behind: He fell behind the schedule because of his illness.
+
+behindhand: The payment is behindhand, so we need to remind the client.
+
+being: The new policy is beneficial to the well-being of all employees.
+
+belief: Our belief is that quality is the key to the company’s success.
+
+believe: We believe that the new product will be popular in the market.
+
+bell: The school bell rang, and the students rushed out of the classroom.
+
+belly: He laughed so hard that his belly hurt.
+
+belong: This file belongs to the finance department, not the marketing team.
+
+beloved: The beloved CEO retired after 30 years of service to the company.
+
+below: The temperature below zero degrees Celsius will affect the equipment.
+
+belt: He wore a leather belt with his suit to the business meeting.
+
+bench: There is a bench in the park near the office for employees to rest.
+
+bend: The road bends sharply ahead, so we need to drive carefully.
+
+beneath: The keys were hidden beneath the pile of documents.
+
+beneficial: Regular exercise is beneficial to both physical and mental health.
+
+beneficiary: The employees are the main beneficiaries of the company’s profit-sharing plan.
+
+benefit: The new policy will benefit all employees in the company.
+
+benevolence: The company’s benevolence is reflected in its donations to charity.
+
+benevolent: The benevolent boss donated money to build a school in the rural area.
+
+bent: The metal rod was bent into a circle.
+
+berry: The cake is decorated with fresh berries and cream.
+
+beside: She sat beside the manager during the meeting.
+
+besides: Besides the salary, the company offers a generous bonus and benefits.
+
+best: He did his best to complete the task on time.
+
+best-seller: The book written by the CEO became a best-seller in the business category.
+
+best-selling: The company’s best-selling product is its smartphone.
+
+bestow: The company bestowed an award on the outstanding employee.
+
+bet: He made a bet with his colleague about the outcome of the project.
+
+betray: He would never betray the trust of his team members.
+
+betrayal: The betrayal of the partner caused great losses to the company.
+
+better: We need to find a better way to improve customer satisfaction.
+
+better-off: The employees became better-off after the salary increase.
+
+between: There is a close cooperation between the two departments.
+
+beverage: The office pantry provides a variety of beverages, including coffee and tea.
+
+beware: Beware of phishing emails that pretend to be from the company.
+
+bewilder: The complex technical terms bewildered the new employees.
+
+beyond: The cost of the project is beyond our initial budget.
+
+bias: We should avoid bias when evaluating employees’ performance.
+
+bible: This technical manual is considered the bible for software developers.
+
+bicycle: He rides his bicycle to work every day to exercise.
+
+bid: The company made a bid for the government’s infrastructure project.
+
+bidding: The bidding process for the project will be completed next month.
+
+big: The company has a big plan to expand into the European market.
+
+bike: She rode her bike to the office and parked it in the designated area.
+
+bill: The finance department will pay the electricity bill by the end of the month.
+
+billion: The company’s market value reached 10 billion dollars last year.
+
+bind: The contract binds both parties to fulfill their obligations.
+
+binding: The agreement is legally binding and cannot be broken easily.
+
+biographer: The biographer is writing a book about the life of the famous entrepreneur.
+
+biography: He read the biography of Steve Jobs to learn about his management philosophy.
+
+biologist: The biologist conducted research on the effects of pollution on plants.
+
+biology: He majored in biology in college and now works in a pharmaceutical company.
+
+bird: A bird built a nest on the tree outside the office window.
+
+birth: The company celebrated the birth of its new product with a launch event.
+
+birthday: The team held a small party to celebrate the manager’s birthday.
+
+birthplace: The birthplace of the company is a small garage in the city.
+
+biscuit: She brought a box of biscuits to share with her colleagues.
+
+bishop: The bishop attended the opening ceremony of the new church.
+
+bit: He is a bit tired after working overtime for three days.
+
+bite: He got a bite from a mosquito during the outdoor team-building activity.
+
+bitter: The bitter taste of the medicine made him frown.
+
+bitterly: He regretted bitterly for missing the important meeting.
+
+bitterness: The bitterness between the two teams was resolved by the manager.
+
+b/l: The shipping department needs to prepare the b/l (bill of lading) for the goods.
+
+black: He wore a black suit to the formal business dinner.
+
+blackboard: The teacher wrote the key points on the blackboard.
+
+blacksmith: The blacksmith forged a metal part for the old machine.
+
+blade: The blade of the knife is sharp enough to cut paper easily.
+
+blame: We should not blame others for our own mistakes.
+
+blank: Please fill in the blank with your name and employee ID.
+
+blanket: She covered herself with a blanket when she felt cold in the office.
+
+blast: A blast of wind blew the papers off the desk.
+
+blaze: The blaze in the factory was put out by the firefighters in time.
+
+bleach: She used bleach to clean the stains on the tablecloth.
+

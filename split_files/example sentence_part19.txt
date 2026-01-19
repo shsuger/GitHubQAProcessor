@@ -1,0 +1,500 @@
+missile: The country launched a new long-range missile yesterday.
+
+missing: The missing child was found safely in the park.
+
+mission: His mission was to deliver the news to the king personally.
+
+missionary: He worked as a missionary in Africa for several years.
+
+mist: The hills were covered in a thick white mist.
+
+mistake: I made a small mistake on the application form.
+
+mistaken: If you think I'm happy with the decision, you're mistaken.
+
+mister: How can I help you, Mister Jones?
+
+mistress: The mistress of the house welcomed the guests.
+
+misty: It was a cold and misty morning in the valley.
+
+misunderstand: I'm sorry, I think I misunderstood your question.
+
+misunderstanding: The conflict was caused by a simple misunderstanding.
+
+mitten: The little girl wore bright red mittens in the snow.
+
+mix: You need to mix the ingredients together carefully.
+
+mixer: I bought a new electric mixer for the kitchen.
+
+mixture: The atmosphere is a mixture of several different gases.
+
+moan: The patient let out a low moan of pain.
+
+mob: A mob of angry protesters gathered outside the palace.
+
+mobile: She uses a mobile phone to stay in touch with her friends.
+
+mobilize: The government is trying to mobilize the public to vote.
+
+mock: He didn't mean to mock her with his joke.
+
+mode: The new software has several different operating modes.
+
+model: The scientist built a small model of the solar system.
+
+moderate: The doctor advised him to take moderate exercise.
+
+moderately: The hotel is moderately priced and offers good service.
+
+modern: Modern technology has changed our lives in many ways.
+
+modernization: The modernization of the hospital took several years.
+
+modernize: The company needs to modernize its production process.
+
+modest: Despite his success, he remained a modest and humble man.
+
+modesty: Her natural modesty made her popular with everyone.
+
+modification: The design of the car has undergone several modifications.
+
+modified: The new version of the software includes several modified features.
+
+modify: You need to modify your plans if you want to succeed.
+
+modulate: He tried to modulate his voice to sound more persuasive.
+
+module: The lunar module landed safely on the surface of the moon.
+
+moist: The soil was still moist after the rain.
+
+moisture: Plants absorb moisture from the soil through their roots.
+
+molecular: The study explores the molecular structure of the substance.
+
+molecule: An atom consists of a nucleus surrounded by electrons.
+
+moment: I'll be ready in a moment.
+
+momentary: There was a momentary silence after he finished speaking.
+
+momentous: The signing of the treaty was a momentous occasion.
+
+monarch: The monarch ruled over the kingdom for forty years.
+
+monastery: The old monastery is located on top of a mountain.
+
+Monday: Monday is the first day of the working week.
+
+monetary: The government is trying to maintain monetary stability.
+
+money: How much money do you need for the trip?
+
+monitor: The doctor will monitor the patient's condition throughout the night.
+
+monk: The monk spent his life in prayer and study.
+
+monkey: We saw a family of monkeys playing in the trees.
+
+monopolize: The company was accused of trying to monopolize the market.
+
+monopoly: The government has a monopoly on the sale of tobacco.
+
+monotonous: He has a very monotonous and boring job.
+
+monotony: The monotony of the long journey was broken by a sudden storm.
+
+monster: In the story, the hero defeats a terrifying monster.
+
+monstrous: The cost of the project was absolutely monstrous.
+
+month: January is the first month of the year.
+
+monthly: The magazine is published on a monthly basis.
+
+monument: A monument was erected in the square to honor the fallen soldiers.
+
+monumental: The discovery was a monumental achievement in the field of science.
+
+mood: She is in a very happy mood today.
+
+moon: The moon was full and bright in the night sky.
+
+moonlight: The lake was shining in the moonlight.
+
+moonlighting: Many teachers do some moonlighting to earn extra money.
+
+moor: We moored the boat safely in the harbor.
+
+mop: I need a mop to clean the kitchen floor.
+
+moral: The story has a very important moral lesson.
+
+morale: The team's morale was very high after their victory.
+
+morality: The philosopher explored the concept of human morality.
+
+more: We need more information before we can make a decision.
+
+moreover: The report is badly written; moreover, it contains several inaccuracies.
+
+morning: I always feel most productive in the morning.
+
+mortal: Every mortal being must face death eventually.
+
+Moslem: The local Moslem community is celebrating a major festival this week.
+
+mosque: The mosque's minaret is a prominent landmark in the city.
+
+mosquito: I got several mosquito bites during our camping trip.
+
+moss: The north side of the trees was covered in soft green moss.
+
+most: Most of the students passed the exam without any difficulty.
+
+mostly: The weather here is mostly sunny during the summer.
+
+motel: We decided to stay in a motel near the highway for the night.
+
+moth: A moth was fluttering around the lamp.
+
+mother: She is a devoted mother who takes great care of her children.
+
+mother-in-law: Her mother-in-law is a very kind and helpful woman.
+
+motion: The motion of the ship made several passengers feel seasick.
+
+motionless: The bird sat motionless on the branch, watching for prey.
+
+motivate: The teacher tried to find new ways to motivate her students.
+
+motivation: What was your motivation for joining the project?
+
+motive: The police are still trying to determine the motive for the crime.
+
+motor: The motor of the washing machine needs to be replaced.
+
+motorcar: The invention of the motorcar changed society forever.
+
+motorcycle: He rode his motorcycle all the way across the country.
+
+motorist: Motorists are advised to be careful on the icy roads.
+
+motorway: The new motorway connects the two major cities.
+
+motto: The school's motto is 'Learning for Life'.
+
+mould: The clay is pressed into a mould to create the desired shape.
+
+mount: He managed to mount the horse with a single leap.
+
+mountain: We spent the weekend hiking in the mountains.
+
+mountainous: The northern part of the country is very mountainous.
+
+mourn: The whole nation mourned the death of the great leader.
+
+mournful: The dog let out a mournful howl in the middle of the night.
+
+mourning: The family is in mourning following the sudden loss of their father.
+
+mouse: The cat was chasing a small mouse across the floor.
+
+moustache: He has a very thick and well-groomed moustache.
+
+mouth: Don't talk with your mouth full!
+
+mouthful: He took a large mouthful of the delicious soup.
+
+move: We decided to move to a new apartment next month.
+
+movement: The civil rights movement led to many positive changes in society.
+
+movie: We went to see a new action movie at the cinema last night.
+
+Mr.: Mr. Jones is our new English teacher.
+
+Mrs.: Mrs. Smith is the principal of the local high school.
+
+ms.: Ms. Lee is the manager of the marketing department.
+
+much: Thank you very much for all your help.
+
+mud: The kids were playing in the mud after the rain.
+
+muddy: The path was very muddy and hard to walk on.
+
+muffle: The heavy snow served to muffle the sound of the traffic.
+
+muffler: He wore a thick woollen muffler to keep warm.
+
+mug: I'd like a large mug of hot chocolate, please.
+
+mule: The mule was used to carry heavy loads up the mountain.
+
+multiple: The project has multiple goals and objectives.
+
+multiplication: The multiplication of bacteria can happen very quickly in warm conditions.
+
+multiply: Two multiplied by three equals six.
+
+multifunction: The new device is highly multifunction and can do many tasks.
+
+multitude: A multitude of people gathered in the square to hear the speech.
+
+municipal: The municipal council is responsible for local waste disposal.
+
+mumble: He began to mumble something under his breath.
+
+mumps: He missed a week of school because he had the mumps.
+
+murder: The police are investigating a mysterious murder case.
+
+murderer: The murderer was eventually captured and brought to justice.
+
+murmur: We could hear the constant murmur of the stream in the distance.
+
+muscle: Regular exercise helps to build strong muscles.
+
+muscular: The weightlifter has a very muscular build.
+
+muse: He sat quietly by the lake to muse about his future.
+
+museum: The museum has an impressive collection of modern art.
+
+mushroom: The number of coffee shops in the city has mushroomed in recent years.
+
+music: I love listening to classical music in the evenings.
+
+musical: She is a very musical child and can play several instruments.
+
+musician: He is a talented professional musician who plays the piano.
+
+must: You must wear a helmet when riding a bike.
+
+mustard: Would you like some mustard on your burger?
+
+mute: The room was silent as everyone remained mute in shock.
+
+mutter: He began to mutter something about the poor service.
+
+mutton: We had a delicious mutton stew for dinner.
+
+mutual: The two countries reached a mutual agreement on trade.
+
+my: This is my favorite book.
+
+myriad: The sky was filled with a myriad of stars.
+
+myself: I decided to finish the project myself.
+
+mysterious: A mysterious stranger arrived in the village last night.
+
+mystery: The cause of the fire remains a complete mystery.
+
+mystic: The ancient temple had a strange and mystic atmosphere.
+
+myth: The story of Hercules is a famous Greek myth.
+
+mythology: She is studying ancient Roman mythology at university.
+
+nail: He used a hammer to drive the nail into the wall.
+
+naive: It was very naive of him to believe such a ridiculous story.
+
+naked: The thief was caught running naked through the streets.
+
+name: What is your full name?
+
+nameless: The brave soldiers were buried in a nameless grave.
+
+namely: There are two options, namely, to stay or to leave.
+
+namesake: He is named after his father, his namesake.
+
+nap: I decided to take a quick nap after lunch.
+
+napkin: Please use your napkin to wipe your mouth.
+
+narrate: The actor was chosen to narrate the documentary.
+
+narration: The movie's narration was very engaging and informative.
+
+narrator: The narrator's voice was calm and steady throughout the story.
+
+narrow: The road is too narrow for two cars to pass at once.
+
+nasty: That's a very nasty cut on your arm.
+
+nation: The whole nation celebrated the historic victory.
+
+national: The national anthem was played at the start of the game.
+
+nationality: What is your nationality?
+
+native: She is a native of New York and has lived here all her life.
+
+natural: The park is full of natural beauty and wildlife.
+
+naturally: He is a naturally gifted musician who learned to play by ear.
+
+nature: We must all work together to protect nature and the environment.
+
+naughty: The naughty child was sent to his room for misbehaving.
+
+nausea: The smell of the rotting food filled her with nausea.
+
+naval: He decided to join the naval academy after high school.
+
+navel: The navel is located in the center of the abdomen.
+
+navigable: The river is navigable for large ships for several hundred miles.
+
+navigation: The airplane's navigation system was malfunctioning.
+
+navy: He served in the navy for over twenty years.
+
+near: The nearest train station is about ten minutes away.
+
+nearby: We went to a nearby restaurant for dinner.
+
+nearly: I've nearly finished the project.
+
+neat: His handwriting is very neat and easy to read.
+
+necessarily: A high salary doesn't necessarily mean job satisfaction.
+
+necessary: It is necessary to wear a seatbelt at all times.
+
+necessitate: The sudden change in plans necessitated extra work for the team.
+
+necessity: Food and water are basic necessities of life.
+
+neck: She wore a beautiful gold necklace around her neck.
+
+necklace: He gave her a diamond necklace for her birthday.
+
+need: I need to go to the store to buy some milk.
+
+needful: We will provide all the needful information for your trip.
+
+needle: She used a needle and thread to sew the button back on.
+
+needless: It was a needless waste of time and energy.
+
+needy: The organization provides food and clothes for needy families.
+
+negate: The new evidence could negate the previous court ruling.
+
+negation: His silence was seen as a negation of the proposal.
+
+negative: She has a very negative attitude towards her work.
+
+neglect: He was accused of neglecting his official duties.
+
+negligence: The accident was caused by the driver's negligence.
+
+negligent: The company was found to be negligent in maintaining safety standards.
+
+negligible: The difference between the two results was negligible.
+
+negotiable: The price of the car is negotiable.
+
+negotiate: The two sides are currently trying to negotiate a peace treaty.
+
+negotiation: The negotiations between the management and the union lasted for weeks.
+
+negro: The historical text uses the term 'Negro' to refer to African Americans.
+
+neighbor: Our next-door neighbor is very friendly and helpful.
+
+neighborhood: The new park will benefit everyone in the neighborhood.
+
+neighboring: We visited several neighboring towns during our holiday.
+
+neither: Neither of the two plans was acceptable to the committee.
+
+nephew: Her nephew is coming to stay with us for the weekend.
+
+nerve: The injury caused permanent damage to the nerves in his arm.
+
+nervous: I always feel a bit nervous before an important exam.
+
+nest: The bird built its nest high up in the tree.
+
+nestle: The small cottage nestles in a quiet valley.
+
+net: The fishing net was full of fresh trout.
+
+network: The company has a vast global network of distributors.
+
+neutral: Switzerland has a long history of being a neutral country.
+
+neutrality: The country is committed to maintaining its political neutrality.
+
+neutron: An atom consists of protons, neutrons, and electrons.
+
+never: I have never been to Paris, but I hope to go one day.
+
+nevertheless: The project was difficult; nevertheless, we finished it on time.
+
+new: She bought a new pair of shoes for the party.
+
+news: What is the latest news about the earthquake?
+
+newspaper: I read the daily newspaper every morning before work.
+
+next: The next meeting is scheduled for next Tuesday.
+
+nice: It was very nice of you to invite me to dinner.
+
+nickel: Nickel is a hard, silvery-white metal.
+
+nickname: His friends gave him the nickname 'Speedy' because he was a fast runner.
+
+niece: Her niece is studying medicine at university.
+
+night: The stars looked beautiful in the dark night sky.
+
+nightgown: She wore a comfortable silk nightgown to bed.
+
+nightingale: We heard the song of a nightingale in the garden late at night.
+
+nightmare: The whole experience was a complete nightmare from start to finish.
+
+nine: There are nine players on a baseball team.
+
+nineteen: She celebrated her nineteenth birthday last week.
+
+ninety: My grandfather is ninety years old and still very healthy.
+
+ninth: This is the ninth time I've tried to call him today.
+
+nitrogen: Nitrogen is the most abundant gas in the Earth's atmosphere.
+
+no: There is no food left in the fridge.
+
+No.: His house is at No. 42 on this street.
+
+nobility: The nobility played a prominent role in the royal court.
+
+noble: He made a noble sacrifice for the sake of his family.
+
+nobody: Nobody knows the answer to that question.
+
+nod: She gave a quick nod of agreement.
+
+noise: The loud noise from the street woke me up.
+
+noisy: The restaurant was very noisy and crowded.
+
+nominal: The company was sold for a nominal fee of one dollar.
+
+nominate: They decided to nominate him for the position of president.
+
+nomination: His nomination for the award was a great honor.
+
+none: None of the students passed the exam.
+

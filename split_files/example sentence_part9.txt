@@ -1,0 +1,500 @@
+dimensional: 3D movies are three-dimensional.
+
+diminish: The pain began to diminish after he took the medicine.
+
+dine: They decided to dine out at a fancy restaurant.
+
+dining-room: The family gathered in the dining-room for dinner.
+
+dingy: The hotel room was small and dingy.
+
+dinner: What are we having for dinner tonight?
+
+dip: I like to dip my bread into the soup.
+
+diploma: He received his diploma after graduating from university.
+
+diplomacy: The crisis was resolved through quiet diplomacy.
+
+diplomat: He worked as a diplomat in several different countries.
+
+diplomatic: The two countries are trying to restore diplomatic relations.
+
+direct: Is there a direct flight from New York to London?
+
+direction: I have no idea which direction we should be going in.
+
+directive: The manager issued a directive to all staff regarding safety procedures.
+
+directly: The new law will directly affect millions of people.
+
+director: The director of the film won an award at the festival.
+
+directory: I looked up his phone number in the directory.
+
+dirt: The child's clothes were covered in dirt after playing outside.
+
+dirty: Don't touch the clean walls with your dirty hands!
+
+disable: The injury disabled him for several months.
+
+disabled: The building has special access for disabled people.
+
+disadvantage: His lack of experience was a major disadvantage.
+
+disadvantageous: The current economic climate is disadvantageous for small businesses.
+
+disagree: I'm sorry, but I have to disagree with you on that point.
+
+disagreement: There was some disagreement among the committee members.
+
+disallow: The goal was disallowed because the player was offside.
+
+disappear: The sun disappeared behind the clouds.
+
+disappearance: The mysterious disappearance of the ship remains unsolved.
+
+disappoint: I'm sorry to disappoint you, but I can't come to the party.
+
+disappointed: She was disappointed that she didn't get the job.
+
+disappointment: To his great disappointment, the movie was already sold out.
+
+disapproval: Her parents showed their disapproval of her new boyfriend.
+
+disaster: The earthquake was a major disaster for the region.
+
+disastrous: The decision turned out to be disastrous for the company.
+
+disburse: The bank will disburse the loan once all documents are signed.
+
+disbursement: The disbursement of funds will begin next week.
+
+disc: I bought a new disc for my computer game.
+
+discard: Please discard any old magazines you no longer need.
+
+discern: It was difficult to discern any pattern in the data.
+
+discharge: The patient was discharged from the hospital after a week.
+
+disciplinary: The student faced disciplinary action for breaking the rules.
+
+discipline: Martial arts require a lot of discipline and practice.
+
+disclaim: The company disclaimed any responsibility for the accident.
+
+disclose: The investigation disclosed several irregularities in the accounts.
+
+discomfort: He felt some discomfort in his chest.
+
+discomfortable: The chair was very discomfortable to sit in.
+
+discontinue: The manufacturer decided to discontinue the product due to low sales.
+
+discount: Students get a 10% discount on all books.
+
+discourage: Don't let one failure discourage you from trying again.
+
+discourse: The professor gave a discourse on the history of philosophy.
+
+discover: The explorers discovered a hidden cave in the jungle.
+
+discovery: The discovery of fire changed human history forever.
+
+discreet: He made some discreet inquiries about the job.
+
+discreetly: She discreetly left the room so as not to disturb the meeting.
+
+discrepancy: There was a discrepancy between the two reports.
+
+discretion: I leave it to your discretion to decide what to do.
+
+discriminate: The distinction between the two species is very subtle.
+
+discrimination: Discrimination against women in the workplace is illegal.
+
+discuss: We need to discuss this matter in more detail.
+
+discussion: The discussion lasted for several hours.
+
+disdain: He looked at her with disdain.
+
+disease: Vaccines have helped to eradicate many diseases.
+
+disgrace: His behavior was a disgrace to his family.
+
+disgraceful: The treatment of the prisoners was disgraceful.
+
+disguise: He wore a wig and glasses as a disguise.
+
+disgust: The smell of the rotting food filled her with disgust.
+
+disgustful: The sight of the garbage on the beach was disgustful.
+
+dish: What is your favorite Italian dish?
+
+dishonorable: He was dismissed from the army for dishonorable conduct.
+
+dishonor: His actions brought dishonor to his name.
+
+disillusion: Many young people become disillusioned with politics.
+
+disinclined: I am disinclined to believe his story.
+
+disinfectant: Use a strong disinfectant to clean the bathroom.
+
+disintegration: The disintegration of the empire took place over several centuries.
+
+dislike: I have a strong dislike for spicy food.
+
+disloyal: He was accused of being disloyal to his country.
+
+disloyalty: Disloyalty among friends is very hurtful.
+
+dismal: The weather was dismal, with grey clouds and rain all day.
+
+dismay: To her dismay, she realized she had left her keys at home.
+
+dismiss: The manager decided to dismiss the employee for poor performance.
+
+dismissal: The dismissal of the coach came as a surprise to everyone.
+
+disobey: If you disobey the rules, you will be punished.
+
+disorder: The room was in a state of total disorder.
+
+disparity: There is a huge disparity between the rich and the poor.
+
+dispatch: The goods were dispatched from the warehouse yesterday.
+
+dispel: The news helped to dispel the rumors that had been circulating.
+
+dispense: The machine dispenses tickets automatically.
+
+disperse: The police used tear gas to disperse the crowd.
+
+displace: Many people were displaced by the flood.
+
+displacement: The displacement of the local population caused a major crisis.
+
+display: The museum has a beautiful display of ancient artifacts.
+
+displease: His rude behavior greatly displeased his parents.
+
+displeasure: She showed her displeasure by refusing to speak to anyone.
+
+disposal: Waste disposal is a major problem in big cities.
+
+dispose: Please dispose of your trash in the bins provided.
+
+disposed: He is well disposed towards the new proposal.
+
+disposition: She has a very cheerful disposition.
+
+dispute: The two neighbors are in a dispute over their property line.
+
+disregard: He showed a complete disregard for the safety rules.
+
+dissatisfaction: There is widespread dissatisfaction with the government's policies.
+
+dissatisfy: The poor service in the hotel dissatisfied many guests.
+
+dissimilar: The two brothers are very dissimilar in their interests.
+
+dissipate: The fog began to dissipate as the sun came out.
+
+dissolve: Sugar will dissolve in water.
+
+distance: What is the distance between New York and London?
+
+distant: He has a very distant relationship with his father.
+
+distillation: Distillation is a process used to purify water.
+
+distinct: There is a distinct possibility that it will rain later.
+
+distinction: Discrimination against any group is unacceptable.
+
+distinctly: I distinctly remember telling you about the meeting.
+
+distinguish: It's hard to distinguish between the two identical twins.
+
+distinguished: He is a distinguished scientist who has won many awards.
+
+distort: The media has been accused of distorting the truth.
+
+distortion: The audio was full of distortion, making it hard to hear.
+
+distract: Don't distract me while I'm trying to work.
+
+distraction: The noise from the street was a constant distraction.
+
+distress: The news of the accident caused great distress to the family.
+
+distribute: The organization distributes food and water to the flood victims.
+
+distribution: The distribution of wealth in the country is very unequal.
+
+distributor: He works as a distributor for a large electronics company.
+
+distributorship: He has a distributorship for a new brand of soft drinks.
+
+district: He represents our district in the national parliament.
+
+disturb: Please do not disturb the baby while he is sleeping.
+
+disturbance: There was a small disturbance at the protest.
+
+disunite: The issue threatened to disunite the whole community.
+
+disuse: The old factory has fallen into disuse over the years.
+
+ditch: The car slid off the road and into a ditch.
+
+ditto: The same applies to the other departments. Ditto for the sales team.
+
+dive: He decided to dive into the cold water.
+
+diver: The diver went down to a depth of thirty meters.
+
+diverge: The two roads diverge in a yellow wood.
+
+divergence: There is a wide divergence of opinion on this matter.
+
+diverse: New York is a very diverse city with people from all over the world.
+
+diversion: We had to take a diversion because the road was blocked.
+
+diversity: Cultural diversity is one of the strengths of the city.
+
+divert: The police had to divert traffic away from the accident scene.
+
+divide: The teacher divided the class into four groups.
+
+divine: The view from the top of the mountain was divine.
+
+division: The division of labor in the factory is very efficient.
+
+divorce: They decided to get a divorce after ten years of marriage.
+
+dizzy: I felt dizzy after spinning around too fast.
+
+do: What are you going to do this weekend?
+
+dock: The ship is currently in dock for repairs.
+
+doctor: The doctor prescribed some medicine for my cough.
+
+doctrine: The country's military doctrine is based on defense.
+
+document: Please sign this document and return it to me.
+
+documentary: I watched an interesting documentary about wildlife in Africa.
+
+documentation: You need to provide the necessary documentation for your visa application.
+
+dodge: He managed to dodge the ball just in time.
+
+dog: The dog was barking at the mailman.
+
+doggedly: He doggedly pursued his goals despite the difficulties.
+
+doll: The little girl was playing with her dolls.
+
+dollar: I have ten dollars in my wallet.
+
+domain: The new technology belongs to the public domain.
+
+dome: The cathedral has a magnificent golden dome.
+
+domestic: Most domestic flights leave from this terminal.
+
+dominant: The company has a dominant position in the market.
+
+dominate: The mountain dominates the landscape for miles around.
+
+donate: They decided to donate some money to the local charity.
+
+donation: The organization relies on private donations to function.
+
+donkey: The donkey was carrying a heavy load of wood.
+
+doom: The project was doomed to failure from the start.
+
+door: I forgot to lock the door when I left the house.
+
+doorway: A tall man was standing in the doorway.
+
+dormitory: He lives in a college dormitory with three other students.
+
+dose: The doctor told him to take one dose of medicine three times a day.
+
+dot: The map was covered in tiny dots showing the locations of the stores.
+
+double: The population of the town has doubled in the last decade.
+
+doubt: There is no doubt that he is the best player on the team.
+
+doubtful: It is doubtful whether the project will be finished on time.
+
+doubtless: Doubtless, there are many reasons for the current economic crisis.
+
+dough: She kneaded the dough for several minutes before letting it rise.
+
+dove: The white dove is a universal symbol of peace.
+
+down: He sat down on the bench to rest.
+
+downstairs: I left my keys on the table downstairs.
+
+downtown: We went downtown to do some holiday shopping.
+
+downward: The path leads downward toward the river.
+
+downwards: Prices have been trending downwards for the past few months.
+
+doze: He began to doze off during the long movie.
+
+dozen: I bought a dozen eggs at the grocery store.
+
+draft: I've written a first draft of the report, but it still needs a lot of work.
+
+drag: The child was dragging his heavy school bag along the ground.
+
+dragon: In many stories, the dragon is a powerful and dangerous creature.
+
+drain: The water in the sink won't drain away properly.
+
+drainage: Poor drainage in the area often leads to flooding after heavy rain.
+
+drama: She is studying drama at the local university.
+
+dramatic: There has been a dramatic increase in the number of tourists this year.
+
+dramatist: Shakespeare is considered the greatest dramatist in the English language.
+
+dramatize: The novel was later dramatized for television.
+
+drastic: The government is taking drastic measures to reduce pollution.
+
+draw: She used a pencil to draw a portrait of her friend.
+
+drawback: One of the main drawbacks of living in the city is the high cost of living.
+
+drawer: He kept his socks in the top drawer of the dresser.
+
+drawing: He showed us his drawings of local birds.
+
+dread: I dread the thought of having to give a speech in public.
+
+dreadful: The news of the accident was absolutely dreadful.
+
+dream: His dream is to one day become a professional musician.
+
+dreary: The weather was dreary and grey all day long.
+
+drench: A sudden downpour drenched us as we walked home.
+
+dress: She wore a beautiful blue dress to the wedding.
+
+dressing: I like to put oil and vinegar dressing on my salad.
+
+drift: The boat began to drift away from the shore.
+
+drill: The dentist used a small drill to fix the cavity.
+
+drink: Would you like something to drink?
+
+drip: I could hear the sound of water dripping from the faucet.
+
+drive: He is learning how to drive a car.
+
+driver: The bus driver greeted the passengers as they boarded.
+
+droop: The flowers began to droop because they hadn't been watered.
+
+drop: Be careful not to drop that fragile vase.
+
+dropout: He was a high school dropout who later became a successful businessman.
+
+drought: The severe drought led to widespread crop failure.
+
+drown: The loud music drowned out our conversation.
+
+drug: The doctor prescribed a new drug to treat his condition.
+
+drugstore: I need to go to the drugstore to get some aspirin.
+
+drum: He has been playing the drums in a band for three years.
+
+drunk: It is dangerous and illegal to drive while drunk.
+
+drunkard: He was known in the village as a hopeless drunkard.
+
+dry: The desert air is very dry.
+
+dubious: The accuracy of the report is highly dubious.
+
+duck: A family of ducks was swimming in the pond.
+
+due: The payment is due by the end of the month.
+
+duke: The Duke of Wellington is a famous figure in British history.
+
+dull: The lecture was so dull that half the students fell asleep.
+
+duly: The documents were duly signed and returned to the office.
+
+dumb: He was struck dumb by the shocking news.
+
+dummy: They used a crash-test dummy to study the safety of the new car.
+
+dump: It is illegal to dump trash in the forest.
+
+dumping: The company was accused of dumping toxic waste into the river.
+
+dung: The farmer used cow dung as fertilizer for his crops.
+
+dungeon: The prisoner was kept in a dark and damp dungeon.
+
+duplicate: Can you make a duplicate of this key for me?
+
+durable: This fabric is very durable and will last for many years.
+
+duration: The duration of the flight is approximately ten hours.
+
+during: I stayed with my grandparents during the summer holidays.
+
+dusk: The sky turned a beautiful shade of pink at dusk.
+
+dust: The old bookshelf was covered in a thick layer of dust.
+
+dustbin: Please put your empty bottles in the dustbin.
+
+dusty: The room was dusty and hadn't been cleaned in weeks.
+
+duty: It is your duty to inform the police if you see a crime.
+
+duty-free: I bought some perfume at the duty-free shop at the airport.
+
+dwarf: The huge skyscraper dwarfs all the other buildings in the city.
+
+dwell: Many rare species of birds dwell in this forest.
+
+dweller: City dwellers often complain about the noise and pollution.
+
+dwelling: The ancient dwellings were carved into the side of the cliff.
+
+dye: She decided to dye her hair bright red.
+
+dynamic: He is a dynamic leader who inspires his team.
+
+dynasty: The Ming Dynasty ruled China for nearly 300 years.
+
+each: Each student was given a copy of the book.
+
+eager: The children were eager for the holidays to begin.
+
+eagle: The eagle soared high above the mountains.
+

@@ -1,0 +1,500 @@
+alone: He prefers to work alone when dealing with complex problems.
+
+along: The team walked along the corridor to the meeting room.
+
+alongside: The new product will be launched alongside the existing line of products.
+
+aloud: The manager read the announcement aloud to the entire team.
+
+alphabet: Children learn the alphabet before they start reading words.
+
+also: This new software is fast and also easy to use.
+
+alter: We need to alter the design of the product to meet customer requirements.
+
+alternate: The team members alternate in leading the weekly meetings.
+
+alternation: The alternation of day and night affects the body’s biological clock.
+
+alternative: We have an alternative solution if the original plan fails.
+
+although: Although the project was challenging, we completed it ahead of schedule.
+
+altitude: The aircraft can fly at a maximum altitude of 40,000 feet.
+
+altogether: Altogether, there are 50 participants in the training workshop.
+
+aluminum: The office desk is made of lightweight aluminum alloy.
+
+always: She always arrives at the office 10 minutes early.
+
+A.M.: The meeting is scheduled to start at 9 A.M. tomorrow.
+
+amateur: He is an amateur photographer who takes photos in his spare time.
+
+amaze: The new feature of the software will amaze our customers.
+
+amazement: To our amazement, the product sold out within the first hour of launch.
+
+ambassador: The company’s ambassador will attend the international trade fair next month.
+
+ambient: The ambient temperature in the server room must be kept below 25 degrees Celsius.
+
+ambiguity: The contract has some ambiguity that needs to be clarified before signing.
+
+ambiguous: His ambiguous response left us unsure about his support for the plan.
+
+ambition: Her ambition is to become the CEO of the company in five years.
+
+ambitious: The company has set an ambitious target of increasing sales by 50% this year.
+
+ambulance: An ambulance was called immediately when the employee fainted at work.
+
+amend: The committee voted to amend the company’s constitution to include new policies.
+
+amendment: The amendment to the contract was approved by both parties.
+
+amends: He made amends for his mistake by working overtime to fix the problem.
+
+America: The company plans to open a new branch office in America next year.
+
+American: We are collaborating with an American firm on the new project.
+
+amiable: The new manager has an amiable personality and gets along well with everyone.
+
+amicable: The two companies reached an amicable settlement to resolve the dispute.
+
+amid: Amid the fierce competition, our company managed to maintain its market share.
+
+ammunition: The factory produces ammunition for military use.
+
+among: Among all the proposals, this one is the most feasible.
+
+amount: The total amount of the investment is $1 million.
+
+ampere: The electrical equipment requires a current of 5 amperes to operate properly.
+
+ample: We have ample time to prepare for the client presentation.
+
+amplification: The amplification of the signal ensures clear communication in remote areas.
+
+amplifier: This amplifier can enhance the sound quality of the audio system.
+
+amplify: The speaker used a microphone to amplify his voice to the audience.
+
+amuse: The funny video shared by a colleague amused everyone in the office.
+
+amusement: The employees visited an amusement park during the team-building activity.
+
+analogue: This old phone is an analogue device, unlike the modern smartphones.
+
+analogy: The teacher used a simple analogy to explain the complex technical concept.
+
+analysis: The data analysis shows that our product is popular among young customers.
+
+analytical: Her analytical skills help her solve problems quickly and effectively.
+
+analyze: We need to analyze the market trends before launching the new product.
+
+ancestor: His ancestor was a famous inventor who contributed to the development of the industry.
+
+anchor: The news anchor reported the latest updates on the economic situation.
+
+ancient: The museum displays ancient artifacts from thousands of years ago.
+
+and: The development team and the marketing team need to cooperate closely.
+
+anecdote: The CEO shared a funny anecdote about his early career during the speech.
+
+angel: She is like an angel who always helps her colleagues when they are in trouble.
+
+anger: His delay in submitting the report caused the manager’s anger.
+
+angle: We need to look at the problem from a different angle to find a solution.
+
+angry: The customer was angry about the delayed delivery of the ordered goods.
+
+angular: The new office building has a modern angular design that stands out in the city.
+
+animal: The company donates money to an organization that protects endangered animals.
+
+animate: The designer used software to animate the characters in the advertisement.
+
+animation: The animation industry has grown rapidly in recent years.
+
+ankle: She twisted her ankle while walking to work and had to take a day off.
+
+annex: The company plans to annex a small factory to expand its production capacity.
+
+anniversary: The company celebrated its 20th anniversary with a grand party.
+
+announce: The manager will announce the promotion list at the end of the month.
+
+announcement: The announcement about the new policy was posted on the company’s intranet.
+
+announcer: The radio announcer introduced the guest speaker for the program.
+
+annoy: The constant noise from the construction site annoys the office workers.
+
+annoyance: The slow internet speed is a major annoyance for the IT team.
+
+annual: The annual meeting will be held in the company’s headquarters next week.
+
+annually: The company reviews its performance annually to set new targets.
+
+another: Let’s discuss another approach to solve the technical problem.
+
+answer: Please answer the client’s questions clearly and professionally.
+
+ant: A group of ants was seen carrying food across the office floor.
+
+antagonism: The antagonism between the two teams affected the overall project efficiency.
+
+antagonist: The main antagonist in the story is a competitor who tries to sabotage the company.
+
+Antarctic: The research team went on an expedition to the Antarctic to study climate change.
+
+antibiotic: The doctor prescribed an antibiotic to treat his bacterial infection.
+
+antecedent: The antecedent of this problem can be traced back to the initial design phase.
+
+anticipate: We anticipate a high demand for the new product during the holiday season.
+
+anticipation: The team waited in anticipation for the client’s feedback on the proposal.
+
+antique: He collects antique watches as a hobby.
+
+antonym: The antonym of “fast” is “slow”.
+
+antonymous: The two words are antonymous, so they cannot be used interchangeably.
+
+anxiety: Her anxiety about the job interview made her stay up late the night before.
+
+anxious: The team is anxious to receive the client’s approval for the project.
+
+anxiously: We waited anxiously for the results of the market research.
+
+any: If you have any questions, please feel free to ask the team leader.
+
+anybody: Anybody who meets the requirements can apply for the position.
+
+anyhow: Anyhow, we need to finish the task before the deadline.
+
+anyone: Anyone who violates the company rules will be punished.
+
+anything: We are ready to do anything to ensure the success of the project.
+
+anyway: The plan is not perfect, but we have to proceed anyway.
+
+anywhere: You can work anywhere in the office as long as you complete your tasks.
+
+apart: The two departments are located in separate buildings apart from each other.
+
+apartment: The company provides a furnished apartment for its overseas employees.
+
+ape: The zookeeper showed the visitors a family of apes in the wildlife park.
+
+apologize: You should apologize to the client for the mistake in the contract.
+
+apology: He wrote a formal apology letter to the manager for his absence.
+
+apparatus: The laboratory is equipped with advanced scientific apparatus.
+
+apparent: It is apparent that the new policy has improved employee productivity.
+
+apparently: Apparently, the client is satisfied with our project proposal.
+
+appeal: The new product design has a strong appeal to young consumers.
+
+appealing: The job offer is appealing because of the high salary and flexible working hours.
+
+appear: A new problem seems to appear after we solved the previous one.
+
+appearance: The appearance of the product is as important as its quality.
+
+appendix: The appendix of the report contains detailed technical data.
+
+appetite: The busy work schedule has affected his appetite recently.
+
+applaud: The audience began to applaud after the successful presentation.
+
+applause: The speaker received a round of applause from the audience.
+
+apple: She keeps an apple on her desk to eat during the afternoon break.
+
+appliance: The store sells household appliances such as refrigerators and washing machines.
+
+applicable: This rule is applicable to all employees regardless of their position.
+
+applicant: There are over 100 applicants for the software engineer position.
+
+application: Please submit your job application before the end of this month.
+
+apply: You need to apply for a permit before using the company’s confidential data.
+
+appoint: The board of directors decided to appoint him as the new CTO.
+
+appointment: I have a meeting appointment with the client at 2 P.M. today.
+
+appreciable: There has been an appreciable improvement in the team’s performance.
+
+appreciably: The cost of raw materials has increased appreciably in the past year.
+
+appreciate: We appreciate your hard work and dedication to the project.
+
+appreciation: The company expressed its appreciation to the employees with a bonus.
+
+appreciative: The client was appreciative of our efforts to solve the problem.
+
+apprentice: He started as an apprentice in the workshop and later became a senior engineer.
+
+apprize: The manager apprized the team of the latest changes in the project plan.
+
+approach: We need to adopt a new approach to improve customer satisfaction.
+
+appropriate: It is appropriate to dress formally for the business dinner.
+
+approval: The project requires the manager’s approval before it can be implemented.
+
+approve: The board of directors will approve the budget for the next fiscal year.
+
+approximate: The approximate cost of the project is around $50,000.
+
+approximately: Approximately 80% of the employees participated in the training program.
+
+approximation: This is just an approximation; the exact figure will be released next week.
+
+April: The product launch is scheduled for April next year.
+
+apt: She is apt at learning new software skills quickly.
+
+aptitude: The test is designed to assess the candidate’s aptitude for problem-solving.
+
+Arab: He is an Arab businessman who specializes in international trade.
+
+Arabian: The Arabian Desert is one of the largest deserts in the world.
+
+Arabic: The company hired a translator who is fluent in Arabic and English.
+
+arbitrary: The manager’s arbitrary decision to change the timeline upset the team.
+
+arbitrate: The third-party organization was invited to arbitrate the dispute between the two companies.
+
+arbitration: The two parties agreed to resolve the conflict through arbitration.
+
+arbitrator: The arbitrator made a fair decision that satisfied both sides.
+
+arc: The rainbow forms a beautiful arc across the sky after the rain.
+
+arch: The entrance of the building has a large stone arch with carvings on it.
+
+archaeologist: The archaeologist discovered ancient ruins during the excavation.
+
+archaeology: He majored in archaeology and now works for a museum.
+
+architect: The architect designed the company’s new headquarters building.
+
+architecture: The architecture of the office building combines modern and traditional styles.
+
+arctic: The arctic fox has a thick fur coat to survive in the cold climate.
+
+ardent: He is an ardent supporter of the company’s environmental protection initiatives.
+
+arduous: The team completed the arduous task of migrating the data to the new system.
+
+area: The sales area of the product covers the entire northern region of the country.
+
+arena: The company sponsored a sports event held in the city’s main arena.
+
+argue: The two team members began to argue about the best way to solve the problem.
+
+argument: The argument between the colleagues was resolved by the team leader.
+
+arise: A new opportunity has arisen for the company to expand into the European market.
+
+aristocracy: The country’s former aristocracy has lost most of its power over time.
+
+aristocrat: The novel tells the story of an aristocrat who falls in love with a commoner.
+
+aristocratic: She has an aristocratic manner that makes her stand out in the crowd.
+
+arithmetic: Basic arithmetic skills are required for this accounting position.
+
+arm: He broke his arm in a car accident and had to take a long leave from work.
+
+arms: The factory produces arms for the country’s military forces.
+
+armchair: There is a comfortable armchair in the corner of the office for employees to rest.
+
+armour: The soldier wore a suit of armour to protect himself in battle.
+
+army: The company’s sales team is like an army that wins market share from competitors.
+
+around: There are many restaurants around the office building for lunch breaks.
+
+arouse: The new policy has aroused a lot of discussion among the employees.
+
+arrange: The secretary will arrange a meeting between the manager and the client.
+
+arrangement: The arrangement of the meeting room was completed before the guests arrived.
+
+array: The store displayed an array of electronic products for customers to choose from.
+
+arrear: The client is in arrear with the payment for the project completed last month.
+
+arrest: The police made an arrest after the theft in the company’s warehouse.
+
+arrival: The arrival of the new equipment will speed up the production process.
+
+arrive: The client is expected to arrive at the office at 10 A.M. tomorrow.
+
+arrogance: His arrogance makes it difficult for him to work with other team members.
+
+arrogant: The arrogant employee refused to listen to his colleagues’ suggestions.
+
+arrogantly: He spoke arrogantly about his achievements, which annoyed everyone.
+
+arrow: The arrow on the map points to the location of the company’s new branch.
+
+art: The office is decorated with works of art created by local artists.
+
+article: She published an article about software development in a technical magazine.
+
+artificial: The company uses artificial intelligence to improve customer service.
+
+artist: The graphic artist designed the company’s new logo.
+
+artistic: Her artistic talent helps her create attractive marketing materials.
+
+as: As a senior engineer, he is responsible for leading the development team.
+
+ascend: The elevator began to ascend to the top floor of the office building.
+
+ascertain: We need to ascertain the root cause of the system failure.
+
+ascribe: The team ascribed the project’s success to the joint efforts of everyone.
+
+ASEAN: The company has established business relationships with several ASEAN countries.
+
+ash: The ash from the volcano affected air traffic in the region.
+
+ashamed: He felt ashamed for making a mistake that caused a delay in the project.
+
+ashore: The sailors finally came ashore after a long voyage at sea.
+
+ashtray: Please use the ashtray provided instead of throwing cigarette butts on the floor.
+
+Asia: The company’s main market is in Asia, especially in China and Japan.
+
+Asian: The Asian market has shown strong growth potential in recent years.
+
+aside: She pulled the manager aside to discuss a confidential matter.
+
+ask: You can ask the IT support team for help if you have computer problems.
+
+asleep: He fell asleep during the long and boring meeting.
+
+aspect: We need to consider every aspect of the project before making a decision.
+
+aspirin: She took an aspirin to relieve her headache and continue working.
+
+ass: He made an ass of himself by arriving late and forgetting his presentation materials.
+
+assassinate: The historical novel tells the story of a plot to assassinate a king.
+
+assassination: The assassination of the leader shocked the entire country.
+
+assassinator: The police are still searching for the assassinator of the politician.
+
+assault: The security guard prevented an assault on a female employee in the parking lot.
+
+assemble: The team will assemble at the office at 8 A.M. tomorrow for the business trip.
+
+assembly: The assembly line in the factory can produce 500 products per hour.
+
+assert: He asserted that the new method would improve the efficiency of the team.
+
+assertion: His assertion was supported by data from the market research.
+
+assess: The manager will assess the employees’ performance at the end of the year.
+
+assessment: The performance assessment results will be announced next week.
+
+assign: The project manager will assign tasks to each member of the team.
+
+assignment: She stayed up late to finish her assignment for the training course.
+
+assist: The intern will assist the marketing team with the promotional campaign.
+
+assistance: If you need any assistance, please contact the customer service hotline.
+
+assistant: She works as a personal assistant to the CEO of the company.
+
+associate: He is an associate professor who specializes in computer science.
+
+associated: The brand is closely associated with high quality and reliability.
+
+association: He is a member of the local business association.
+
+associative: The software uses an associative memory to store and retrieve data.
+
+assorted: The company sells assorted snacks in its office pantry.
+
+assortment: The gift box contains an assortment of chocolates and candies.
+
+assume: We cannot assume that the client will approve the proposal without any changes.
+
+assumption: The project plan is based on the assumption that the budget will be approved.
+
+assurance: The company provides a quality assurance guarantee for all its products.
+
+assure: The manager assured the client that the project would be completed on time.
+
+assured: With the new technology, we are assured of better performance of the product.
+
+astonish: The rapid growth of the company astonished the industry experts.
+
+astonishment: To our astonishment, the small startup won the industry award.
+
+astound: The new product’s performance will astound even the most demanding customers.
+
+astray: The project went astray because of poor management and lack of communication.
+
+astronaut: The astronaut shared his experience of space travel during the lecture.
+
+astronomer: The astronomer discovered a new planet using a powerful telescope.
+
+astronomical: The cost of developing the new technology is astronomical and beyond our budget.
+
+astronomy: He has a keen interest in astronomy and often reads books about space.
+
+at: The meeting will be held at the company’s conference room.
+
+athlete: The company sponsored a famous athlete to promote its sports products.
+
+athletic: The company has an athletic club where employees can play basketball and tennis.
+
+Atlantic: The cargo ship sailed across the Atlantic Ocean to deliver the goods.
+
+atlas: The office has a world atlas for employees to check geographical locations.
+
+atmosphere: The friendly atmosphere in the office makes employees feel comfortable.
+
+atmospheric: The atmospheric pressure affects the performance of the equipment.
+
+atom: The atom is the basic unit of a chemical element.
+
+atomic: The nuclear power plant uses atomic energy to generate electricity.
+
+attach: Please attach your resume and cover letter to the job application.
+
+attachment: The email attachment contains the detailed project plan.
+
+attack: The company’s website suffered a cyber attack last night.
+
+attain: The company worked hard to attain its goal of becoming a market leader.
+
+attempt: His first attempt to solve the technical problem failed, but he tried again.
+
+attend: All managers are required to attend the quarterly business review meeting.
+

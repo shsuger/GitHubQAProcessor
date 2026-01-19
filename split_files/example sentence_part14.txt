@@ -1,0 +1,500 @@
+hail: The crops were damaged by a heavy fall of hail.
+
+hair: She has long, curly dark hair.
+
+haircut: He went to the barber shop to get a haircut.
+
+hairdress: She is studying hairdressing at the local vocational college.
+
+hairpin: She used a hairpin to keep her hair in place.
+
+hairy: The dog has a very hairy coat.
+
+half: We'll be there in half an hour.
+
+halfway: We are halfway through the project.
+
+hall: The meeting was held in the main assembly hall.
+
+hallmark: Quality and reliability are the hallmarks of our brand.
+
+halt: The bus came to a sudden halt at the traffic lights.
+
+halve: The company hopes to halve its carbon emissions by 2030.
+
+ham: We had a delicious ham sandwich for lunch.
+
+hamburger: Would you like some fries with your hamburger?
+
+hammer: He used a hammer to drive the nail into the wood.
+
+hamper: The heavy rain hampered the rescue operations.
+
+hand: He held the small bird carefully in his hand.
+
+handbag: She kept her phone and wallet in her handbag.
+
+handbook: The employee handbook explains all the company's rules.
+
+handful: He took a handful of nuts from the bowl.
+
+handicap: The loss of his leg was a major handicap, but he never gave up.
+
+handicapped: The building has special access for handicapped visitors.
+
+handkerchief: He wiped his eyes with a clean white handkerchief.
+
+handle: She turned the handle and opened the door.
+
+handling: The careful handling of the fragile artifacts is essential.
+
+handsome: He is a very handsome and charismatic young man.
+
+handout: The teacher distributed handouts at the beginning of the lesson.
+
+handwriting: His handwriting is very neat and easy to read.
+
+handy: The tool kit is very handy for small repairs around the house.
+
+hang: He decided to hang the painting in the living room.
+
+hanger: Please put your coat on a hanger in the closet.
+
+haphazard: The books were arranged in a haphazard fashion on the shelf.
+
+happen: Accidents can happen at any time, so be careful.
+
+happening: There are many exciting happenings in the city this weekend.
+
+happily: They have been happily married for over forty years.
+
+happiness: Money cannot buy happiness.
+
+happy: We are very happy with the results of the project.
+
+harbor: The fishing boats returned to the harbor as the sun went down.
+
+hard: Diamonds are the hardest natural substance on Earth.
+
+harden: The concrete will take several hours to harden.
+
+hardly: I could hardly believe the news when I first heard it.
+
+hardness: The hardness of the metal makes it suitable for construction.
+
+hardship: Many families faced severe hardship during the economic crisis.
+
+hardware: The computer hardware needs to be updated to run the new software.
+
+hard-working: He is a very hard-working and dedicated employee.
+
+hardy: The sheep are a hardy breed that can survive in harsh conditions.
+
+hare: We saw a hare running across the field.
+
+harm: He wouldn't do anything to harm his children.
+
+harmful: Too much sunlight can be harmful to your skin.
+
+harmless: The spider is completely harmless and won't bite you.
+
+harmonious: The team worked together in a very harmonious way.
+
+harmony: They live in perfect harmony with each other.
+
+harness: The scientist is trying to find a way to harness solar energy.
+
+harsh: The winter weather in this region can be very harsh.
+
+harvest: The farmers are busy with the wheat harvest.
+
+haste: The letter was written in great haste.
+
+hasten: The medicine helped to hasten his recovery.
+
+hasty: Don't make any hasty decisions; think about it first.
+
+hat: He took his hat off as he entered the house.
+
+hatch: The eggs will take about three weeks to hatch.
+
+hate: I hate the smell of cigarette smoke.
+
+hateful: His actions were truly hateful and cruel.
+
+hatred: The two groups have a long history of mutual hatred.
+
+haughty: She gave him a haughty look and walked away.
+
+haul: The fisherman had a large haul of fish this morning.
+
+haunt: The memory of the accident continued to haunt him for years.
+
+have: I have two sisters and one brother.
+
+hawk: A hawk circled high in the sky looking for prey.
+
+hay: The farmer is busy making hay while the sun shines.
+
+hazard: Smoking is a serious health hazard.
+
+he: He is a very talented and dedicated young artist.
+
+head: He turned his head to see who was calling him.
+
+headache: I have a terrible headache and need some aspirin.
+
+heading: The chapter headings are listed at the beginning of the book.
+
+headline: The newspaper's headline announced the end of the war.
+
+headlong: He rushed headlong into the new project without thinking.
+
+headmaster: The headmaster welcomed the new students at the assembly.
+
+headquarters: The company's headquarters are located in New York.
+
+heal: The wound took several weeks to heal completely.
+
+health: Regular exercise is essential for good health.
+
+healthy: She has a very healthy diet and exercises every day.
+
+heap: There was a large heap of sand in the backyard.
+
+hear: I could hear the sound of the ocean from my bedroom.
+
+hearing: The elderly man's hearing is not as good as it used to be.
+
+heart: He gave her a beautiful heart-shaped necklace.
+
+heartfelt: She expressed her heartfelt thanks to everyone who helped her.
+
+hearth: The family gathered around the warm hearth on the cold evening.
+
+heartily: They all laughed heartily at the funny joke.
+
+hearty: We received a hearty welcome from our old friends.
+
+heat: The heat of the sun was intense in the middle of the day.
+
+heated: The two candidates had a heated debate on television.
+
+heating: The central heating system was broken, and the house was very cold.
+
+heave: The sailors heaved the rope to bring the boat closer to the dock.
+
+heaven: The stars looked like diamonds scattered across the heaven.
+
+heavily: It has been raining heavily all morning.
+
+heavy: The suitcase was much heavier than I expected.
+
+hedge: The garden is surrounded by a neatly trimmed hedge.
+
+hedgehog: We saw a small hedgehog scuttling across the lawn.
+
+heed: You should heed your doctor's advice and get more rest.
+
+heel: The heel of her shoe broke as she was walking.
+
+height: What is the exact height of the Eiffel Tower?
+
+heighten: The tension in the room began to heighten as we waited for the news.
+
+heir: Prince Charles is the heir to the British throne.
+
+heiress: The young heiress inherited a vast fortune from her father.
+
+helicopter: We took a helicopter tour of the Grand Canyon.
+
+hell: The war was absolute hell for everyone involved.
+
+hello: She said hello to me as she walked past.
+
+helmet: Always wear a helmet when you're riding a bike.
+
+help: Could you help me with this heavy box, please?
+
+helpful: The information you provided was very helpful.
+
+helpless: The baby felt small and helpless in the large crib.
+
+hemisphere: China is located in the Northern Hemisphere.
+
+hen: The hen laid five eggs in the coop.
+
+hence: The company's profits have dropped; hence the need for budget cuts.
+
+henceforth: Henceforth, all employees must wear their ID badges at all times.
+
+her: I gave her the book that she had been looking for.
+
+herald: The first snowdrops are often seen as the heralds of spring.
+
+herb: Basil and rosemary are popular herbs used in cooking.
+
+herbal: She enjoys drinking herbal tea in the evenings.
+
+herd: A herd of elephants was moving across the savanna.
+
+here: I've been waiting here for over an hour.
+
+hereafter: The new regulations will apply to all employees hereafter.
+
+hereby: I hereby declare that the information provided is correct.
+
+herein: The terms and conditions mentioned herein are binding.
+
+hereinafter: The company, hereinafter referred to as 'the Client', agrees to pay the fees.
+
+hereof: The parties hereof agree to resolve any disputes through arbitration.
+
+hereto: The documents attached hereto provide further details about the project.
+
+herewith: I enclose a copy of the contract herewith for your signature.
+
+hero: The firefighter was hailed as a hero for saving the family.
+
+heroic: He made a heroic effort to rescue the trapped passengers.
+
+heroine: The story's heroine is a brave young woman who fights for justice.
+
+herself: She decided to fix the broken fence herself.
+
+hesitant: He was hesitant to accept the job offer because of the long commute.
+
+hesitate: Please don't hesitate to call me if you have any questions.
+
+hesitation: After some hesitation, she finally agreed to join us.
+
+hey: Hey! Look where you're going!
+
+hi: Hi! How have you been lately?
+
+hide: The children love to play hide and seek in the garden.
+
+hideous: The monster in the movie was absolutely hideous.
+
+high: The bird flew high up in the sky.
+
+highland: The Scottish Highlands are known for their beautiful scenery.
+
+highly: He is a highly skilled surgeon who has performed many successful operations.
+
+highway: We took the highway to get to the city faster.
+
+hijack: The group planned to hijack the plane and fly it to a different country.
+
+hijacker: The hijackers were eventually captured by the police.
+
+hike: We went for a long hike in the mountains on Sunday.
+
+hill: The house is located on top of a steep hill.
+
+hillside: Flowers were blooming all along the hillside.
+
+him: I haven't seen him since last week.
+
+himself: He decided to finish the project himself.
+
+hind: The dog was injured in its hind leg.
+
+hinder: The heavy snow hindered our progress.
+
+hinterland: The port serves a large agricultural hinterland.
+
+hindrance: Poor health can be a major hindrance to success.
+
+hinge: The door squeaks because the hinges need oiling.
+
+hint: He gave her a small hint about his plans.
+
+hip: She fell and broke her hip.
+
+hire: They decided to hire a car for their holiday.
+
+his: I found his keys on the kitchen table.
+
+hiss: The snake let out a long hiss as we approached.
+
+historian: The historian spent years researching the life of the ancient king.
+
+historic: The signing of the peace treaty was a historic event.
+
+historical: She loves reading historical novels set in the 19th century.
+
+history: He has a degree in modern European history.
+
+hit: The ball hit the window and broke the glass.
+
+hitchhike: He decided to hitchhike across the country during his summer break.
+
+hitherto: The details of the project had hitherto remained a secret.
+
+hoarse: His voice was hoarse after shouting all afternoon.
+
+hobby: Gardening is a very popular hobby among retirees.
+
+hoe: The farmer was busy using a hoe to remove weeds from the field.
+
+hoist: They used a crane to hoist the heavy steel beams into place.
+
+hold: Can you hold this bag for a second?
+
+holder: The candle was placed in a decorative holder.
+
+holding: The company has significant holdings in the telecommunications industry.
+
+hold-up: There was a hold-up on the highway due to an accident.
+
+hole: The rabbit disappeared into a hole in the ground.
+
+holiday: We are going to Italy for our summer holiday.
+
+hollow: The trunk of the old tree was completely hollow.
+
+holy: The Ganges is a holy river for many people in India.
+
+home: I'm going home after work.
+
+homeless: The organization provides food and shelter for the homeless.
+
+homely: The small cottage had a very homely and comfortable feel.
+
+homesick: She felt very homesick during her first week at university.
+
+homework: Have you finished your math homework yet?
+
+homogenous: The population of the small island is quite homogenous.
+
+honest: He is an honest man who always tells the truth.
+
+honesty: Honesty is the best policy.
+
+honey: I like to put a spoonful of honey in my tea.
+
+honeymoon: They went to Hawaii for their honeymoon.
+
+honor: It is a great honor to be invited to this ceremony.
+
+honorable: He served his country in an honorable manner for many years.
+
+hook: Please hang your coat on the hook by the door.
+
+hop: The bird began to hop across the lawn looking for worms.
+
+hope: I hope that the weather will be fine for our picnic.
+
+hopeful: The initial results of the clinical trial are very hopeful.
+
+hopefully: Hopefully, we will finish the project by the end of the week.
+
+hopeless: The situation seemed hopeless, but they refused to give up.
+
+horizon: The sun disappeared below the horizon.
+
+horizontal: Draw a horizontal line across the middle of the page.
+
+horn: The car driver honked his horn to warn the pedestrians.
+
+horrible: The smell in the room was absolutely horrible.
+
+horrify: The news of the disaster horrified the whole world.
+
+horror: She let out a scream of horror when she saw the spider.
+
+horse: He is learning how to ride a horse.
+
+horsepower: The car's engine has over three hundred horsepower.
+
+hose: He used a garden hose to water the flowers.
+
+hospital: The injured passengers were taken to the nearest hospital.
+
+hospitable: The local people were very hospitable and welcoming.
+
+hospitality: Thank you for your warm hospitality during our stay.
+
+host: The host of the party greeted all the guests at the door.
+
+hostage: The kidnappers held the businessman as a hostage for three days.
+
+hostel: We stayed in a youth hostel during our trip across Europe.
+
+hostess: The hostess of the show was very charming and engaging.
+
+hostile: The two countries have a hostile relationship with each other.
+
+hot: The weather was very hot and humid all week.
+
+hotdog: Would you like some mustard on your hotdog?
+
+hotel: We booked a room at a small luxury hotel in the city center.
+
+hotelling: Hotelling services have improved significantly in this region.
+
+hour: The flight to London takes about seven hours.
+
+hound: The paparazzi continued to hound the celebrity everywhere she went.
+
+house: They are planning to build a new house next year.
+
+household: Many households now have high-speed internet access.
+
+housekeeper: She works as a housekeeper for a wealthy family.
+
+housewife: She is a busy housewife who takes care of three children.
+
+housework: He helps his parents with the housework on the weekends.
+
+hover: The helicopter began to hover over the accident scene.
+
+how: How do you spell your last name?
+
+however: He worked hard; however, he didn't pass the exam.
+
+howl: The wind began to howl through the trees.
+
+hug: They greeted each other with a warm hug.
+
+huge: The company made a huge profit this year.
+
+hull: The hull of the ship was painted bright red.
+
+hum: I could hear the constant hum of the air conditioner.
+
+human: It is only human to make mistakes sometimes.
+
+humane: The organization is dedicated to the humane treatment of animals.
+
+humanism: The philosophy of humanism places great value on human potential.
+
+humanitarian: The Red Cross provides humanitarian aid to victims of war.
+
+humanity: Crime against humanity is a serious international offense.
+
+humble: Despite his success, he remained a humble and modest man.
+
+humid: The weather in tropical regions is often very hot and humid.
+
+humidity: The high humidity made the heat feel even more intense.
+
+humiliate: He didn't mean to humiliate her in front of her colleagues.
+
+humiliation: She felt a sense of utter humiliation after the public mistake.
+
+humor: He has a great sense of humor and always makes us laugh.
+
+humorous: The movie was very humorous and had the audience roaring with laughter.
+
+hundred: There were several hundred people at the concert.
+
+hundredth: This is the hundredth time I've tried to call him today.
+
+hunger: The organization is working to eliminate world hunger.
+
+hungry: I'm so hungry I could eat a horse!
+
+hunt: They went to the forest to hunt for deer.
+

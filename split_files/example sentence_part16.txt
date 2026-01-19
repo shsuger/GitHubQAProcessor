@@ -1,0 +1,500 @@
+insane: His plan for a floating city was considered absolutely insane.
+
+insect: Ants and bees are examples of social insects.
+
+insert: Please insert the coin into the machine.
+
+insertion: The insertion of the key into the lock was difficult.
+
+inside: I found my keys inside the kitchen drawer.
+
+insider: The journalist received information from a government insider.
+
+insight: The book provides a fascinating insight into the life of the famous artist.
+
+insignificant: The difference between the two results was insignificant.
+
+insist: She insisted on paying for her own meal.
+
+insistent: The persistent ringing of the phone was very annoying.
+
+insofar: Insofar as I know, the project is on schedule.
+
+insolvent: The company was declared insolvent and forced to close.
+
+inspect: The health official came to inspect the restaurant's kitchen.
+
+inspection: The car needs a thorough safety inspection before it can be sold.
+
+inspector: The food inspector found several health violations at the factory.
+
+inspiration: She gets her inspiration for her paintings from nature.
+
+inspire: His brave actions inspired everyone in the community.
+
+instable: The political situation in the region remains highly instable.
+
+install: We decided to install a new security system in our house.
+
+installation: The installation of the new software took several hours.
+
+installment: They decided to pay for the car in monthly installments.
+
+instance: Can you give me an instance of what you mean?
+
+instant: The response to the emergency was instant.
+
+instantly: I recognized him instantly, even though we hadn't seen each other for years.
+
+instead: We decided to go to the beach instead of the mountains.
+
+instinct: The bird's instinct told it to fly south for the winter.
+
+instinctive: Her reaction to the danger was purely instinctive.
+
+institute: He works as a researcher at a scientific institute in London.
+
+institution: Marriage is a fundamental social institution.
+
+instruct: The teacher instructed the students to open their books to page fifty.
+
+instruction: Please read the instructions carefully before assembling the furniture.
+
+instructive: The workshop was very instructive and helpful for our career development.
+
+instructor: He works as a swimming instructor at the local sports center.
+
+instrument: The surgeon used several specialized instruments during the operation.
+
+instrumental: He was instrumental in organizing the local music festival.
+
+insufficient: The supply of food was insufficient for the large number of refugees.
+
+insulate: The house is well insulated to keep the heat inside during winter.
+
+insulation: We need to improve the insulation in the attic.
+
+insult: He didn't mean to insult her with his joke.
+
+insurance: Do you have travel insurance for your trip to Europe?
+
+insure: It is important to insure your house against fire and theft.
+
+intangible: The company's greatest asset is its intangible reputation.
+
+integral: Good communication is an integral part of any successful relationship.
+
+integrate: The program aims to integrate new immigrants into the local community.
+
+integration: The economic integration of the region is progressing steadily.
+
+integrity: He is a man of high integrity and honesty.
+
+intellect: Einstein was a man of extraordinary intellect and vision.
+
+intellectual: She enjoys intellectual discussions about philosophy and art.
+
+intelligence: The new software uses artificial intelligence to solve complex problems.
+
+intelligent: She is a very intelligent and hard-working student.
+
+intend: We intend to go to France for our holidays next year.
+
+intense: The heat from the sun was intense in the middle of the day.
+
+intensity: The intensity of the storm caught everyone by surprise.
+
+intensive: The students are taking an intensive English course this summer.
+
+intent: He was intent on finishing the project before the deadline.
+
+intention: I have no intention of leaving the company.
+
+intentional: The police believe that the fire was intentional.
+
+interact: Children need to learn how to interact with others from a young age.
+
+interaction: The interaction between the two species is complex and interesting.
+
+intercourse: International intercourse is essential for global peace and cooperation.
+
+interest: He has a great interest in ancient history.
+
+interested: Are you interested in joining our music club?
+
+interesting: I found the documentary about space exploration very interesting.
+
+interface: The user interface of the new app is very simple and easy to use.
+
+interfere: Don't let your personal problems interfere with your work.
+
+interference: The radio signal was interrupted by constant interference.
+
+interior: The interior of the cathedral was decorated with beautiful mosaics.
+
+intermediate: She is currently taking an intermediate level English class.
+
+internal: The company is facing several internal management problems.
+
+international: The Olympics is a major international sports event.
+
+internationalization: The internationalization of the brand was very successful.
+
+internationalize: The university is trying to internationalize its curriculum.
+
+interpret: It is difficult to interpret the meaning of these ancient symbols.
+
+interpretation: The play is open to many different interpretations.
+
+interpreter: He works as an interpreter for the UN in Geneva.
+
+interrupt: I'm sorry to interrupt, but there is a phone call for you.
+
+interruption: The meeting went on for three hours without any interruption.
+
+interval: There will be a twenty-minute interval between the two acts of the play.
+
+intervene: The government had to intervene to resolve the crisis.
+
+interview: She has a job interview tomorrow morning.
+
+intimate: They have a very intimate and close friendship.
+
+intimation: He gave no intimation of his plans to resign.
+
+into: He walked into the room and sat down.
+
+intonation: English intonation can be quite difficult for some learners.
+
+introduce: Let me introduce you to my best friend, Sarah.
+
+introduction: The book provides a clear introduction to the history of art.
+
+introductory: The college offers several introductory courses for new students.
+
+intrude: I'm sorry to intrude on your privacy.
+
+inundate: The office was inundated with phone calls after the news broke.
+
+invade: The army prepared to invade the neighboring country.
+
+invader: The local people fought bravely to repel the invaders.
+
+invalid: The contract was declared invalid because it hadn't been signed properly.
+
+invalidate: The new evidence could invalidate the previous court ruling.
+
+invaluable: The experience I gained during the internship was invaluable.
+
+invariably: He is invariably late for our meetings.
+
+invasion: The invasion of Normandy was a turning point in the war.
+
+invent: Bell is famous for inventing the telephone.
+
+invention: The invention of the internet has changed the world forever.
+
+inventor: Edison was a prolific inventor with over a thousand patents.
+
+inverse: There is an inverse relationship between price and demand.
+
+inversely: The strength of the signal is inversely proportional to the distance.
+
+invest: They decided to invest their savings in the stock market.
+
+investigate: The police are investigating the cause of the fire.
+
+investigation: A thorough investigation into the matter is currently underway.
+
+investment: The project requires a significant financial investment.
+
+invisible: Bacteria are invisible to the naked eye.
+
+invitation: I received an invitation to their wedding next month.
+
+invite: They decided to invite all their friends to the party.
+
+invoice: Please send us the invoice for the goods as soon as possible.
+
+involve: The job involves a lot of travel around the country.
+
+involved: The situation is much more involved than we first thought.
+
+involvement: His involvement in the project was essential for its success.
+
+inward: She took a deep inward breath to calm herself down.
+
+inwards: The door opens inwards.
+
+Ireland: Dublin is the capital city of Ireland.
+
+Irish: He loves traditional Irish music and dancing.
+
+iron: The bridge was built using high-quality structural iron.
+
+ironical: It is ironical that the fire station burned down.
+
+irony: The irony of the situation was not lost on anyone.
+
+irregular: He has been suffering from an irregular heartbeat.
+
+irregularity: The audit revealed several financial irregularities in the accounts.
+
+irresistible: The smell of fresh coffee was completely irresistible.
+
+irrespective: All students are welcome to apply, irrespective of their background.
+
+irrevocable: The decision was final and irrevocable.
+
+irrigate: Farmers use water from the river to irrigate their crops.
+
+irrigation: The irrigation system was broken, and the crops were starting to die.
+
+irritate: The smoke from the fire began to irritate his eyes.
+
+irritation: The constant noise from the construction site was a source of great irritation.
+
+Islam: Islam is one of the world's major religions.
+
+island: We spent our summer vacation on a beautiful Greek island.
+
+isolate: The scientists managed to isolate the gene responsible for the disease.
+
+isolation: The remote village lived in total isolation from the rest of the world.
+
+issue: The company decided to issue a new set of guidelines.
+
+it: It is raining outside.
+
+Italian: We had a delicious Italian meal last night.
+
+Italy: Italy is famous for its rich history and beautiful art.
+
+itch: My skin began to itch after I touched the plant.
+
+item: The store sells a variety of household items.
+
+itemize: The bill itemizes all the charges for the services provided.
+
+its: The cat was washing its paws.
+
+itself: The problem will eventually resolve itself.
+
+ivory: The keys of the old piano were made of real ivory.
+
+jack: He used a car jack to lift the vehicle and change the tire.
+
+jacket: He wore a smart blue jacket to the meeting.
+
+jail: He was sent to jail for three years.
+
+jam: Traffic was stuck in a massive jam for hours.
+
+January: January is the first month of the year.
+
+Japan: Tokyo is the capital city of Japan.
+
+Japanese: She is studying Japanese language and culture at university.
+
+jar: I bought a large jar of honey at the market.
+
+jaw: He was punched in the jaw during the fight.
+
+jazz: They went to a jazz club on Saturday night.
+
+jealousy: His success was met with a lot of jealousy from his colleagues.
+
+jealous: He was jealous of his friend's new car.
+
+jeans: He wore a pair of blue jeans and a T-shirt.
+
+jelly: The kids love to eat peanut butter and jelly sandwiches.
+
+jeep: They took a jeep tour across the desert.
+
+jeopardize: The new project could jeopardize the company's future.
+
+jerk: He gave the rope a sharp jerk to loosen the knot.
+
+Jesus: Jesus is the central figure of Christianity.
+
+jet: The fighter jet streaked across the sky.
+
+jettison: The crew had to jettison some of the cargo to lighten the ship.
+
+Jew: He is a prominent member of the local Jewish community.
+
+jewel: The crown was set with hundreds of precious jewels.
+
+jewelry: She wore some expensive gold jewelry to the gala.
+
+Jewish: The Jewish holiday of Hanukkah is celebrated in December.
+
+jingle: The coins in his pocket began to jingle as he walked.
+
+job: She is currently looking for a full-time job.
+
+jobless: The government is trying to help the jobless find new work.
+
+jog: He goes for a jog every morning before breakfast.
+
+join: Would you like to join us for dinner tonight?
+
+joint: The two companies announced a joint venture.
+
+joke: He told a very funny joke that had everyone laughing.
+
+jot: Let me jot down your phone number before I forget it.
+
+journal: She publishes her research in an international scientific journal.
+
+journalism: He has a degree in journalism and works for a national newspaper.
+
+journalist: The journalist spent months investigating the corruption scandal.
+
+journey: The journey across the desert took several weeks.
+
+joy: She cried tears of joy when she heard the news.
+
+joyful: It was a joyful occasion for the entire family.
+
+judge: The judge sentenced the suspect to five years in prison.
+
+judgement: In my judgement, we should wait for more information before deciding.
+
+jug: She poured some milk from the jug into her glass.
+
+juice: I'd like a glass of fresh orange juice, please.
+
+juicy: The steak was tender and juicy.
+
+July: The summer holidays usually begin in July.
+
+jumble: The books were in a complete jumble on the shelf.
+
+jump: He managed to jump over the small creek.
+
+junction: The accident took place at a busy road junction.
+
+June: Midsummer's Day is in June.
+
+jungle: The explorers set off into the deep jungle.
+
+junior: He is a junior partner in a law firm.
+
+Jupiter: Jupiter is the largest planet in our solar system.
+
+jury: The jury found the defendant not guilty.
+
+just: He has just arrived at the airport.
+
+justice: The organization is dedicated to fighting for social justice.
+
+justifiable: His actions were considered justifiable under the circumstances.
+
+justification: There is no justification for such cruel behavior.
+
+justify: How can you justify spending so much money on a car?
+
+juvenile: Juvenile delinquency is a major social problem in some areas.
+
+kangaroo: The kangaroo is a famous Australian animal.
+
+keen: He has a keen interest in modern art.
+
+keep: Please keep the door closed.
+
+keeper: He works as a zookeeper at the local zoo.
+
+keeping: His actions were in keeping with his principles.
+
+kernel: The kernel of the argument was very simple.
+
+kerosene: They used a kerosene lamp to light the room.
+
+kettle: I'll put the kettle on and make some tea.
+
+key: I lost my house keys yesterday.
+
+keyboard: The keyboard has several broken keys.
+
+keyhole: He peeped through the keyhole to see who was inside.
+
+kick: He gave the ball a powerful kick.
+
+kid: He is just a kid and doesn't know any better.
+
+kidnap: The businessman was kidnapped and held for ransom.
+
+kidnaper: The kidnappers were eventually caught by the police.
+
+kidney: The kidneys are responsible for filtering the blood.
+
+kill: The storm killed several people and caused a lot of damage.
+
+killer: The police are still searching for the killer.
+
+kilo: I bought two kilos of apples at the market.
+
+kilogram: One kilogram is equal to 1,000 grams.
+
+kilometer: The nearest town is about ten kilometers away.
+
+kilowatt: The price of electricity is calculated per kilowatt hour.
+
+kind: It was very kind of you to help me with my bags.
+
+kindergarten: The children love playing with blocks in kindergarten.
+
+kindle: The speaker's words kindled a sense of hope in the audience.
+
+kindly: He kindly offered to drive me to the airport.
+
+kindness: Thank you for your kindness and hospitality during my stay.
+
+king: The king ruled over a vast and powerful territory.
+
+kingdom: The lion is often called the king of the animal kingdom.
+
+kiss: She gave her son a quick kiss before he left for school.
+
+kit: The nurse carried a first-aid kit in her bag.
+
+kitchen: The family gathered in the kitchen for a late-night snack.
+
+kite: The children spent the afternoon flying their kites in the park.
+
+knee: He fell and scraped his knee on the concrete.
+
+kneel: They had to kneel on the floor to look under the bed.
+
+knife: He used a sharp knife to cut the bread.
+
+knight: In many stories, the brave knight rescues the princess.
+
+knit: She decided to knit a warm sweater for the winter.
+
+knob: He turned the brass knob and opened the heavy door.
+
+knock: I heard a knock at the door, but nobody was there.
+
+knot: He tied a tight knot in the rope to secure the boat.
+
+know: I don't know how to solve this math problem.
+
+know-how: The project requires a lot of technical know-how.
+
+knowledge: Books are a great source of knowledge and information.
+
+knowledgeable: He is very knowledgeable about ancient history.
+
+lab: The scientists are conducting experiments in the research lab.
+
+label: Please read the label carefully before using the product.
+
+laboratory: The laboratory is equipped with the latest scientific technology.
+
+labor: The construction of the bridge required years of hard labor.
+
+laborer: Many skilled laborers were involved in building the new stadium.
+

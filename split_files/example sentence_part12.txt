@@ -1,0 +1,500 @@
+fellowship: She was awarded a research fellowship at the university.
+
+female: The female bird has less colorful feathers than the male.
+
+feminine: She has a very feminine style of dressing.
+
+fence: He painted the garden fence white.
+
+ferocious: The lion is a ferocious predator.
+
+ferrous: Iron and steel are ferrous metals.
+
+ferry: We took the ferry across the river.
+
+ferryboat: The ferryboat carries passengers and cars to the island.
+
+fertile: The valley has very fertile soil.
+
+fertilizer: The farmer used chemical fertilizer to improve the crop yield.
+
+fervent: He is a fervent supporter of the environmental movement.
+
+festival: The local film festival attracts filmmakers from all over the world.
+
+fetch: Can you fetch me a glass of water, please?
+
+feud: The two families have been in a feud for decades.
+
+feudal: The feudal system was the dominant social structure in medieval Europe.
+
+feudalism: Feudalism was replaced by capitalism over time.
+
+fever: She has a high fever and needs to rest.
+
+few: Few people attended the meeting due to the rain.
+
+fiber: Cotton is a natural fiber used to make clothes.
+
+fiction: The story was a work of fiction, not based on real events.
+
+fictional: The characters in the book are entirely fictional.
+
+fiddle: He played a lively tune on his fiddle.
+
+field: He is a leading expert in the field of medicine.
+
+fierce: The two teams have a fierce rivalry.
+
+fiery: She has a fiery temper and gets angry easily.
+
+fifteen: There are fifteen students in the class.
+
+fifth: This is the fifth time I've called him today.
+
+fifty: My father is fifty years old.
+
+fig: Dried figs make a healthy and delicious snack.
+
+fight: The soldiers fought bravely to defend their country.
+
+fighter: He was a fearless fighter who never gave up.
+
+figurative: The phrase 'a heart of gold' is a figurative expression.
+
+figure: The unemployment figures have dropped significantly this year.
+
+file: Please keep all the documents in this file.
+
+filing: The filing system in the office is very organized.
+
+fill: She filled the glass with water.
+
+filling: I like chocolate filling in my cakes.
+
+film: We went to see a new film at the cinema last night.
+
+filter: You should filter the water before drinking it.
+
+filth: The house was full of filth and needed a good cleaning.
+
+filthy: Don't touch the clean sofa with your filthy hands!
+
+final: The final exam is scheduled for next Monday.
+
+finalize: We need to finalize the plans for the wedding.
+
+finally: After hours of waiting, the train finally arrived.
+
+finance: The government is struggling to manage its finances.
+
+financial: The company is facing serious financial difficulties.
+
+financier: He is a wealthy financier who lives in New York.
+
+financing: The project is still looking for reliable financing.
+
+find: I can't find my keys anywhere.
+
+finding: The survey's findings were very surprising.
+
+fine: The weather was fine and sunny all day.
+
+finger: She wore a beautiful gold ring on her finger.
+
+finish: I'll finish my homework before dinner.
+
+finished: The finished product was ready for shipping.
+
+finite: The Earth's resources are finite and must be used carefully.
+
+fir: The mountain side was covered in tall fir trees.
+
+fire: The firefighters worked hard to put out the fire.
+
+fire-engine: A red fire-engine rushed past with its sirens blaring.
+
+fireman: He wanted to be a fireman when he was a little boy.
+
+fireplace: We sat by the fireplace to keep warm.
+
+firework: The sky was filled with colorful fireworks on New Year's Eve.
+
+firm: He gave me a firm handshake.
+
+firmly: She firmly believes that everyone should be treated fairly.
+
+firmness: The coach is known for his firmness and discipline.
+
+first: January is the first month of the year.
+
+first-rate: The hotel offers first-rate service to all its guests.
+
+fish: We went to the lake to fish for trout.
+
+fisherman: The old fisherman spent the whole day at sea.
+
+fishery: Fisheries are an important part of the local economy.
+
+fission: Nuclear fission is used to generate large amounts of energy.
+
+fist: He clenched his fists in anger.
+
+fit: These shoes don't fit me very well.
+
+fitness: Regular exercise is important for physical fitness.
+
+fitting: It was a fitting end to a wonderful day.
+
+five: There are five people in my family.
+
+fix: Can you fix my broken watch?
+
+fixed: The price of the tickets is fixed and cannot be negotiated.
+
+fixture: The bathroom fixtures are all new.
+
+flag: The national flag was flying at half-mast.
+
+flake: Snow flakes began to fall from the sky.
+
+flame: The flames of the fire could be seen from miles away.
+
+flank: The soldiers moved to the enemy's left flank.
+
+flannel: He wore a soft flannel shirt on the cold morning.
+
+flap: The bird began to flap its wings.
+
+flare: The signal flare lit up the night sky.
+
+flash: A bright flash of lightning lit up the room.
+
+flask: He filled his flask with hot tea before heading out.
+
+flat: The Earth is not flat; it's a sphere.
+
+flatten: The strong winds flattened the wheat in the fields.
+
+flatter: I was flattered by your kind words.
+
+flavor: I love the flavor of fresh strawberries.
+
+flaw: There is a small flaw in the design of the new car.
+
+flee: Many people were forced to flee their homes during the war.
+
+fleece: The sheep has a thick white fleece.
+
+fleet: The fishing fleet returned to the harbor with a large catch.
+
+flesh: The flesh of the peach was sweet and juicy.
+
+fleshy: The plant has thick, fleshy leaves.
+
+flexibility: Yoga can help to improve your flexibility.
+
+flexible: Our schedule is flexible, so we can change it if needed.
+
+flicker: The candle flame began to flicker in the breeze.
+
+flight: The flight to London takes about seven hours.
+
+fling: He flung the ball across the yard.
+
+float: Wood will float on water.
+
+flock: A flock of birds flew overhead.
+
+flood: The heavy rain caused severe floods in the valley.
+
+floor: I dropped my keys on the floor.
+
+flour: Flour is used to make bread and cakes.
+
+flourish: The arts and sciences flourished during the Renaissance.
+
+flow: The river flows through the center of the city.
+
+flower: The garden is full of beautiful spring flowers.
+
+flu: He missed a week of school because of the flu.
+
+fluctuate: The price of gold fluctuates daily.
+
+fluctuation: Investors are worried about the constant fluctuations in the stock market.
+
+fluency: She achieved a high level of fluency in Spanish.
+
+fluent: He is fluent in several different languages.
+
+fluid: The situation is still very fluid and could change at any time.
+
+flush: His face flushed with embarrassment.
+
+flute: She has been playing the flute since she was ten years old.
+
+flutter: The butterfly's wings began to flutter.
+
+flux: The industry is in a state of flux at the moment.
+
+fly: Birds and airplanes can both fly.
+
+foam: The sea was covered in white foam.
+
+fob: The price quoted was $500 FOB Shanghai.
+
+focus: We need to focus on our goals if we want to succeed.
+
+fodder: The farmer is harvesting hay to use as cattle fodder.
+
+foe: They were once friends, but now they are bitter foes.
+
+fog: The fog was so thick that we couldn't see the road.
+
+foggy: It was a cold and foggy morning in London.
+
+fold: She folded the letter and put it in her pocket.
+
+foliage: The forest was filled with lush green foliage.
+
+folk: I love listening to traditional folk music.
+
+follow: Please follow me to the meeting room.
+
+follower: The politician has a large number of followers on social media.
+
+following: The following day, we decided to visit the museum.
+
+follow-up: We are planning a follow-up meeting for next week.
+
+fond: She is very fond of her young niece.
+
+food: Everyone needs food and water to survive.
+
+foodstuff: The country imports a large amount of essential foodstuffs.
+
+fool: Don't be a fool; think before you act.
+
+foolish: It was a foolish mistake to make.
+
+foot: I walked all the way home on foot.
+
+football: We played a game of football in the park.
+
+footing: The company is on a very firm financial footing.
+
+footstep: I heard footsteps coming down the hall.
+
+for: I bought this gift for my mother.
+
+forbid: The law forbids smoking in public places.
+
+forbidden: Smoking is strictly forbidden inside the building.
+
+force: The wind was blowing with great force.
+
+fore: The ship's crew stood at the fore.
+
+forecast: The weather forecast for tomorrow is sunny.
+
+forefather: He honored his forefathers by following their traditions.
+
+forefinger: She pointed to the map with her forefinger.
+
+foregoing: The foregoing statement was based on careful research.
+
+forehead: He wiped the sweat from his forehead.
+
+foreign: He speaks three foreign languages fluently.
+
+foreigner: The city attracts many foreigners every year.
+
+foreman: The foreman is responsible for supervising the factory workers.
+
+foremost: He is one of the foremost experts in his field.
+
+foresee: Nobody could have foreseen the disaster.
+
+forest: The forest is home to many different species of animals.
+
+forestry: Forestry is a major industry in this part of the country.
+
+foretell: The ancient scrolls were said to foretell the future.
+
+forever: I will love you forever.
+
+forge: He was accused of trying to forge a check.
+
+forgery: The painting was found to be a clever forgery.
+
+forget: Don't forget to lock the door when you leave.
+
+forgive: She found it hard to forgive him for what he had done.
+
+fork: We used a fork and knife to eat our dinner.
+
+form: Please fill out this application form.
+
+formal: The wedding was a very formal occasion.
+
+formality: There are several formalities that need to be completed before you can start the job.
+
+format: The book is available in several different formats.
+
+formation: The formation of the mountains took millions of years.
+
+former: The former president attended the opening ceremony.
+
+formerly: He was formerly a high school teacher.
+
+formidable: The team faced a formidable opponent in the final.
+
+formula: Scientists are working on a new formula for the drug.
+
+formulate: The government is trying to formulate a new economic policy.
+
+formulation: The formulation of the theory took several years.
+
+forsake: He decided to forsake his old life and start anew.
+
+fort: The ancient fort was built to protect the harbor.
+
+forth: They set forth on their journey at dawn.
+
+forthcoming: We are waiting for the forthcoming announcement.
+
+fortitude: She showed great fortitude in the face of adversity.
+
+fortnight: We are going on holiday for a fortnight.
+
+fortress: The city was once a powerful fortress.
+
+fortuity: The discovery was a lucky fortuity.
+
+fortunate: I am very fortunate to have such wonderful friends.
+
+fortunately: Fortunately, nobody was hurt in the accident.
+
+fortune: She made a fortune in the real estate market.
+
+forty: My mother is forty years old.
+
+forum: The conference provided a forum for discussion among experts.
+
+forward: Please forward my mail to my new address.
+
+fossil: The museum has a large collection of dinosaur fossils.
+
+foster: The government is trying to foster economic growth.
+
+foul: The air was filled with a foul smell.
+
+found: The University was founded in 1850.
+
+foundation: The rumor has no foundation in fact.
+
+founder: He is the founder of a successful tech company.
+
+fountain: The kids were playing in the fountain in the square.
+
+four: There are four seasons in a year.
+
+fourteen: She is fourteen years old.
+
+fourth: This is the fourth time I've tried to call him.
+
+fowl: Ducks and chickens are examples of domestic fowl.
+
+fox: The fox is known for its cunning behavior.
+
+fraction: One-third is a common fraction.
+
+fractional: The difference between the two results was only fractional.
+
+fracture: He suffered a fracture of his left arm in the accident.
+
+fragile: The antique vase is very fragile, so handle it with care.
+
+fragment: The archaeologists found several fragments of ancient pottery.
+
+fragrance: The fragrance of the flowers filled the room.
+
+fragrant: The garden is full of fragrant roses.
+
+frail: The old lady was very frail and needed help walking.
+
+frame: The picture was in a beautiful gold frame.
+
+framework: The project needs a clear conceptual framework.
+
+France: Paris is the capital of France.
+
+franchise: The company decided to sell its franchise to a local businessman.
+
+frank: To be frank with you, I don't like your new haircut.
+
+frankly: Frankly, I think you're making a big mistake.
+
+free: Is the water here free of charge?
+
+freedom: Everyone has the right to freedom of speech.
+
+freely: You can speak freely here; nobody will judge you.
+
+freeze: The water in the lake froze during the winter.
+
+freezer: Please put the ice cream in the freezer.
+
+freight: The goods were shipped by sea freight.
+
+French: She is studying French literature at university.
+
+Frenchman: The Frenchman spoke with a beautiful accent.
+
+frequency: The frequency of the radio waves was very high.
+
+frequent: He is a frequent visitor to the library.
+
+frequently: We visit our grandparents quite frequently.
+
+fresh: The bakery sells fresh bread every morning.
+
+freshen: He went to the bathroom to freshen up.
+
+freshman: The freshmen were excited about their first day at college.
+
+fret: Don't fret about the exam; you've studied hard.
+
+friction: Friction between the two countries led to a major conflict.
+
+Friday: We are going to the cinema on Friday.
+
+friend: She is my best friend.
+
+friendly: The local people were very friendly and welcoming.
+
+friendship: Our friendship has lasted for over twenty years.
+
+fright: She gave me a real fright when she jumped out from behind the door.
+
+frighten: The loud noise frightened the little boy.
+
+frightening: It was a frightening experience that I'll never forget.
+
+frightful: The weather was absolutely frightful all weekend.
+
+fringe: He lived on the fringe of the city.
+
+frock: The little girl wore a pretty pink frock.
+
+frog: We saw a green frog sitting on a lily pad.
+
+from: I received a letter from my brother.
+
+front: He parked his car in front of the house.
+
+frontier: The explorers set off to reach the new frontier.
+
+frost: There was a heavy frost on the ground this morning.
+

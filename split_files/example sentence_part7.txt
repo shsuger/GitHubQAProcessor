@@ -1,0 +1,500 @@
+consumer: Consumer confidence is at an all-time high.
+
+consumption: Excessive alcohol consumption can damage your liver.
+
+contact: Please contact me if you have any further questions.
+
+contain: This bottle contains one liter of water.
+
+container: Food should be stored in an airtight container.
+
+contemplate: He sat by the lake to contemplate his future.
+
+contemplation: She was lost in contemplation of the beautiful scenery.
+
+contemporary: Contemporary art can be difficult to understand.
+
+contempt: He showed utter contempt for the rules.
+
+contemptuous: She gave a contemptuous laugh at his suggestion.
+
+content: I am content with what I have.
+
+contest: She plans to enter the singing contest.
+
+contestant: The contestants were nervous before the show started.
+
+context: You need to look at the sentence in context to understand its meaning.
+
+contextual: Contextual clues can help you guess the meaning of unknown words.
+
+continent: Asia is the largest continent in the world.
+
+continental: We enjoyed a continental breakfast at the hotel.
+
+contingency: We need to have a contingency plan in case things go wrong.
+
+continual: The continual interruptions made it impossible to work.
+
+continuance: We hope for the continuance of peace in the region.
+
+continue: Please continue with your story.
+
+continuous: The brain needs a continuous supply of oxygen.
+
+continuously: The machine has been running continuously for three days.
+
+contract: He signed a three-year contract with the team.
+
+contracted: She contracted a rare disease while traveling abroad.
+
+contractual: They have a contractual obligation to finish the work on time.
+
+contradict: Don't contradict your mother!
+
+contradiction: There is a contradiction between what he says and what he does.
+
+contrary: Contrary to popular belief, cats can be very affectionate.
+
+contrast: The contrast between the rich and the poor is striking.
+
+contribute: Everyone should contribute to the discussion.
+
+contribution: His contribution to science was immense.
+
+control: She lost control of the car on the icy road.
+
+controversy: The new law has caused a lot of controversy.
+
+controversial: Abortion is a highly controversial topic.
+
+convenience: Please call me at your earliest convenience.
+
+convenient: Is 3 PM a convenient time for you?
+
+convention: He defies convention by wearing mismatched socks.
+
+conventional: Conventional medicine failed to cure his illness.
+
+conversant: He is conversant in several languages.
+
+conversation: We had a long conversation about politics.
+
+converse: They sat in the corner and conversed in low voices.
+
+conversely: Poor health is accepted as an attribute of old age. Conversely, youth is associated with health.
+
+conversion: The conversion of the old factory into apartments took two years.
+
+convert: They plan to convert the garage into a guest room.
+
+convey: Please convey my best wishes to your family.
+
+conveyance: The conveyance of goods by sea is cheaper than by air.
+
+convict: The convict escaped from prison last night.
+
+conviction: He has a criminal record with several convictions.
+
+convince: I tried to convince him to stay, but he wouldn't listen.
+
+convinced: I am convinced that he is innocent.
+
+cook: My father is a very good cook.
+
+cooker: Put the rice in the slow cooker and let it simmer.
+
+cool: Keep your cool and don't panic.
+
+coolness: The coolness of the breeze was refreshing.
+
+cooperate: We need to cooperate with each other to finish the project.
+
+cooperation: Thank you for your cooperation.
+
+cooperative: He was very cooperative during the investigation.
+
+coordinate: We need to coordinate our schedules.
+
+coordination: Good hand-eye coordination is essential for tennis players.
+
+cope: She struggled to cope with the loss of her husband.
+
+copper: Copper pipes are commonly used in plumbing.
+
+copy: Please make a copy of this document for me.
+
+cord: He tied the bundle with a piece of cord.
+
+cordial: We received a cordial welcome from our hosts.
+
+cordially: You are cordially invited to our wedding.
+
+core: The core of the problem is a lack of funding.
+
+cork: He pulled the cork out of the wine bottle.
+
+corn: The farmer grows corn and wheat.
+
+corner: There is a small shop on the corner of the street.
+
+corporate: The company's corporate headquarters are located in New York.
+
+corporation: The corporation announced its quarterly earnings yesterday.
+
+correct: Please ensure that all the information on the form is correct.
+
+correction: I made a few corrections to the first draft of my essay.
+
+correctly: He answered almost all the questions correctly.
+
+correlate: Scientists are trying to correlate the increase in temperature with rising sea levels.
+
+correlation: There is a strong correlation between poverty and crime.
+
+correspond: The two maps do not correspond; there are many differences.
+
+correspondence: The library holds a large collection of personal correspondence from the 19th century.
+
+correspondent: He worked as a foreign correspondent in Paris for several years.
+
+corresponding: The prices are listed with their corresponding item numbers.
+
+corridor: He walked down the long corridor to the principal's office.
+
+corrode: Acid can corrode metal surfaces over time.
+
+corrosion: The bridge was closed due to severe corrosion of its steel supports.
+
+corrupt: The corrupt politician was eventually caught and sent to prison.
+
+corruption: The government is launching a campaign to fight corruption in the police force.
+
+cosmetics: She spent a lot of money on expensive cosmetics.
+
+cosmic: The cosmic rays from space are filtered by the Earth's atmosphere.
+
+cosmos: Philosophers have long pondered the mysteries of the cosmos.
+
+cosmopolitan: London is a very cosmopolitan city with people from all over the world.
+
+cost: The cost of living in the city is much higher than in the country.
+
+costly: The repair work turned out to be more costly than we had anticipated.
+
+cottage: They spent their summer vacation in a small cottage by the sea.
+
+cotton: This shirt is made of 100% organic cotton.
+
+couch: She sat on the couch and watched television for hours.
+
+cough: He has a persistent cough that won't go away.
+
+council: The city council voted to build a new park.
+
+counsel: The lawyer provided excellent legal counsel to his client.
+
+counsellor: She works as a guidance counsellor at the local high school.
+
+count: The children are learning how to count to one hundred.
+
+countable: In grammar, 'apple' is a countable noun, while 'water' is uncountable.
+
+countenance: He maintained a calm countenance even in the face of danger.
+
+counter: I left my keys on the kitchen counter.
+
+countermand: The general decided to countermand the order to attack.
+
+countermeasure: The company implemented new security countermeasures to prevent cyber attacks.
+
+counter-offer: We made a counter-offer that was slightly higher than their initial bid.
+
+counterpart: The prime minister met with his German counterpart in Berlin.
+
+countersign: The manager needs to countersign the check before it can be cashed.
+
+countersignature: The document requires a countersignature from a witness.
+
+countless: There are countless stars in the galaxy.
+
+country: France is a beautiful country with a rich history.
+
+countryside: They love hiking in the English countryside.
+
+county: The county fair is the biggest event of the year in this area.
+
+couple: A young couple was sitting on the bench holding hands.
+
+courage: It takes a lot of courage to stand up for what you believe in.
+
+courageous: The courageous firefighters rescued the family from the burning building.
+
+course: I am taking an intensive English course this summer.
+
+court: The case will be heard in court next month.
+
+courteous: The hotel staff was very courteous and helpful.
+
+courtesy: It is common courtesy to say 'please' and 'thank you'.
+
+courtyard: The rooms overlook a beautiful inner courtyard with a fountain.
+
+cousin: My cousin is coming to stay with us for the holidays.
+
+cover: Snow began to cover the ground as the temperature dropped.
+
+coverage: The live TV coverage of the Olympics reached millions of viewers.
+
+covering: The report provided a comprehensive covering of the economic situation.
+
+cow: The farmer milked the cows early in the morning.
+
+coward: He was called a coward because he refused to fight.
+
+cowardly: The cowardly attack on innocent civilians was condemned by the world.
+
+crab: We went to the beach to catch crabs.
+
+crack: A small crack appeared in the window after the ball hit it.
+
+cracker: Cheese and crackers make a great snack.
+
+cradle: The mother gently rocked the cradle to put the baby to sleep.
+
+craft: She is learning the craft of traditional pottery.
+
+craftsman: The jewelry was handmade by a skilled craftsman.
+
+craftsmanship: The quality of the craftsmanship in this furniture is outstanding.
+
+crane: A huge crane was used to lift the heavy steel beams.
+
+crash: The computer system crashed due to a sudden power failure.
+
+crate: We packed the oranges into wooden crates for shipping.
+
+crave: Pregnant women often crave strange combinations of food.
+
+crawl: The baby is just starting to crawl.
+
+craziness: The craziness of the holiday shopping season is almost over.
+
+crazy: She is crazy about classical music.
+
+cream: Do you want cream and sugar in your coffee?
+
+creamy: The soup has a delicious creamy texture.
+
+create: Our goal is to create more jobs for young people.
+
+creation: The fashion designer's latest creation was a stunning evening gown.
+
+creative: Children need a creative environment where they can express themselves.
+
+creature: The deep ocean is home to many strange and wonderful creatures.
+
+credit: The bank will only give you a loan if you have a good credit rating.
+
+creditworthy: The bank considers the company to be highly creditworthy.
+
+creditworthiness: An assessment of your creditworthiness is necessary before the mortgage is approved.
+
+creek: The kids spent the afternoon playing in the creek.
+
+creep: I saw a spider creep across the floor.
+
+crew: The flight crew prepared the cabin for takeoff.
+
+cricket: We spent the whole afternoon playing cricket in the park.
+
+crime: The police are determined to solve the crime.
+
+criminal: The criminal was sentenced to ten years in prison.
+
+crimson: The sunset painted the sky in shades of crimson and gold.
+
+cripple: The war crippled the country's economy for decades.
+
+crisis: The world is facing a major economic crisis.
+
+crisp: The autumn air was crisp and cold.
+
+critic: He is a well-known film critic for a national newspaper.
+
+critical: The patient is in critical condition following the surgery.
+
+criticism: The new policy has met with a lot of criticism from the public.
+
+criticize: It's easy to criticize others, but much harder to do it better.
+
+crook: He used a shepherd's crook to pull the sheep back.
+
+crooked: The picture on the wall is slightly crooked.
+
+crop: The main crop grown in this region is wheat.
+
+cross: We used a bridge to cross the river.
+
+crossing: There is a pedestrian crossing in front of the school.
+
+crossroads: We reached a crossroads and didn't know which way to turn.
+
+crouch: The cat began to crouch low in the grass, ready to pounce.
+
+crow: A large black crow sat on the fence.
+
+crowd: A large crowd gathered in the square to hear the speech.
+
+crown: The king wore a heavy gold crown set with jewels.
+
+crude: The crude oil is transported to the refinery by pipeline.
+
+cruel: It is cruel to keep animals in such small cages.
+
+cruelty: The animal rights group is fighting against animal cruelty.
+
+cruise: They went on a luxury cruise around the Mediterranean.
+
+crumb: The birds were picking up crumbs from the floor.
+
+crumble: The old walls are starting to crumble.
+
+crush: Be careful not to crush the boxes when you stack them.
+
+crust: The Earth's crust is made up of several large plates.
+
+crutch: After breaking his leg, he had to walk on crutches for weeks.
+
+cry: The baby started to cry as soon as his mother left the room.
+
+crystal: The chandelier was made of hundreds of tiny crystals.
+
+cube: Ice cubes are used to cool down drinks.
+
+cubic: The container has a capacity of ten cubic meters.
+
+cubism: Picasso was one of the pioneers of cubism.
+
+cuckoo: The cuckoo lays its eggs in the nests of other birds.
+
+cucumber: I like to put cucumber slices in my salad.
+
+cultivate: Farmers cultivate the land to grow crops.
+
+cultivation: The cultivation of rice requires a lot of water.
+
+cultural: The city has a wide variety of cultural attractions.
+
+culture: Each country has its own unique culture and traditions.
+
+cunning: The fox is known for its cunning and cleverness.
+
+cup: Would you like a cup of tea?
+
+cupboard: The dishes are kept in the kitchen cupboard.
+
+curb: The government is trying to curb inflation.
+
+cure: There is currently no known cure for the common cold.
+
+curiosity: Children are full of curiosity about the world around them.
+
+curious: I'm curious to know what happens at the end of the movie.
+
+curl: She has beautiful natural curls.
+
+curly: He has short, curly hair.
+
+currency: The euro is the common currency for many European countries.
+
+current: The current situation in the country is very unstable.
+
+currently: She is currently working on a new book.
+
+curse: In the story, the witch put a curse on the prince.
+
+curtail: Due to budget cuts, the school had to curtail several programs.
+
+curtain: She pulled the curtains shut to block out the sunlight.
+
+curve: The road curves sharply to the left.
+
+cushion: The soft cushions on the sofa were very comfortable.
+
+custody: The suspect was taken into police custody.
+
+custom: It is the custom in this country to take off your shoes before entering a house.
+
+customary: It is customary to exchange gifts during the holiday season.
+
+customer: The customer complained about the poor service in the restaurant.
+
+customs: We had to go through customs when we arrived at the airport.
+
+cut: I cut my finger while I was chopping vegetables.
+
+cutlery: The silver cutlery was polished for the dinner party.
+
+cutter: He used a wire cutter to snip the cable.
+
+cutting: The cutting wind blew straight through my thin jacket.
+
+cycle: The life cycle of a butterfly is fascinating to study.
+
+cyclist: The race attracted professional cyclists from all over the world.
+
+dad: My dad taught me how to ride a bike.
+
+dagger: The assassin used a small dagger to complete the task.
+
+daily: I read the daily newspaper every morning.
+
+dainty: The cake was decorated with dainty sugar flowers.
+
+dairy: Dairy products like milk and cheese are rich in calcium.
+
+dam: A large dam was built to generate hydroelectric power.
+
+damage: The storm caused extensive damage to the roof of the house.
+
+damn: The politician was quick to damn the new proposals.
+
+damp: The clothes are still a bit damp from the rain.
+
+dance: We went to a dance club on Saturday night.
+
+dancer: She has been a professional dancer since she was eighteen.
+
+danger: The sign warned of the danger of falling rocks.
+
+dangerous: It is dangerous to drive in heavy fog.
+
+Danish: He loves Danish pastries for breakfast.
+
+Denmark: Denmark is known for its high quality of life.
+
+dare: I dare you to jump into the cold water.
+
+daring: It was a daring escape from the high-security prison.
+
+dark: It was getting dark, so we decided to head home.
+
+darken: The sky began to darken as the storm approached.
+
+darkness: The cat disappeared into the darkness of the night.
+
+darling: Goodnight, darling, sleep well.
+
+dart: The lizard darted under a rock when it saw us.
+
+dash: He made a dash for the bus but missed it.
+
+data: We need more data before we can draw a conclusion.
+
+date: What is today's date?
+
+dating: They have been dating for six months now.
+
+daughter: They have two sons and one daughter.
+
